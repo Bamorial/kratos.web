@@ -1,0 +1,245 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/b70ca294-3c39-4d80-8db5-86f0d2af160d";
+const imgHitomiOkushimaLefUrVkc2E0Unsplash1 = `${assetPathPrefix}/760cb.png`;
+const imgVector = `${assetPathPrefix}/a9866.svg`;
+const imgVector1 = `${assetPathPrefix}/66a74.svg`;
+const imgFrame219 = `${assetPathPrefix}/a6d2c.svg`;
+const imgFrame658 = `${assetPathPrefix}/64933.svg`;
+const imgSeparator = `${assetPathPrefix}/1911b.svg`;
+const imgSocialIcons = `${assetPathPrefix}/65c27.svg`;
+const imgSocialIcons1 = `${assetPathPrefix}/7a13a.svg`;
+const imgSocialIcons2 = `${assetPathPrefix}/507bc.svg`;
+
+export default function DesktopBreakpointV3Haftungsausschluss() {
+  return (
+    <div className="bg-white content-stretch flex flex-col gap-[160px] items-center px-[360px] relative size-full" data-node-id="2001:3100" data-name="DesktopBreakpoint-V3-Haftungsausschluss">
+      <div className="bg-white content-stretch flex flex-col gap-[80px] items-center relative shrink-0 w-full" data-node-id="2001:3101" data-name="MAIN">
+        <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="2001:3102" data-name="HERO">
+          <div className="h-[66.649px] overflow-clip relative shrink-0 w-full" data-node-id="2001:3103" data-name="NAV">
+            <div className="absolute h-[21.476px] left-0 top-[22.59px] w-[99.637px]" data-node-id="2001:3104" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+            </div>
+            <div className="-translate-x-1/2 absolute h-[15px] left-1/2 top-[26px] w-[232px]" data-node-id="2001:3105">
+              <div className="[word-break:break-word] absolute content-stretch flex font-['Satoshi:Medium'] gap-[20px] items-center justify-center leading-none left-0 not-italic text-[#3c4d3a] text-[16px] text-center top-0 tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:3106">
+                <p className="relative shrink-0" data-node-id="2001:3107">
+                  Services
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:3108">
+                  Kontakt
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:3109">
+                  Blog
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:3110">
+                  About
+                </p>
+              </div>
+            </div>
+            <div className="absolute h-[38.649px] left-[1131.82px] top-[14px] w-[68.182px]" data-node-id="2001:3111">
+              <div className="absolute content-stretch flex gap-[13.566px] h-[38.649px] items-center left-[1.82px] top-0" data-node-id="2001:3112">
+                <div className="h-[25.142px] relative shrink-0 w-[27.656px]" data-node-id="2001:3113" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+                </div>
+                <div className="bg-[#653535] overflow-clip relative rounded-[39.809px] shrink-0 size-[25.142px]" data-node-id="2001:3114">
+                  <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal leading-[normal] left-[calc(50%-24.87px)] not-italic text-[#3c4d3a] text-[49.173px] top-[calc(50%-24.62px)] whitespace-nowrap" data-node-id="2001:3115">
+                    🇩🇪
+                  </p>
+                </div>
+              </div>
+              <div className="absolute h-[38.649px] left-[41.05px] top-0 w-[27.132px]" data-node-id="2001:3116" />
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start justify-center overflow-clip relative shrink-0 w-full" data-node-id="2001:3117" data-name="TITLE">
+          <div className="content-stretch flex flex-[1_0_0] items-start justify-center min-w-px relative" data-node-id="2001:3118">
+            <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[52px] text-center tracking-[-1.56px] whitespace-nowrap" data-node-id="2001:3119">
+              Services
+            </p>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="2001:3120" data-name="CONTENT">
+          <div className="content-stretch flex flex-col h-[1949px] items-center relative shrink-0 w-full" data-node-id="2001:3121" data-name="SERVICE 1">
+            <div className="content-stretch flex flex-col gap-[20px] items-center justify-center relative shrink-0 w-full" data-node-id="2001:3122" data-name="Services Card 1">
+              <div className="content-stretch flex gap-[20px] items-start justify-center relative shrink-0 w-full" data-node-id="2001:3123">
+                <div className="bg-[#fef2f2] content-stretch flex flex-[1_0_0] h-[850px] items-start justify-center min-w-px overflow-clip relative rounded-[20px]" data-node-id="2001:3124" data-name="Picture">
+                  <div className="h-[890.763px] relative shrink-0 w-[590px]" data-node-id="2001:3125" data-name="hitomi-okushima-lefURVkc2E0-unsplash 1">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgHitomiOkushimaLefUrVkc2E0Unsplash1} />
+                  </div>
+                </div>
+                <div className="bg-white content-stretch drop-shadow-[0px_0px_19.5px_rgba(0,0,0,0.05)] flex flex-[1_0_0] flex-col items-start min-w-px py-[20px] relative rounded-[20px]" data-node-id="2001:3126" data-name="Info">
+                  <div className="content-stretch flex items-start overflow-clip pt-[20px] px-[20px] relative shrink-0 w-full" data-node-id="2001:3127" data-name="TITLE">
+                    <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[36px] text-center tracking-[-1.08px] whitespace-nowrap" data-node-id="2001:3128">{`Qigong & Thai Chi`}</p>
+                  </div>
+                  <div className="content-stretch flex items-start overflow-clip pt-[10px] px-[20px] relative shrink-0 w-full" data-node-id="2001:3129" data-name="SUB">
+                    <p className="[word-break:break-word] font-['Satoshi:Regular'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] text-center tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:3130">
+                      Weil Prävention die beste Therapie ist!
+                    </p>
+                  </div>
+                  <div className="content-stretch flex items-start overflow-clip pt-[20px] px-[20px] relative shrink-0 w-full" data-node-id="2001:3131" data-name="POINT1">
+                    <ul className="[word-break:break-word] block flex-[1_0_0] font-['Satoshi:Medium'] leading-[0] min-w-px not-italic relative text-[#627c58] text-[16px] tracking-[-0.48px]" data-node-id="2001:3132">
+                      <li className="list-disc ms-[24px]">
+                        <span className="leading-[normal]">Qigong hilft als ganzheitliches Übungssystem Krankheiten vorzubeugen, Stress abzubauen und Fitness und Entspannung zu fördern.</span>
+                      </li>
+                    </ul>
+                  </div>
+                  <div className="content-stretch flex items-start overflow-clip pt-[20px] px-[20px] relative shrink-0 w-full" data-node-id="2001:3133" data-name="BODY">
+                    <div className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Medium'] leading-[0] min-w-px not-italic relative text-[#3c4d3a] text-[0px] tracking-[-0.48px] whitespace-pre-wrap" data-node-id="2001:3134">
+                      <p className="mb-0 text-[24px]">
+                        <span className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic">Was:</span>
+                        <span className="leading-[normal]">{` `}</span>
+                      </p>
+                      <p className="leading-[normal] text-[#627c58] text-[16px]">Qigong (wörtlich: Energiearbeit) hat zum Ziel, durch beständige Übung die Kontrolle über den inneren Fluss der Lebensenergie zu erlangen und den Willen zu stärken. Gemeinsam ist allen Qigong-Richtungen, dass sie Atmung mit Körperhaltung und Bewusstsein harmonisch verknüpfen. Schwerpunkt sind Wiederholungen einer Bewegung: Als würde man beim Schönschrift üben viele Male nur ein „E“ schreiben.Wie: Zu den Übungen gehören:</p>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-col gap-[10px] items-start overflow-clip pt-[20px] px-[20px] relative shrink-0 w-full" data-node-id="2001:3135" data-name="BODY">
+                    <div className="bg-[#f6f7f1] content-stretch flex items-center overflow-clip p-[20px] relative rounded-[20px] shrink-0 w-full" data-node-id="2001:3136" data-name="POINT1">
+                      <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Medium'] leading-[0] min-w-px not-italic relative text-[#627c58] text-[16px] tracking-[-0.48px]" data-node-id="2001:3137">
+                        <span className="font-['Satoshi:Bold'] leading-[normal]">{` 01 `}</span>
+                        <span className="leading-[normal]">· Atemtechniken</span>
+                      </p>
+                    </div>
+                    <div className="bg-[#f6f7f1] content-stretch flex items-center overflow-clip p-[20px] relative rounded-[20px] shrink-0 w-full" data-node-id="2001:3138" data-name="POINT1">
+                      <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Medium'] leading-[0] min-w-px not-italic relative text-[#627c58] text-[16px] tracking-[-0.48px]" data-node-id="2001:3139">
+                        <span className="font-['Satoshi:Bold'] leading-[normal]">02</span>
+                        <span className="leading-[normal]">{` · Gesundheitsqigong – ausgewählte Bereiche (acht Brokate, Muskel-Sehnen-Stärkung)`}</span>
+                      </p>
+                    </div>
+                    <div className="bg-[#f6f7f1] content-stretch flex items-center overflow-clip p-[20px] relative rounded-[20px] shrink-0 w-full" data-node-id="2001:3140" data-name="POINT1">
+                      <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Medium'] leading-[0] min-w-px not-italic relative text-[#627c58] text-[16px] tracking-[-0.48px]" data-node-id="2001:3141">
+                        <span className="font-['Satoshi:Bold'] leading-[normal]">03</span>
+                        <span className="leading-[normal]">{` · Dehnung & Lockerung Arme, Beine, Rumpf, Ganzkörper`}</span>
+                      </p>
+                    </div>
+                    <div className="bg-[#f6f7f1] content-stretch flex items-center overflow-clip p-[20px] relative rounded-[20px] shrink-0 w-full" data-node-id="2001:3142" data-name="POINT1">
+                      <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Medium'] leading-[0] min-w-px not-italic relative text-[#627c58] text-[16px] tracking-[-0.48px]" data-node-id="2001:3143">
+                        <span className="font-['Satoshi:Bold'] leading-[normal]">04</span>
+                        <span className="leading-[normal]">{` · Stehen wie ein Pfahl: Gelenke-Öffnen, Wu-Chi, Tai-Chi, Ball halten, Sonne-Mond, Chen-Stehen Baum-Stehen. Gelehrt wird ein effektives Basis-Programm, das überall ausgeführt werden kann. Es umfasst ausgewählte, sportmedizinisch kontrollierte Elemente aus dem Bereich des Qigong. Diese ganzheitlichen Übungssysteme aus China haben eine lange Tradition. In den letzten Jahrzehnten erlebten sie eine weltweite Verbreitung.`}</span>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[786px] relative rounded-[20px] shrink-0 w-full" data-node-id="2001:3144" />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="bg-[#43673c] content-stretch flex flex-col h-[452.065px] items-center pb-[80px] relative shrink-0 w-[1200px]" data-node-id="2001:3145" data-name="FOOTER">
+        <div className="absolute flex h-[1471.833px] items-center justify-center left-[-736.13px] top-[-57px] w-[2616.592px]" data-node-id="2001:3146">
+          <div className="flex-none rotate-180">
+            <div className="h-[1471.833px] relative w-[2616.592px]">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame219} />
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start justify-end overflow-clip relative shrink-0 w-full" data-node-id="2001:3154">
+          <div className="h-[56.024px] relative shrink-0 w-[259.914px]" data-node-id="2001:3155">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame658} />
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] gap-[191px] items-start min-w-px pl-[255px] pr-[140px] relative" data-node-id="2001:3157">
+            <div className="content-stretch flex flex-col items-start justify-center relative shrink-0" data-node-id="2001:3158" data-name="Discover">
+              <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0" data-node-id="2001:3159">
+                <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:3160">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:3161">
+                    Discover
+                  </p>
+                </div>
+                <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:3162">
+                  <p className="relative shrink-0" data-node-id="2001:3163">
+                    About Me
+                  </p>
+                  <p className="relative shrink-0" data-node-id="2001:3164">
+                    Services
+                  </p>
+                  <p className="relative shrink-0" data-node-id="2001:3165">
+                    How it Works
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[20px] items-start justify-center relative shrink-0" data-node-id="2001:3166" data-name="More">
+              <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:3167">
+                <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:3168">
+                  More
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:3169">
+                <p className="relative shrink-0" data-node-id="2001:3170">
+                  Blog
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:3171">
+                  Testimonials
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:3172">
+                  FAQ
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:3173">
+                  Kontakt
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[20px] items-start justify-center relative shrink-0" data-node-id="2001:3174" data-name="More">
+              <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:3175">
+                <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:3176">
+                  Legal
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:3177">
+                <p className="relative shrink-0" data-node-id="2001:3178">
+                  Prices
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:3179">
+                  Impressum
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:3180">
+                  Datenschutz
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:3181">
+                  AGB
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:3182">
+                  Haftungausschluss
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="h-[80px] relative shrink-0 w-[1440px]" data-node-id="2001:3183" data-name="SEPARATOR">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator} />
+        </div>
+        <div className="content-stretch flex gap-[3px] items-center relative shrink-0 w-full" data-node-id="2001:3185">
+          <div className="content-stretch flex flex-[1_0_0] items-center min-w-px relative" data-node-id="2001:3186">
+            <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:3187">
+              ©2026 Systhera Beratung. All rights reserved.
+            </p>
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] gap-[10px] items-center justify-end min-w-px relative" data-node-id="2001:3188" data-name="Legal">
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:3189" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons} />
+            </div>
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:3190" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons1} />
+            </div>
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:3191" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons2} />
+            </div>
+          </div>
+        </div>
+        <div className="h-[80px] relative shrink-0 w-[1440px]" data-node-id="2001:3192" data-name="SEPARATOR">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator} />
+        </div>
+        <div className="content-stretch flex items-center justify-center relative shrink-0 w-full" data-node-id="2001:3194">
+          <p className="[word-break:break-word] font-['Satoshi:Regular'] leading-[normal] not-italic relative shrink-0 text-[15px] text-center text-white tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:3195">{`Powered by Rares Faur & Vlad Veltan`}</p>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+Images and SVGs will be stored as constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

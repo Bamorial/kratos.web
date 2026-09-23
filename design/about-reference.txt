@@ -1,0 +1,291 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/b554cf3c-557b-457d-92cc-835192eed7b7";
+const imgImage248 = `${assetPathPrefix}/0e5e9.png`;
+const imgVector = `${assetPathPrefix}/a9866.svg`;
+const imgVector1 = `${assetPathPrefix}/66a74.svg`;
+const imgFrame788 = `${assetPathPrefix}/206fd.svg`;
+const imgFrame219 = `${assetPathPrefix}/a6d2c.svg`;
+const imgFrame658 = `${assetPathPrefix}/64933.svg`;
+const imgSeparator = `${assetPathPrefix}/1911b.svg`;
+const imgSocialIcons = `${assetPathPrefix}/65c27.svg`;
+const imgSocialIcons1 = `${assetPathPrefix}/7a13a.svg`;
+const imgSocialIcons2 = `${assetPathPrefix}/507bc.svg`;
+
+export default function DesktopBreakpointV3Article() {
+  return (
+    <div className="bg-white content-stretch flex flex-col gap-[160px] items-center px-[360px] relative size-full" data-node-id="2001:2054" data-name="DesktopBreakpoint-V3-ARTICLE">
+      <div className="bg-white content-stretch flex flex-col gap-[80px] items-center relative shrink-0 w-full" data-node-id="2001:2055" data-name="MAIN">
+        <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="2001:2056" data-name="HERO">
+          <div className="h-[66.649px] overflow-clip relative shrink-0 w-full" data-node-id="2001:2057" data-name="NAV">
+            <div className="absolute h-[21.476px] left-0 top-[22.59px] w-[99.637px]" data-node-id="2001:2058" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+            </div>
+            <div className="-translate-x-1/2 absolute h-[15px] left-1/2 top-[26px] w-[232px]" data-node-id="2001:2059">
+              <div className="[word-break:break-word] absolute content-stretch flex font-['Satoshi:Medium'] gap-[20px] items-center justify-center leading-none left-0 not-italic text-[#3c4d3a] text-[16px] text-center top-0 tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2060">
+                <p className="relative shrink-0" data-node-id="2001:2061">
+                  Services
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2062">
+                  Kontakt
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2063">
+                  Blog
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2064">
+                  About
+                </p>
+              </div>
+            </div>
+            <div className="absolute h-[38.649px] left-[1131.82px] top-[14px] w-[68.182px]" data-node-id="2001:2065">
+              <div className="absolute content-stretch flex gap-[13.566px] h-[38.649px] items-center left-[1.82px] top-0" data-node-id="2001:2066">
+                <div className="h-[25.142px] relative shrink-0 w-[27.656px]" data-node-id="2001:2067" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+                </div>
+                <div className="bg-[#653535] overflow-clip relative rounded-[39.809px] shrink-0 size-[25.142px]" data-node-id="2001:2068">
+                  <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal leading-[normal] left-[calc(50%-24.87px)] not-italic text-[#3c4d3a] text-[49.173px] top-[calc(50%-24.62px)] whitespace-nowrap" data-node-id="2001:2069">
+                    🇩🇪
+                  </p>
+                </div>
+              </div>
+              <div className="absolute h-[38.649px] left-[41.05px] top-0 w-[27.132px]" data-node-id="2001:2070" />
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start justify-center overflow-clip relative shrink-0 w-full" data-node-id="2001:2071" data-name="TITLE">
+          <div className="content-stretch flex flex-[1_0_0] items-start justify-center min-w-px relative" data-node-id="2001:2072">
+            <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Bold'] leading-[normal] min-w-px not-italic relative text-[#3c4d3a] text-[36px] text-center tracking-[-1.08px]" data-node-id="2001:2073">
+              Hier erfahren Sie alles über meinen persönlichen und beruflichen Werdegang
+            </p>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[20px] items-start justify-center overflow-clip relative shrink-0 w-full" data-node-id="2001:2074" data-name="CONTENT">
+          <div className="bg-[#a85454] content-stretch flex flex-[1_0_0] flex-col items-center min-w-px overflow-clip relative rounded-[20px] self-stretch" data-node-id="2001:2075" data-name="LEFT">
+            <div className="flex-[1_0_0] min-h-px relative w-full" data-node-id="2001:2076" data-name="image 248">
+              <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage248} />
+            </div>
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] flex-col items-center min-w-px overflow-clip relative" data-node-id="2001:2077" data-name="RIGHT">
+            <div className="content-stretch flex items-center justify-center overflow-clip relative shrink-0 w-full" data-node-id="2001:2078">
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Bold'] leading-[normal] min-w-px not-italic relative text-[#3c4d3a] text-[52px] tracking-[-1.56px]" data-node-id="2001:2079">
+                Mein Name ist Simona Facalau
+              </p>
+            </div>
+            <div className="content-stretch flex items-center justify-center overflow-clip pt-[20px] relative shrink-0 w-full" data-node-id="2001:2080">
+              <ul className="[word-break:break-word] block flex-[1_0_0] font-['Satoshi:Bold'] leading-[0] list-disc min-w-px not-italic relative text-[#3c4d3a] text-[16px] tracking-[-0.48px]" data-node-id="2001:2081">
+                <li className="mb-0 ms-[24px]">
+                  <span className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic text-[#3c4d3a]">Jahrgang, 1963- geboren in Siebenbürgen, Rumänien</span>
+                </li>
+                <li className="mb-0 ms-[24px]">
+                  <span className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic text-[#3c4d3a]">seit 1993, Diplomierte Krankenschwester</span>
+                </li>
+                <li className="mb-0 ms-[24px]">
+                  <span className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic text-[#3c4d3a]">2001, Ausbildung zur Kommunikationstrainerin für Erwachsenenbildung, Fachbereich Psychologie und Sportwissenschaft -Univ. J. W. Goethe, Frankfurt am Main</span>
+                </li>
+                <li className="font-['Satoshi:Medium'] leading-[normal] mb-0 ms-[24px]">
+                  {`2007, Weiterbildung mit Zertifizierung in lösungsorientierte systemische Psychosomatik, Gesellschaft für Systemische Therapie, GST München `}
+                  <a className="[text-decoration-skip-ink:none] [text-underline-position:from-font] cursor-pointer decoration-from-font decoration-solid underline" href="http://www.gstb.org/index.php/systemische-weiterbildungen/aus-weiterbildung/koerperorientierte-systemische-therapie" target="_blank">
+                    <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid underline" href="http://www.gstb.org/index.php/systemische-weiterbildungen/aus-weiterbildung/koerperorientierte-systemische-therapie" target="_blank">{`http://www.gstb.org/index.php/systemische-weiterbildungen/aus-weiterbildung/koerperorientierte-systemische-therapie`}</span>
+                  </a>
+                </li>
+                <li className="mb-0 ms-[24px]">
+                  <span className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic text-[#3c4d3a]">2008, Abschluss M.A.( Magistra Artium) Studium der Geistes- und Gesellschaftswissenschaften Soziologie, Psychologie und Romanistik , J. W. Goethe Frankfurt am Main</span>
+                </li>
+                <li className="mb-0 ms-[24px]">
+                  <span className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic text-[#3c4d3a]">2009- 2011, Heilpraktikerin für Psychotherapie – Prüfung und Zulassung bei Gesundheitsamt Frankfurt am Main. Nebenberuflich tätig in einer Gemeinschaftspraxis</span>
+                </li>
+                <li className="mb-0 ms-[24px]">
+                  <span className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic text-[#3c4d3a]">seit 2014, tätig in eigener Praxis, in Thuine.</span>
+                </li>
+                <li className="mb-0 ms-[24px]">
+                  <span className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic text-[#3c4d3a]">2019, Übungsleiterin Taichi- Qigong,</span>
+                </li>
+                <li className="mb-0 ms-[24px]">
+                  <span className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic text-[#3c4d3a]">2020 „ Zertifizierung als Qigong Lehrerin“ DTB ( Deutscher Tai Chi Bund Dachverband für Tai Chi und Qigong e.V.), 2020</span>
+                </li>
+                <li className="font-['Satoshi:Medium'] leading-[normal] ms-[24px]">
+                  {`Mitglied im Beirat für Tai-Chi-Qigong Ausbildungen in Deutschland `}
+                  <a className="[text-decoration-skip-ink:none] [text-underline-position:from-font] cursor-pointer decoration-from-font decoration-solid underline" href="https://www.tai-chi-dvds.de/beirat.html" target="_blank">
+                    <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid underline" href="https://www.tai-chi-dvds.de/beirat.html" target="_blank">{`https://www.tai-chi-dvds.de/beirat.html`}</span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div className="h-[80px] relative shrink-0 w-full" data-node-id="2001:2082">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame788} />
+            </div>
+            <div className="content-stretch flex items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2084">
+              <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[36px] tracking-[-1.08px] whitespace-nowrap" data-node-id="2001:2085">{` Berufliche Erfahrungen`}</p>
+            </div>
+            <div className="content-stretch flex items-start overflow-clip pt-[20px] relative shrink-0 w-full" data-node-id="2001:2086">
+              <div className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Medium'] leading-[0] min-w-px not-italic relative text-[#3c4d3a] text-[16px] tracking-[-0.48px]" data-node-id="2001:2087">
+                <ul className="mb-0">
+                  <li className="list-disc ms-[24px]">
+                    <span className="leading-[normal]">{`Langjährige Tätigkeit als Krankenschwester auf Stationen für : Innere Medizin und Hämatologie, Blutspende Zentrum, Dialyse, sowie im ambulanten Pflegedienst. `}</span>
+                  </li>
+                </ul>
+                <p className="leading-[normal] mb-0 whitespace-pre-wrap">​</p>
+                <ul className="mb-0">
+                  <li className="list-disc ms-[24px] whitespace-pre-wrap">
+                    <span className="leading-[normal]">{`Über 10 Jahre in einer Klinik für Psychiatrie, Psychotherapie und Psychosomatik. Aktiv mitbeteiligt an der  Behandlung in multiprofessionellen Teams, Therapiegruppen und Beratung für Angehörigen.`}</span>
+                  </li>
+                </ul>
+                <p className="leading-[normal] mb-0 whitespace-pre-wrap">​</p>
+                <ul className="mb-0">
+                  <li className="list-disc ms-[24px]">
+                    <span className="leading-[normal]">Während des Studiums : Organisation von Seminaren für Studenten und Unternehmern- Fachbereiche Psychologie und Sprachwissenschaft</span>
+                  </li>
+                </ul>
+                <p className="leading-[normal] mb-0 whitespace-pre-wrap">​</p>
+                <ul className="mb-0">
+                  <li className="list-disc ms-[24px]">
+                    <span className="leading-[normal]">Organisation und Leitung von Qualifikationskurse, Fortbildungen und Workshops mit Themen aus den Praxisfeldern Pflege und Gesundheitsforderung bei Bildungsträgern und Altenpflegeeinrichtungen</span>
+                  </li>
+                </ul>
+                <p className="leading-[normal] mb-0 whitespace-pre-wrap">​</p>
+                <ul className="mb-0">
+                  <li className="list-disc ms-[24px]">
+                    <span className="leading-[normal]">Team- und Konfliktberatung für Organisationen aus dem Gesundheitswesen, Einrichtungen für Soziale- und Jugendarbeit, Schulen, Familien- und Kleinunternehmern</span>
+                  </li>
+                </ul>
+                <p className="leading-[normal] mb-0 whitespace-pre-wrap">​</p>
+                <ul>
+                  <li className="list-disc ms-[24px]">
+                    <span className="leading-[normal]">Coaching und systemische Beratung für Mitarbeitern, Teams, Fach- und Führungskräfte aus dem Gesundheitswesen und soziale Bereiche</span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[10px] items-center justify-center overflow-clip pt-[40px] relative shrink-0 w-full" data-node-id="2001:2088" data-name="CTA">
+          <div className="bg-[#627c58] content-stretch flex h-[50px] items-center justify-center overflow-clip px-[30px] relative rounded-[42px] shrink-0 w-[200px]" data-node-id="2001:2089" data-name="CTA">
+            <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[20px] text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:2090">
+              Explore Services
+            </p>
+          </div>
+          <a className="bg-[#627c58] content-stretch cursor-pointer flex h-[50px] items-center justify-center overflow-clip px-[30px] relative rounded-[42px] shrink-0 w-[200px]" data-node-id="2001:2091" data-name="CTA">
+            <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[20px] text-left text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:2092">
+              Contact
+            </p>
+          </a>
+        </div>
+      </div>
+      <div className="bg-[#43673c] content-stretch flex flex-col h-[452.065px] items-center pb-[80px] relative shrink-0 w-[1200px]" data-node-id="2001:2093" data-name="FOOTER">
+        <div className="absolute flex h-[1471.833px] items-center justify-center left-[-736.13px] top-[-57px] w-[2616.592px]" data-node-id="2001:2094">
+          <div className="flex-none rotate-180">
+            <div className="h-[1471.833px] relative w-[2616.592px]">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame219} />
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start justify-end overflow-clip relative shrink-0 w-full" data-node-id="2001:2102">
+          <div className="h-[56.024px] relative shrink-0 w-[259.914px]" data-node-id="2001:2103">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame658} />
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] gap-[191px] items-start min-w-px pl-[255px] pr-[140px] relative" data-node-id="2001:2105">
+            <div className="content-stretch flex flex-col items-start justify-center relative shrink-0" data-node-id="2001:2106" data-name="Discover">
+              <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0" data-node-id="2001:2107">
+                <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:2108">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:2109">
+                    Discover
+                  </p>
+                </div>
+                <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2110">
+                  <p className="relative shrink-0" data-node-id="2001:2111">
+                    About Me
+                  </p>
+                  <p className="relative shrink-0" data-node-id="2001:2112">
+                    Services
+                  </p>
+                  <p className="relative shrink-0" data-node-id="2001:2113">
+                    How it Works
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[20px] items-start justify-center relative shrink-0" data-node-id="2001:2114" data-name="More">
+              <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:2115">
+                <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:2116">
+                  More
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2117">
+                <p className="relative shrink-0" data-node-id="2001:2118">
+                  Blog
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2119">
+                  Testimonials
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2120">
+                  FAQ
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2121">
+                  Kontakt
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[20px] items-start justify-center relative shrink-0" data-node-id="2001:2122" data-name="More">
+              <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:2123">
+                <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:2124">
+                  Legal
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2125">
+                <p className="relative shrink-0" data-node-id="2001:2126">
+                  Prices
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2127">
+                  Impressum
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2128">
+                  Datenschutz
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2129">
+                  AGB
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2130">
+                  Haftungausschluss
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="h-[80px] relative shrink-0 w-[1440px]" data-node-id="2001:2131" data-name="SEPARATOR">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator} />
+        </div>
+        <div className="content-stretch flex gap-[3px] items-center relative shrink-0 w-full" data-node-id="2001:2133">
+          <div className="content-stretch flex flex-[1_0_0] items-center min-w-px relative" data-node-id="2001:2134">
+            <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2135">
+              ©2026 Systhera Beratung. All rights reserved.
+            </p>
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] gap-[10px] items-center justify-end min-w-px relative" data-node-id="2001:2136" data-name="Legal">
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:2137" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons} />
+            </div>
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:2138" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons1} />
+            </div>
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:2139" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons2} />
+            </div>
+          </div>
+        </div>
+        <div className="h-[80px] relative shrink-0 w-[1440px]" data-node-id="2001:2140" data-name="SEPARATOR">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator} />
+        </div>
+        <div className="content-stretch flex items-center justify-center relative shrink-0 w-full" data-node-id="2001:2142">
+          <p className="[word-break:break-word] font-['Satoshi:Regular'] leading-[normal] not-italic relative shrink-0 text-[15px] text-center text-white tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:2143">{`Powered by Rares Faur & Vlad Veltan`}</p>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+Images and SVGs will be stored as constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

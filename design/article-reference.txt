@@ -1,0 +1,425 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/69669f53-3b0c-49e6-8413-9b0f005f5374";
+const imgImage215 = `${assetPathPrefix}/0e5e9.png`;
+const imgFeatured = `${assetPathPrefix}/06606.png`;
+const imgImage = `${assetPathPrefix}/51227.png`;
+const imgImage1 = `${assetPathPrefix}/b664f.png`;
+const imgVector = `${assetPathPrefix}/a9866.svg`;
+const imgVector1 = `${assetPathPrefix}/66a74.svg`;
+const imgVector2 = `${assetPathPrefix}/9af19.svg`;
+const imgVector209 = `${assetPathPrefix}/3bfee.svg`;
+const imgFrame630 = `${assetPathPrefix}/1a807.svg`;
+const imgFrame631 = `${assetPathPrefix}/de25f.svg`;
+const imgFrame219 = `${assetPathPrefix}/a6d2c.svg`;
+const imgFrame658 = `${assetPathPrefix}/64933.svg`;
+const imgSeparator = `${assetPathPrefix}/1911b.svg`;
+const imgSocialIcons = `${assetPathPrefix}/65c27.svg`;
+const imgSocialIcons1 = `${assetPathPrefix}/7a13a.svg`;
+const imgSocialIcons2 = `${assetPathPrefix}/507bc.svg`;
+
+export default function DesktopBreakpointV3Article() {
+  return (
+    <div className="bg-white content-stretch flex flex-col gap-[160px] items-center px-[360px] relative size-full" data-node-id="2001:1751" data-name="DesktopBreakpoint-V3-ARTICLE">
+      <div className="bg-white content-stretch flex flex-col gap-[80px] items-center relative shrink-0 w-full" data-node-id="2001:1752" data-name="MAIN">
+        <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="2001:1753" data-name="HERO">
+          <div className="h-[66.649px] overflow-clip relative shrink-0 w-full" data-node-id="2001:1754" data-name="NAV">
+            <div className="absolute h-[21.476px] left-0 top-[22.59px] w-[99.637px]" data-node-id="2001:1755" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+            </div>
+            <div className="-translate-x-1/2 absolute h-[15px] left-1/2 top-[26px] w-[232px]" data-node-id="2001:1756">
+              <div className="[word-break:break-word] absolute content-stretch flex font-['Satoshi:Medium'] gap-[20px] items-center justify-center leading-none left-0 not-italic text-[#3c4d3a] text-[16px] text-center top-0 tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:1757">
+                <p className="relative shrink-0" data-node-id="2001:1758">
+                  Services
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1759">
+                  Kontakt
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1760">
+                  Blog
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1761">
+                  About
+                </p>
+              </div>
+            </div>
+            <div className="absolute h-[38.649px] left-[1131.82px] top-[14px] w-[68.182px]" data-node-id="2001:1762">
+              <div className="absolute content-stretch flex gap-[13.566px] h-[38.649px] items-center left-[1.82px] top-0" data-node-id="2001:1763">
+                <div className="h-[25.142px] relative shrink-0 w-[27.656px]" data-node-id="2001:1764" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+                </div>
+                <div className="bg-[#653535] overflow-clip relative rounded-[39.809px] shrink-0 size-[25.142px]" data-node-id="2001:1765">
+                  <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal leading-[normal] left-[calc(50%-24.87px)] not-italic text-[#3c4d3a] text-[49.173px] top-[calc(50%-24.62px)] whitespace-nowrap" data-node-id="2001:1766">
+                    🇩🇪
+                  </p>
+                </div>
+              </div>
+              <div className="absolute h-[38.649px] left-[41.05px] top-0 w-[27.132px]" data-node-id="2001:1767" />
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col items-center overflow-clip relative shrink-0 w-full" data-node-id="2001:1768" data-name="CONTENT">
+          <div className="content-stretch flex flex-col gap-[40px] items-start relative shrink-0 w-full" data-node-id="2001:1769" data-name="TOP">
+            <div className="content-stretch flex items-center justify-center relative shrink-0 w-full" data-node-id="2001:1770" data-name="TITLE">
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Bold'] leading-[normal] min-w-px not-italic relative text-[#3c4d3a] text-[52px] tracking-[-1.56px]" data-node-id="2001:1771">
+                Persönliche Entwicklung beginnt mit echtem Selbstverständnis
+              </p>
+            </div>
+            <div className="content-stretch flex gap-[10px] items-center justify-center pb-[40px] relative shrink-0 w-full" data-node-id="2001:1772" data-name="SHORT ABOUT">
+              <div className="content-stretch flex gap-[10px] items-center relative shrink-0" data-node-id="2001:1773" data-name="AUTHOR">
+                <div className="bg-white overflow-clip relative rounded-[28.229px] shrink-0 size-[33.211px]" data-node-id="2001:1774" data-name="PICTURE">
+                  <div className="-translate-x-1/2 -translate-y-1/2 absolute h-[62.605px] left-[calc(50%+3.55px)] top-[calc(50%+12.27px)] w-[41.41px]" data-node-id="2001:1775" data-name="image 215">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage215} />
+                  </div>
+                </div>
+                <div className="bg-[#f6f7f1] border border-solid border-white content-stretch flex items-center justify-center px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:1776" data-name="NAME">
+                  <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[10px] tracking-[-0.3px] whitespace-nowrap" data-node-id="2001:1777">
+                    Simona Facalau
+                  </p>
+                </div>
+                <div className="bg-[#f6f7f1] border border-solid border-white content-stretch flex items-center justify-center px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:1778" data-name="NAME">
+                  <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[10px] tracking-[-0.3px] whitespace-nowrap" data-node-id="2001:1779">
+                    Deustch
+                  </p>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-[1_0_0] items-center justify-end min-w-px relative" data-node-id="2001:1780">
+                <div className="content-stretch flex gap-[10px] items-center justify-center relative shrink-0" data-node-id="2001:1781" data-name="CONTENT">
+                  <div className="h-[15.637px] relative shrink-0 w-[14.216px]" data-node-id="2001:1782" data-name="Vector">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+                  </div>
+                  <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[16px] tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:1783">
+                    07.09.2026
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="h-[761.211px] relative rounded-[20px] shrink-0 w-full" data-node-id="2001:1784" data-name="FEATURED">
+            <div aria-hidden className="absolute inset-0 pointer-events-none rounded-[20px]">
+              <img alt="" className="absolute max-w-none object-cover rounded-[20px] size-full" src={imgFeatured} />
+              <div className="absolute inset-0 rounded-[20px]" style={{ backgroundImage: "linear-gradient(162.937986813814deg, rgba(0, 0, 0, 0.53) 18.936%, rgba(0, 0, 0, 0.148) 81.205%)" }} />
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-center justify-center overflow-clip pt-[80px] relative shrink-0 w-full" data-node-id="2001:1785" data-name="TEXT">
+            <div className="content-stretch flex items-center justify-center relative shrink-0 w-full" data-node-id="2001:1786" data-name="BODY">
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Medium'] leading-[normal] min-w-px not-italic relative text-[#3c4d3a] text-[18px] tracking-[-0.54px]" data-node-id="2001:1787">
+                Persönliche Entwicklung bedeutet nicht, ständig an sich arbeiten oder sich verändern zu müssen. Oft beginnt sie viel früher: mit dem Versuch, sich selbst besser zu verstehen.Unsere Gedanken, Gefühle und Verhaltensweisen entstehen nicht zufällig. Viele davon haben sich über Jahre entwickelt und beeinflussen, wie wir Situationen wahrnehmen, Entscheidungen treffen und mit anderen Menschen umgehen. Manche Muster unterstützen uns, andere können uns immer wieder vor ähnliche Herausforderungen stellen.
+              </p>
+            </div>
+            <div className="content-stretch flex items-center justify-center pb-[20px] pt-[40px] relative shrink-0 w-full" data-node-id="2001:1788" data-name="SUB">
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Bold'] leading-[normal] min-w-px not-italic relative text-[#3c4d3a] text-[30px] tracking-[-0.9px]" data-node-id="2001:1789">
+                Die eigenen Muster erkennen
+              </p>
+            </div>
+            <div className="content-stretch flex items-center justify-center relative shrink-0 w-full" data-node-id="2001:1790" data-name="BODY">
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Medium'] leading-[normal] min-w-px not-italic relative text-[#3c4d3a] text-[18px] tracking-[-0.54px]" data-node-id="2001:1791">
+                Selbstverständnis entsteht, wenn wir beginnen, unsere Reaktionen bewusst wahrzunehmen. Warum beschäftigt mich eine bestimmte Situation so sehr? Warum reagiere ich in manchen Momenten immer wieder ähnlich? Welche Bedürfnisse stehen eigentlich hinter meinen Gefühlen? Dabei geht es nicht darum, jede Reaktion sofort zu bewerten oder verändern zu wollen. Zunächst reicht es, neugierig hinzuschauen und zu verstehen, was in uns passiert.
+              </p>
+            </div>
+            <div className="content-stretch flex items-center justify-center pb-[20px] pt-[40px] relative shrink-0 w-full" data-node-id="2001:1792" data-name="SUB">
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Bold'] leading-[normal] min-w-px not-italic relative text-[#3c4d3a] text-[30px] tracking-[-0.9px]" data-node-id="2001:1793">
+                Veränderung braucht Bewusstsein
+              </p>
+            </div>
+            <div className="content-stretch flex items-center justify-center relative shrink-0 w-full" data-node-id="2001:1794" data-name="BODY">
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Medium'] leading-[normal] min-w-px not-italic relative text-[#3c4d3a] text-[18px] tracking-[-0.54px]" data-node-id="2001:1795">
+                Erst wenn wir unsere eigenen Muster erkennen, können wir bewusst entscheiden, wie wir mit ihnen umgehen möchten. Veränderung entsteht dabei selten von heute auf morgen. Sie entwickelt sich durch kleine Erfahrungen, neue Perspektiven und die Bereitschaft, gewohnte Denk- und Verhaltensweisen zu hinterfragen.Persönliche Entwicklung ist deshalb kein festes Ziel, das irgendwann erreicht ist. Sie ist ein fortlaufender Prozess, in dem wir lernen, uns selbst besser wahrzunehmen und bewusster mit unserem Leben umzugehen.
+              </p>
+            </div>
+            <div className="content-stretch flex items-center justify-center pb-[20px] pt-[40px] relative shrink-0 w-full" data-node-id="2001:1796" data-name="SUB">
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Bold'] leading-[normal] min-w-px not-italic relative text-[#3c4d3a] text-[30px] tracking-[-0.9px]" data-node-id="2001:1797">
+                Sich selbst mit mehr Klarheit begegnen
+              </p>
+            </div>
+            <div className="content-stretch flex items-center justify-center relative shrink-0 w-full" data-node-id="2001:1798" data-name="BODY">
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Medium'] leading-[normal] min-w-px not-italic relative text-[#3c4d3a] text-[18px] tracking-[-0.54px]" data-node-id="2001:1799">
+                Je besser wir unsere eigenen Bedürfnisse, Grenzen und Verhaltensweisen verstehen, desto leichter kann es werden, Entscheidungen zu treffen, die wirklich zu uns passen. Selbstverständnis schafft dabei die Grundlage für Veränderung. Nicht indem wir versuchen, jemand anderes zu werden, sondern indem wir beginnen zu verstehen, wer wir sind, was uns bewegt und welchen Weg wir für uns selbst gehen möchten.
+              </p>
+            </div>
+            <div className="content-stretch flex items-center justify-center pb-[20px] pt-[40px] relative shrink-0 w-full" data-node-id="2001:1800" data-name="SUB">
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Bold'] leading-[normal] min-w-px not-italic relative text-[#3c4d3a] text-[30px] tracking-[-0.9px]" data-node-id="2001:1801">
+                Die eigenen Bedürfnisse verstehen
+              </p>
+            </div>
+            <div className="content-stretch flex items-center justify-center relative shrink-0 w-full" data-node-id="2001:1802" data-name="BODY">
+              <div className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Medium'] leading-[0] min-w-px not-italic relative text-[#3c4d3a] text-[18px] tracking-[-0.54px]" data-node-id="2001:1803">
+                <p className="leading-[normal] mb-0">Im Alltag orientieren wir uns häufig daran, was von uns erwartet wird. Die eigenen Bedürfnisse geraten dabei schnell in den Hintergrund.</p>
+                <p className="leading-[normal]">Zu erkennen, was uns guttut, was uns belastet und wo unsere persönlichen Grenzen liegen, ist ein wichtiger Teil der Selbstreflexion. Je klarer wir unsere Bedürfnisse wahrnehmen, desto bewusster können wir Entscheidungen treffen. Erst wenn wir unsere eigenen Muster erkennen, können wir bewusst entscheiden, wie wir mit ihnen umgehen möchten. Veränderung entsteht dabei selten von heute auf morgen. Sie entwickelt sich durch kleine Erfahrungen, neue Perspektiven und die Bereitschaft, gewohnte Denk- und Verhaltensweisen zu hinterfragen. Persönliche Entwicklung muss nicht aus großen Veränderungen bestehen. Oft sind es kleine Entscheidungen im Alltag, die langfristig einen Unterschied machen. Ein Gespräch anders zu führen, eine Grenze klarer zu kommunizieren oder sich bewusst Zeit für die eigenen Gedanken zu nehmen, kann bereits eine neue Perspektive schaffen. Entwicklung verläuft selten geradlinig. Auch wenn wir bestimmte Muster bereits erkannt haben, können wir in stressigen oder schwierigen Situationen wieder in alte Verhaltensweisen zurückfallen. Das bedeutet nicht, dass bisherige Fortschritte verloren sind. Vielmehr können solche Momente eine Gelegenheit sein, genauer hinzuschauen und das eigene Verhalten noch besser zu verstehen. Je besser wir unsere eigenen Bedürfnisse, Grenzen und Verhaltensweisen verstehen, desto leichter kann es werden, Entscheidungen zu treffen, die wirklich zu uns passen. Selbstverständnis schafft dabei die Grundlage für Veränderung. Nicht indem wir versuchen, jemand anderes zu werden, sondern indem wir beginnen zu verstehen, wer wir sind, was uns bewegt und welchen Weg wir für uns selbst gehen möchten.</p>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-center justify-center pt-[80px] relative shrink-0 w-full" data-node-id="2001:1804" data-name="SEPARATOR">
+            <div className="flex h-[8.871px] items-center justify-center relative shrink-0 w-[1193.438px]" data-node-id="2001:1805">
+              <div className="flex-none rotate-[-0.43deg]">
+                <div className="h-0 relative w-[1193.47px]">
+                  <div className="absolute inset-[-0.5px_0]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector209} />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="2001:1806" data-name="EXPLORE">
+          <div className="content-stretch flex items-start overflow-clip pb-[40px] relative shrink-0 w-full" data-node-id="2001:1807" data-name="TITLE">
+            <div className="content-stretch flex flex-[1_0_0] items-start min-w-px relative" data-node-id="2001:1808">
+              <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[36px] tracking-[-1.08px] whitespace-nowrap" data-node-id="2001:1809">
+                Explore other articles
+              </p>
+            </div>
+            <div className="content-stretch flex gap-[10px] items-center relative shrink-0" data-node-id="2001:1810">
+              <div className="bg-[#b2c492] content-stretch flex h-[52.805px] items-start p-[3px] relative rounded-[26.402px] shrink-0" data-node-id="2001:1811" data-name="Button">
+                <div className="flex items-center justify-center relative shrink-0 size-[47.199px]" data-node-id="2001:1812">
+                  <div className="-rotate-135 -scale-y-100 flex-none">
+                    <div className="relative size-[33.375px]">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame630} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-[#b2c492] content-stretch flex h-[52.805px] items-start p-[3px] relative rounded-[26.402px] shrink-0" data-node-id="2001:1814" data-name="Button">
+                <div className="flex items-center justify-center relative shrink-0 size-[47.199px]" data-node-id="2001:1815">
+                  <div className="-rotate-45 flex-none">
+                    <div className="relative size-[33.375px]">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame631} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[20px] items-start justify-center relative shrink-0 w-full" data-node-id="2001:1817" data-name="ROW1">
+            <div className="bg-[#f6f7f1] content-stretch drop-shadow-[0px_0px_15.8px_rgba(0,0,0,0.35)] flex flex-[1_0_0] flex-col gap-[20px] items-center min-w-px pb-[40px] relative rounded-[20px]" data-node-id="2001:1818" data-name="ARTICLE">
+              <div className="content-stretch flex flex-col h-[300px] items-start justify-end relative rounded-tl-[20px] rounded-tr-[20px] shrink-0 w-full" data-node-id="2001:1819" data-name="IMAGE">
+                <div aria-hidden className="absolute inset-0 pointer-events-none rounded-tl-[20px] rounded-tr-[20px]">
+                  <img alt="" className="absolute max-w-none object-cover rounded-tl-[20px] rounded-tr-[20px] size-full" src={imgImage} />
+                  <div className="absolute bg-gradient-to-b from-[rgba(0,0,0,0)] inset-0 rounded-tl-[20px] rounded-tr-[20px] to-[rgba(0,0,0,0.48)]" />
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] gap-[10px] items-start min-h-px p-[20px] relative w-full" data-node-id="2001:1820" data-name="AUTHOR">
+                  <div className="bg-white overflow-clip relative rounded-[28.229px] shrink-0 size-[33.211px]" data-node-id="2001:1821" data-name="PICTURE">
+                    <div className="-translate-x-1/2 -translate-y-1/2 absolute h-[62.605px] left-[calc(50%+3.55px)] top-[calc(50%+12.27px)] w-[41.41px]" data-node-id="2001:1822" data-name="image 215">
+                      <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage215} />
+                    </div>
+                  </div>
+                  <div className="bg-[rgba(241,243,241,0.2)] border border-solid border-white content-stretch flex items-center justify-center px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:1823" data-name="NAME">
+                    <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[10px] text-white tracking-[-0.3px] whitespace-nowrap" data-node-id="2001:1824">
+                      Simona Facalau
+                    </p>
+                  </div>
+                </div>
+                <div className="content-stretch flex gap-[10px] items-center pb-[20px] px-[20px] relative shrink-0 w-full" data-node-id="2001:1825" data-name="TAGS">
+                  <div className="content-stretch flex gap-[10px] items-center relative shrink-0" data-node-id="2001:1826" data-name="INFO">
+                    <div className="bg-[rgba(241,243,241,0.2)] border border-solid border-white content-stretch flex items-center justify-center px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:1827" data-name="TAG">
+                      <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[10px] text-white tracking-[-0.3px] whitespace-nowrap" data-node-id="2001:1828">
+                        Achtsamkeit
+                      </p>
+                    </div>
+                    <div className="bg-[rgba(241,243,241,0.2)] border border-solid border-white content-stretch flex items-center justify-center px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:1829" data-name="LANGUAGE">
+                      <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[10px] text-white tracking-[-0.3px] whitespace-nowrap" data-node-id="2001:1830">
+                        Deutsch
+                      </p>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] items-center justify-end min-w-px relative" data-node-id="2001:1831" data-name="DATE">
+                    <div className="bg-[rgba(241,243,241,0.2)] border border-solid border-white content-stretch flex items-center justify-center px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:1832" data-name="LANGUAGE">
+                      <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[10px] text-white tracking-[-0.3px] whitespace-nowrap" data-node-id="2001:1833">
+                        September 7, 2026
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:1834" data-name="CONTENT">
+                <div className="content-stretch flex items-center overflow-clip px-[20px] relative shrink-0 w-full" data-node-id="2001:1835" data-name="TITLE">
+                  <div className="[word-break:break-word] font-['Satoshi:Bold'] leading-[0] not-italic relative shrink-0 text-[#3c4d3a] text-[36px] tracking-[-1.08px] w-[522px] whitespace-pre-wrap" data-node-id="2001:1836">
+                    <p className="leading-[normal] mb-0">{`Innere Ruhe im Alltag `}</p>
+                    <p className="leading-[normal]">wiederfinden</p>
+                  </div>
+                </div>
+                <div className="content-stretch flex items-center overflow-clip pt-[10px] px-[20px] relative shrink-0 w-full" data-node-id="2001:1837" data-name="SUB">
+                  <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Medium'] leading-[normal] min-w-px not-italic relative text-[#627c58] text-[16px] tracking-[-0.48px]" data-node-id="2001:1838">
+                    Im hektischen Alltag verlieren wir schnell den Kontakt zu uns selbst. Bewusste Momente der Ruhe können dabei helfen, wieder mehr Klarheit und Ausgeglichenheit zu finden...
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-[#f6f7f1] content-stretch drop-shadow-[0px_0px_15.8px_rgba(0,0,0,0.35)] flex flex-[1_0_0] flex-col gap-[20px] items-center min-w-px pb-[40px] relative rounded-[20px]" data-node-id="2001:1839" data-name="ARTICLE">
+              <div className="content-stretch flex flex-col h-[300px] items-start justify-end relative rounded-tl-[20px] rounded-tr-[20px] shrink-0 w-full" data-node-id="2001:1840" data-name="IMAGE">
+                <div aria-hidden className="absolute inset-0 pointer-events-none rounded-tl-[20px] rounded-tr-[20px]">
+                  <img alt="" className="absolute max-w-none object-cover rounded-tl-[20px] rounded-tr-[20px] size-full" src={imgImage1} />
+                  <div className="absolute bg-gradient-to-b from-[rgba(0,0,0,0)] inset-0 rounded-tl-[20px] rounded-tr-[20px] to-[rgba(0,0,0,0.48)]" />
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] gap-[10px] items-start min-h-px p-[20px] relative w-full" data-node-id="2001:1841" data-name="AUTHOR">
+                  <div className="bg-white overflow-clip relative rounded-[28.229px] shrink-0 size-[33.211px]" data-node-id="2001:1842" data-name="PICTURE">
+                    <div className="-translate-x-1/2 -translate-y-1/2 absolute h-[62.605px] left-[calc(50%+3.55px)] top-[calc(50%+12.27px)] w-[41.41px]" data-node-id="2001:1843" data-name="image 215">
+                      <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage215} />
+                    </div>
+                  </div>
+                  <div className="bg-[rgba(241,243,241,0.2)] border border-solid border-white content-stretch flex items-center justify-center px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:1844" data-name="NAME">
+                    <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[10px] text-white tracking-[-0.3px] whitespace-nowrap" data-node-id="2001:1845">
+                      Simona Facalau
+                    </p>
+                  </div>
+                </div>
+                <div className="content-stretch flex gap-[10px] items-center pb-[20px] px-[20px] relative shrink-0 w-full" data-node-id="2001:1846" data-name="TAGS">
+                  <div className="content-stretch flex gap-[10px] items-center relative shrink-0" data-node-id="2001:1847" data-name="INFO">
+                    <div className="bg-[rgba(241,243,241,0.2)] border border-solid border-white content-stretch flex items-center justify-center px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:1848" data-name="TAG">
+                      <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[10px] text-white tracking-[-0.3px] whitespace-nowrap" data-node-id="2001:1849">{` Selbstreflexion`}</p>
+                    </div>
+                    <div className="bg-[rgba(241,243,241,0.2)] border border-solid border-white content-stretch flex items-center justify-center px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:1850" data-name="LANGUAGE">
+                      <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[10px] text-white tracking-[-0.3px] whitespace-nowrap" data-node-id="2001:1851">
+                        Deutsch
+                      </p>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] items-center justify-end min-w-px relative" data-node-id="2001:1852" data-name="DATE">
+                    <div className="bg-[rgba(241,243,241,0.2)] border border-solid border-white content-stretch flex items-center justify-center px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:1853" data-name="LANGUAGE">
+                      <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[10px] text-white tracking-[-0.3px] whitespace-nowrap" data-node-id="2001:1854">
+                        August 26, 2026
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:1855" data-name="CONTENT">
+                <div className="content-stretch flex items-center overflow-clip px-[20px] relative shrink-0 w-full" data-node-id="2001:1856" data-name="TITLE">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[36px] tracking-[-1.08px] w-[522px]" data-node-id="2001:1857">
+                    Warum wir immer wieder in alte Muster zurückfallen
+                  </p>
+                </div>
+                <div className="content-stretch flex items-center overflow-clip pt-[10px] px-[20px] relative shrink-0 w-full" data-node-id="2001:1858" data-name="SUB">
+                  <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Medium'] leading-[normal] min-w-px not-italic relative text-[#627c58] text-[16px] tracking-[-0.48px]" data-node-id="2001:1859">
+                    Manche Gedanken und Verhaltensweisen begleiten uns über Jahre, oft ohne dass wir sie bewusst wahrnehmen. Der erste Schritt zur Veränderung beginnt damit, diese Muster zu erkennen...
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-center justify-center p-[40px] relative shrink-0 w-full" data-node-id="2001:1860" data-name="CTA">
+            <a className="bg-[#627c58] content-stretch cursor-pointer flex h-[50px] items-center justify-center overflow-clip relative rounded-[42px] shrink-0 w-[180px]" data-node-id="2001:1861" data-name="CTA">
+              <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[16px] text-left text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:1862">
+                Alle Arikel
+              </p>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div className="bg-[#43673c] content-stretch flex flex-col h-[452.065px] items-center pb-[80px] relative shrink-0 w-[1200px]" data-node-id="2001:1863" data-name="FOOTER">
+        <div className="absolute flex h-[1471.833px] items-center justify-center left-[-736.13px] top-[-57px] w-[2616.592px]" data-node-id="2001:1864">
+          <div className="flex-none rotate-180">
+            <div className="h-[1471.833px] relative w-[2616.592px]">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame219} />
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start justify-end overflow-clip relative shrink-0 w-full" data-node-id="2001:1872">
+          <div className="h-[56.024px] relative shrink-0 w-[259.914px]" data-node-id="2001:1873">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame658} />
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] gap-[191px] items-start min-w-px pl-[255px] pr-[140px] relative" data-node-id="2001:1875">
+            <div className="content-stretch flex flex-col items-start justify-center relative shrink-0" data-node-id="2001:1876" data-name="Discover">
+              <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0" data-node-id="2001:1877">
+                <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:1878">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:1879">
+                    Discover
+                  </p>
+                </div>
+                <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:1880">
+                  <p className="relative shrink-0" data-node-id="2001:1881">
+                    About Me
+                  </p>
+                  <p className="relative shrink-0" data-node-id="2001:1882">
+                    Services
+                  </p>
+                  <p className="relative shrink-0" data-node-id="2001:1883">
+                    How it Works
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[20px] items-start justify-center relative shrink-0" data-node-id="2001:1884" data-name="More">
+              <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:1885">
+                <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:1886">
+                  More
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:1887">
+                <p className="relative shrink-0" data-node-id="2001:1888">
+                  Blog
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1889">
+                  Testimonials
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1890">
+                  FAQ
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1891">
+                  Kontakt
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[20px] items-start justify-center relative shrink-0" data-node-id="2001:1892" data-name="More">
+              <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:1893">
+                <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:1894">
+                  Legal
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:1895">
+                <p className="relative shrink-0" data-node-id="2001:1896">
+                  Prices
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1897">
+                  Impressum
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1898">
+                  Datenschutz
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1899">
+                  AGB
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1900">
+                  Haftungausschluss
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="h-[80px] relative shrink-0 w-[1440px]" data-node-id="2001:1901" data-name="SEPARATOR">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator} />
+        </div>
+        <div className="content-stretch flex gap-[3px] items-center relative shrink-0 w-full" data-node-id="2001:1903">
+          <div className="content-stretch flex flex-[1_0_0] items-center min-w-px relative" data-node-id="2001:1904">
+            <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:1905">
+              ©2026 Systhera Beratung. All rights reserved.
+            </p>
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] gap-[10px] items-center justify-end min-w-px relative" data-node-id="2001:1906" data-name="Legal">
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:1907" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons} />
+            </div>
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:1908" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons1} />
+            </div>
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:1909" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons2} />
+            </div>
+          </div>
+        </div>
+        <div className="h-[80px] relative shrink-0 w-[1440px]" data-node-id="2001:1910" data-name="SEPARATOR">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator} />
+        </div>
+        <div className="content-stretch flex items-center justify-center relative shrink-0 w-full" data-node-id="2001:1912">
+          <p className="[word-break:break-word] font-['Satoshi:Regular'] leading-[normal] not-italic relative shrink-0 text-[15px] text-center text-white tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:1913">{`Powered by Rares Faur & Vlad Veltan`}</p>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+Images and SVGs will be stored as constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

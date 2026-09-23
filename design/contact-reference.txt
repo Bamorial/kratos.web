@@ -1,0 +1,263 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/10453290-0a4f-46ac-89ac-7a46b55b8f35";
+const imgVector = `${assetPathPrefix}/a71e4.svg`;
+const imgVector1 = `${assetPathPrefix}/66a74.svg`;
+const imgSeparator = `${assetPathPrefix}/c3b03.svg`;
+const imgFrame219 = `${assetPathPrefix}/a6d2c.svg`;
+const imgFrame658 = `${assetPathPrefix}/64933.svg`;
+const imgSeparator1 = `${assetPathPrefix}/1911b.svg`;
+const imgSocialIcons = `${assetPathPrefix}/65c27.svg`;
+const imgSocialIcons1 = `${assetPathPrefix}/7a13a.svg`;
+const imgSocialIcons2 = `${assetPathPrefix}/507bc.svg`;
+
+export default function DesktopBreakpointV3Contact() {
+  return (
+    <div className="bg-white content-stretch flex flex-col gap-[160px] items-center px-[360px] relative size-full" data-node-id="2001:1120" data-name="DesktopBreakpoint-V3-CONTACT">
+      <div className="bg-white content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="2001:1121" data-name="MAIN">
+        <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="2001:1122" data-name="HERO">
+          <div className="h-[66.649px] overflow-clip relative shrink-0 w-full" data-node-id="2001:1123" data-name="NAV">
+            <div className="absolute h-[21.476px] left-0 top-[22.59px] w-[99.637px]" data-node-id="2001:1124" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+            </div>
+            <div className="-translate-x-1/2 absolute h-[15px] left-1/2 top-[26px] w-[232px]" data-node-id="2001:1125">
+              <div className="[word-break:break-word] absolute content-stretch flex font-['Satoshi:Medium'] gap-[20px] items-center justify-center leading-none left-0 not-italic text-[#3c4d3a] text-[16px] text-center top-0 tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:1126">
+                <p className="relative shrink-0" data-node-id="2001:1127">
+                  Services
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1128">
+                  Kontakt
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1129">
+                  Blog
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1130">
+                  About
+                </p>
+              </div>
+            </div>
+            <div className="absolute h-[38.649px] left-[1131.82px] top-[14px] w-[68.182px]" data-node-id="2001:1131">
+              <div className="absolute content-stretch flex gap-[13.566px] h-[38.649px] items-center left-[1.82px] top-0" data-node-id="2001:1132">
+                <div className="h-[25.142px] relative shrink-0 w-[27.656px]" data-node-id="2001:1133" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+                </div>
+                <div className="bg-[#653535] overflow-clip relative rounded-[39.809px] shrink-0 size-[25.142px]" data-node-id="2001:1134">
+                  <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal leading-[normal] left-[calc(50%-24.87px)] not-italic text-[#3c4d3a] text-[49.173px] top-[calc(50%-24.62px)] whitespace-nowrap" data-node-id="2001:1135">
+                    🇩🇪
+                  </p>
+                </div>
+              </div>
+              <div className="absolute h-[38.649px] left-[41.05px] top-0 w-[27.132px]" data-node-id="2001:1136" />
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col gap-[80px] items-center relative shrink-0 w-full" data-node-id="2001:1137" data-name="CONTENT">
+            <div className="content-stretch flex items-center justify-center overflow-clip pt-[80px] relative shrink-0 w-full" data-node-id="2001:1138" data-name="TITLE">
+              <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[52px] text-center tracking-[-1.56px] whitespace-nowrap" data-node-id="2001:1139">
+                Let’s Stay in Contact!
+              </p>
+            </div>
+            <div className="content-stretch flex gap-[80px] items-center relative shrink-0 w-full" data-node-id="2001:1140" data-name="TOP Sections">
+              <div className="content-stretch flex flex-col gap-[10px] items-center justify-center overflow-clip relative shrink-0" data-node-id="2001:1141" data-name="CONTACT INFO-1">
+                <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="2001:1142" data-name="Title">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[15px] text-center tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:1143">
+                    E-mail
+                  </p>
+                </div>
+                <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="2001:1144" data-name="Email">
+                  <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[18px] text-center tracking-[-0.54px] whitespace-nowrap" data-node-id="2001:1145">
+                    info@systhera-beratung.de
+                  </p>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col gap-[10px] items-start justify-center overflow-clip relative shrink-0" data-node-id="2001:1146" data-name="CONTACT INFO-2">
+                <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="2001:1147" data-name="Title">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[15px] text-center tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:1148">
+                    Telefon
+                  </p>
+                </div>
+                <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="2001:1149" data-name="Email">
+                  <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[18px] text-center tracking-[-0.54px] whitespace-nowrap" data-node-id="2001:1150">
+                    +49059029992050
+                  </p>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col gap-[10px] items-start justify-center overflow-clip relative shrink-0" data-node-id="2001:1151" data-name="CONTACT INFO-3">
+                <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="2001:1152" data-name="Title">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[15px] text-center tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:1153">
+                    Adresse
+                  </p>
+                </div>
+                <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="2001:1154" data-name="Email">
+                  <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[18px] text-center tracking-[-0.54px] whitespace-nowrap" data-node-id="2001:1155">
+                    Franziskusstrasse 4, 49832 Thuine
+                  </p>
+                </div>
+              </div>
+              <div className="h-[136.601px] relative shrink-0 w-0" data-node-id="2001:1156" data-name="Separator">
+                <div className="absolute inset-[0_-1px]">
+                  <img alt="" className="block max-w-none size-full" src={imgSeparator} />
+                </div>
+              </div>
+              <div className="flex flex-[1_0_0] flex-row items-center self-stretch" data-node-id="2001:1158">
+                <div className="content-stretch flex flex-[1_0_0] flex-col h-full items-start justify-center min-w-px overflow-clip relative" data-name="NOTFALL">
+                  <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="2001:1159" data-name="Title">
+                    <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Black'] leading-[normal] min-w-px not-italic relative text-[#3c4d3a] text-[15px] tracking-[-0.45px]" data-node-id="2001:1160">
+                      Bei einem Notfall rufen Sie die 112 an oder kontaktieren das nächste Krankenhaus
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="2001:1161" data-name="FORM">
+              <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="2001:1162" data-name="Form">
+                <div className="content-stretch flex flex-col gap-[20px] items-center py-[20px] relative shrink-0 w-full" data-node-id="2001:1163" data-name="FormContent">
+                  <div className="content-stretch flex gap-[20px] items-center relative shrink-0 w-full" data-node-id="2001:1164" data-name="Top">
+                    <div className="bg-white content-stretch flex flex-[1_0_0] h-[80px] items-center min-w-px overflow-clip p-[20px] relative rounded-[20px] shadow-[0px_0px_14.8px_6px_rgba(0,0,0,0.08)]" data-node-id="2001:1165" data-name="NAME">
+                      <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#939393] text-[16px] text-center tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:1166">
+                        Name
+                      </p>
+                    </div>
+                    <div className="bg-white content-stretch flex flex-[1_0_0] h-[80px] items-center min-w-px overflow-clip p-[20px] relative rounded-[20px] shadow-[0px_0px_14.8px_6px_rgba(0,0,0,0.08)]" data-node-id="2001:1167" data-name="E-MAIL">
+                      <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#939393] text-[16px] text-center tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:1168">
+                        E-mail Adresse
+                      </p>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="2001:1169" data-name="Mid">
+                    <div className="bg-white content-stretch drop-shadow-[0px_0px_8.05px_rgba(0,0,0,0.15)] flex flex-[1_0_0] h-[203px] items-start min-w-px p-[20px] relative rounded-[20px]" data-node-id="2001:1170" data-name="Message">
+                      <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#939393] text-[16px] text-center tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:1171">
+                        Your message...
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col items-center justify-center pt-[40px] relative shrink-0 w-full" data-node-id="2001:1172" data-name="BUTTON">
+                  <div className="bg-[#627c58] content-stretch flex h-[50px] items-center justify-center overflow-clip relative rounded-[42px] shrink-0 w-[180px]" data-node-id="2001:1173" data-name="CTA">
+                    <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[16px] text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:1174">
+                      Submit
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="bg-[#43673c] content-stretch flex flex-col h-[452.065px] items-center pb-[80px] relative shrink-0 w-[1200px]" data-node-id="2001:1175" data-name="FOOTER">
+        <div className="absolute flex h-[1471.833px] items-center justify-center left-[-736.13px] top-[-57px] w-[2616.592px]" data-node-id="2001:1176">
+          <div className="flex-none rotate-180">
+            <div className="h-[1471.833px] relative w-[2616.592px]">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame219} />
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start justify-end overflow-clip relative shrink-0 w-full" data-node-id="2001:1184">
+          <div className="h-[56.024px] relative shrink-0 w-[259.914px]" data-node-id="2001:1185">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame658} />
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] gap-[191px] items-start min-w-px pl-[255px] pr-[140px] relative" data-node-id="2001:1187">
+            <div className="content-stretch flex flex-col items-start justify-center relative shrink-0" data-node-id="2001:1188" data-name="Discover">
+              <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0" data-node-id="2001:1189">
+                <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:1190">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:1191">
+                    Discover
+                  </p>
+                </div>
+                <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:1192">
+                  <p className="relative shrink-0" data-node-id="2001:1193">
+                    About Me
+                  </p>
+                  <p className="relative shrink-0" data-node-id="2001:1194">
+                    Services
+                  </p>
+                  <p className="relative shrink-0" data-node-id="2001:1195">
+                    How it Works
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[20px] items-start justify-center relative shrink-0" data-node-id="2001:1196" data-name="More">
+              <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:1197">
+                <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:1198">
+                  More
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:1199">
+                <p className="relative shrink-0" data-node-id="2001:1200">
+                  Blog
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1201">
+                  Testimonials
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1202">
+                  FAQ
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1203">
+                  Kontakt
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[20px] items-start justify-center relative shrink-0" data-node-id="2001:1204" data-name="More">
+              <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:1205">
+                <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:1206">
+                  Legal
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:1207">
+                <p className="relative shrink-0" data-node-id="2001:1208">
+                  Prices
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1209">
+                  Impressum
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1210">
+                  Datenschutz
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1211">
+                  AGB
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:1212">
+                  Haftungausschluss
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="h-[80px] relative shrink-0 w-[1440px]" data-node-id="2001:1213" data-name="SEPARATOR">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator1} />
+        </div>
+        <div className="content-stretch flex gap-[3px] items-center relative shrink-0 w-full" data-node-id="2001:1215">
+          <div className="content-stretch flex flex-[1_0_0] items-center min-w-px relative" data-node-id="2001:1216">
+            <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:1217">
+              ©2026 Systhera Beratung. All rights reserved.
+            </p>
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] gap-[10px] items-center justify-end min-w-px relative" data-node-id="2001:1218" data-name="Legal">
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:1219" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons} />
+            </div>
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:1220" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons1} />
+            </div>
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:1221" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons2} />
+            </div>
+          </div>
+        </div>
+        <div className="h-[80px] relative shrink-0 w-[1440px]" data-node-id="2001:1222" data-name="SEPARATOR">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator1} />
+        </div>
+        <div className="content-stretch flex items-center justify-center relative shrink-0 w-full" data-node-id="2001:1224">
+          <p className="[word-break:break-word] font-['Satoshi:Regular'] leading-[normal] not-italic relative shrink-0 text-[15px] text-center text-white tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:1225">{`Powered by Rares Faur & Vlad Veltan`}</p>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+Images and SVGs will be stored as constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

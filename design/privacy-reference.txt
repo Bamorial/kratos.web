@@ -1,0 +1,557 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/b5f5d473-a53a-4487-b934-0d9af786e758";
+const imgVector = `${assetPathPrefix}/a9866.svg`;
+const imgVector1 = `${assetPathPrefix}/66a74.svg`;
+const imgVector2 = `${assetPathPrefix}/c1bc3.svg`;
+const imgVector3 = `${assetPathPrefix}/f14ca.svg`;
+const imgFrame219 = `${assetPathPrefix}/a6d2c.svg`;
+const imgFrame658 = `${assetPathPrefix}/64933.svg`;
+const imgSeparator = `${assetPathPrefix}/1911b.svg`;
+const imgSocialIcons = `${assetPathPrefix}/65c27.svg`;
+const imgSocialIcons1 = `${assetPathPrefix}/7a13a.svg`;
+const imgSocialIcons2 = `${assetPathPrefix}/507bc.svg`;
+
+export default function DesktopBreakpointV3Haftungsausschluss() {
+  return (
+    <div className="bg-white content-stretch flex flex-col gap-[160px] items-center px-[360px] relative size-full" data-node-id="2001:2741" data-name="DesktopBreakpoint-V3-Haftungsausschluss">
+      <div className="bg-white content-stretch flex flex-col gap-[80px] items-center relative shrink-0 w-full" data-node-id="2001:2742" data-name="MAIN">
+        <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="2001:2743" data-name="HERO">
+          <div className="h-[66.649px] overflow-clip relative shrink-0 w-full" data-node-id="2001:2744" data-name="NAV">
+            <div className="absolute h-[21.476px] left-0 top-[22.59px] w-[99.637px]" data-node-id="2001:2745" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+            </div>
+            <div className="-translate-x-1/2 absolute h-[15px] left-1/2 top-[26px] w-[232px]" data-node-id="2001:2746">
+              <div className="[word-break:break-word] absolute content-stretch flex font-['Satoshi:Medium'] gap-[20px] items-center justify-center leading-none left-0 not-italic text-[#3c4d3a] text-[16px] text-center top-0 tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2747">
+                <p className="relative shrink-0" data-node-id="2001:2748">
+                  Services
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2749">
+                  Kontakt
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2750">
+                  Blog
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2751">
+                  About
+                </p>
+              </div>
+            </div>
+            <div className="absolute h-[38.649px] left-[1131.82px] top-[14px] w-[68.182px]" data-node-id="2001:2752">
+              <div className="absolute content-stretch flex gap-[13.566px] h-[38.649px] items-center left-[1.82px] top-0" data-node-id="2001:2753">
+                <div className="h-[25.142px] relative shrink-0 w-[27.656px]" data-node-id="2001:2754" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+                </div>
+                <div className="bg-[#653535] overflow-clip relative rounded-[39.809px] shrink-0 size-[25.142px]" data-node-id="2001:2755">
+                  <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal leading-[normal] left-[calc(50%-24.87px)] not-italic text-[#3c4d3a] text-[49.173px] top-[calc(50%-24.62px)] whitespace-nowrap" data-node-id="2001:2756">
+                    🇩🇪
+                  </p>
+                </div>
+              </div>
+              <div className="absolute h-[38.649px] left-[41.05px] top-0 w-[27.132px]" data-node-id="2001:2757" />
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start justify-center overflow-clip relative shrink-0 w-full" data-node-id="2001:2758" data-name="TITLE">
+          <div className="content-stretch flex flex-[1_0_0] items-start justify-center min-w-px relative" data-node-id="2001:2759">
+            <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[52px] text-center tracking-[-1.56px] whitespace-nowrap" data-node-id="2001:2760">
+              Cookie Richtlinie EU
+            </p>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[40px] items-start relative shrink-0 w-full" data-node-id="2001:2761" data-name="CONTENT">
+          <div className="content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2762" data-name="TEXT1">
+            <div className="[word-break:break-word] font-['Satoshi:Medium'] leading-[0] not-italic relative shrink-0 text-[#3c4d3a] text-[0px] tracking-[-0.48px] w-full whitespace-pre-wrap" data-node-id="2001:2763">
+              <p className="font-['Satoshi:Bold'] leading-[normal] mb-0 text-[24px]">1. Einführung</p>
+              <p className="leading-[normal] mb-0 text-[24px]">​</p>
+              <p className="mb-0 text-[16px]">
+                <span className="leading-[normal]">{`Unsere Website, `}</span>
+                <a className="[text-decoration-skip-ink:none] [text-underline-position:from-font] [word-break:break-word] cursor-pointer decoration-from-font decoration-solid font-['Satoshi:Medium'] leading-[normal] not-italic underline" href="https://systhera-beratung.de/" target="_blank">
+                  <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid underline" href="https://systhera-beratung.de/" target="_blank">{`https://systhera-beratung.de`}</span>
+                </a>
+                <span className="leading-[normal]">{` (im folgenden: „Die Website“) verwendet Cookies und ähnliche Technologien (der Einfachheit halber werden all diese unter „Cookies“ zusammengefasst). Cookies werden außerdem von uns beauftragten Drittparteien platziert. In dem unten stehendem Dokument informieren wir dich über die Verwendung von Cookies auf unserer Website.`}</span>
+              </p>
+              <p className="leading-[normal] mb-0 text-[16px]">​</p>
+              <p className="font-['Satoshi:Bold'] leading-[normal] mb-0 text-[24px]">2. Was sind Cookies?</p>
+              <p className="leading-[normal] mb-0 text-[24px]">​</p>
+              <p className="leading-[normal] mb-0 text-[16px]">Ein Cookie ist eine einfache kleine Datei, die gemeinsam mit den Seiten einer Internetadresse versendet und vom Webbrowser auf dem PC oder einem anderen Gerät gespeichert werden kann. Die darin gespeicherten Informationen können während folgender Besuche zu unseren oder den Servern relevanter Drittanbieter gesendet werden.</p>
+              <p className="leading-[normal] mb-0 text-[16px]">​</p>
+              <p className="font-['Satoshi:Bold'] leading-[normal] mb-0 text-[24px]">3. Was sind Skripte?</p>
+              <p className="leading-[normal] mb-0 text-[24px]">​</p>
+              <p className="leading-[normal] mb-0 text-[16px]">Ein Script ist ein Stück Programmcode, das benutzt wird, um unserer Website Funktionalität und Interaktivität zu ermöglichen. Dieser Code wird auf unseren Servern oder auf deinem Gerät ausgeführt.</p>
+              <p className="leading-[normal] mb-0 text-[16px]">​</p>
+              <p className="font-['Satoshi:Bold'] leading-[normal] mb-0 text-[24px]">4. Was ist ein Web Beacon?</p>
+              <p className="leading-[normal] mb-0 text-[24px]">​</p>
+              <p className="leading-[normal] mb-0 text-[16px]">Ein Web-Beacon (auch Pixel-Tag genannt), ist ein kleines unsichtbares Textfragment oder Bild auf einer Website, das benutzt wird, um den Verkehr auf der Website zu überwachen. Um dies zu ermöglichen werden diverse Daten von dir mittels Web-Beacons gespeichert.</p>
+              <p className="leading-[normal] mb-0 text-[16px]">​</p>
+              <p className="font-['Satoshi:Bold'] leading-[normal] mb-0 text-[24px]">5. Cookies</p>
+              <p className="leading-[normal] mb-0 text-[24px]">​</p>
+              <p className="font-['Satoshi:Bold'] leading-[normal] mb-0 text-[16px]">5.1 Technische oder funktionelle Cookies</p>
+              <p className="leading-[normal] mb-0 text-[16px]">​</p>
+              <p className="leading-[normal] mb-0 text-[16px]">Einige Cookies stellen sicher, dass bestimmte Teile der Website ordnungsgemäß funktionieren und deine Benutzereinstellungen weiterhin in Erinnerung bleiben. Durch das Setzen funktionaler Cookies erleichtern wir dir den Besuch unserer Website. Auf diese Weise musst du beim Besuch unserer Website nicht wiederholt dieselben Informationen eingeben, so bleiben Artikel beispielsweise in deinem Warenkorb, bis du bezahlst. Wir können diese Cookies ohne deine Einwilligung platzieren.</p>
+              <p className="leading-[normal] mb-0 text-[16px]">​</p>
+              <p className="font-['Satoshi:Bold'] leading-[normal] mb-0 text-[16px]">5.2 Analytische Cookies</p>
+              <p className="leading-[normal] mb-0 text-[16px]">​</p>
+              <p className="leading-[normal] mb-0 text-[16px]">Wir verwenden analytische Cookies, um das Website-Erlebnis für unsere Nutzer zu optimieren. Mit diesen analytischen Cookies erhalten wir Einblicke in die Nutzung unserer Website. Wir bitten um deine Erlaubnis, analytische Cookies zu setzen.</p>
+              <p className="leading-[normal] mb-0 text-[16px]">​</p>
+              <p className="font-['Satoshi:Bold'] leading-[normal] mb-0 text-[16px]">5.3 Marketing- / Tracking-Cookies</p>
+              <p className="leading-[normal] mb-0 text-[16px]">​</p>
+              <p className="leading-[normal] text-[16px]">Marketing- / Tracking-Cookies sind Cookies oder eine andere Form der lokalen Speicherung, die zur Erstellung von Benutzerprofilen verwendet werden, um Werbung anzuzeigen oder den Benutzer auf dieser Website oder über mehrere Websites hinweg für ähnliche Marketingzwecke zu verfolgen.</p>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="2001:2764" data-name="COOKIES">
+            <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="2001:2765">
+              <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:2766">
+                6. Platzierte Cookies
+              </p>
+            </div>
+            <div className="content-stretch flex flex-col gap-[20px] items-start justify-center pt-[20px] relative shrink-0 w-full" data-node-id="2001:2767">
+              <div className="bg-white content-stretch drop-shadow-[0px_0px_6.65px_rgba(0,0,0,0.09)] flex h-[50px] items-center px-[20px] relative rounded-[20px] shrink-0 w-[616px]" data-node-id="2001:2768" data-name="CARD1">
+                <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:2769">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[16px] tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2770">
+                    Divi (Elegant Themes)
+                  </p>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] h-full items-center justify-end min-w-px relative" data-node-id="2001:2771">
+                  <div className="content-stretch flex items-center px-[20px] relative shrink-0" data-node-id="2001:2772">
+                    <p className="[word-break:break-word] font-['Satoshi:Regular'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[15px] tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:2773">
+                      funktionelle
+                    </p>
+                  </div>
+                  <div className="content-stretch flex h-full items-center relative shrink-0" data-node-id="2001:2774">
+                    <div className="h-[7.41px] relative shrink-0 w-[12px]" data-node-id="2001:2775" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex h-[50px] items-center overflow-clip px-[20px] relative rounded-[20px] shadow-[0px_0px_13.3px_-1px_rgba(0,0,0,0.09)] shrink-0 w-[616px]" data-node-id="2001:2776" data-name="CARD2">
+                <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:2777">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[16px] tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2778">
+                    ET Editor
+                  </p>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] h-full items-center justify-end min-w-px relative" data-node-id="2001:2779">
+                  <div className="content-stretch flex items-center px-[20px] relative shrink-0" data-node-id="2001:2780">
+                    <p className="[word-break:break-word] font-['Satoshi:Regular'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[15px] tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:2781">
+                      Zweck wird noch ermittelt
+                    </p>
+                  </div>
+                  <div className="content-stretch flex h-full items-center relative shrink-0" data-node-id="2001:2782">
+                    <div className="h-[7.41px] relative shrink-0 w-[12px]" data-node-id="2001:2783" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex flex-col items-start justify-center overflow-clip px-[20px] relative rounded-[20px] shadow-[0px_0px_13.3px_-1px_rgba(0,0,0,0.09)] shrink-0 w-[616px]" data-node-id="2001:2784" data-name="CARD3">
+                <div className="content-stretch flex h-[50px] items-center justify-between relative shrink-0 w-full" data-node-id="2001:2785" data-name="TOP">
+                  <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:2786">
+                    <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[16px] tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2787">
+                      Complianz
+                    </p>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] h-full items-center justify-end min-w-px relative" data-node-id="2001:2788">
+                    <div className="content-stretch flex items-center px-[20px] relative shrink-0" data-node-id="2001:2789">
+                      <p className="[word-break:break-word] font-['Satoshi:Regular'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[15px] tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:2790">
+                        funktionelle
+                      </p>
+                    </div>
+                    <div className="content-stretch flex h-full items-center relative shrink-0" data-node-id="2001:2791">
+                      <div className="flex items-center justify-center relative shrink-0" data-node-id="2001:2792">
+                        <div className="flex-none rotate-180">
+                          <div className="h-[7.41px] relative w-[12px]" data-name="Vector">
+                            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector3} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex gap-[20px] items-center py-[20px] relative shrink-0 w-full" data-node-id="2001:2793" data-name="MID">
+                  <div className="content-stretch flex flex-[1_0_0] items-center min-w-px relative" data-node-id="2001:2794" data-name="LEFT">
+                    <div className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Medium'] leading-[0] min-w-px not-italic relative text-[#3c4d3a] text-[0px] tracking-[-0.45px]" data-node-id="2001:2795">
+                      <p className="leading-[normal] mb-0 text-[15px]">Verwendung</p>
+                      <p className="mb-0 text-[15px]">
+                        <span className="leading-[normal]">{`Wir verwenden Complianz für Verwaltung der Cookie-Einwilligung. `}</span>
+                        <a className="[text-decoration-skip-ink:none] [text-underline-position:from-font] cursor-pointer decoration-from-font decoration-solid leading-[normal] underline" href="https://cookiedatabase.org/service/complianz/" target="_blank">
+                          <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid underline" href="https://cookiedatabase.org/service/complianz/" target="_blank">
+                            Weitere Informationen zu Complianz
+                          </span>
+                        </a>
+                      </p>
+                      <p className="leading-[normal] text-[15px]">​</p>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] items-center justify-end min-w-px relative" data-node-id="2001:2796" data-name="RIGHT">
+                    <div className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Medium'] leading-[0] min-w-px not-italic relative text-[#3c4d3a] text-[15px] tracking-[-0.45px]" data-node-id="2001:2797">
+                      <p className="leading-[normal] mb-0">Weitergabe von Daten</p>
+                      <p>
+                        <span className="leading-[normal]">{`Diese Daten werden nicht an Dritte weitergegeben. Für weitere Informationen, bitte die `}</span>
+                        <a className="[text-decoration-skip-ink:none] [text-underline-position:from-font] cursor-pointer decoration-from-font decoration-solid leading-[normal] underline" href="https://complianz.io/legal/privacy-statement/" target="_blank">
+                          <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid underline" href="https://complianz.io/legal/privacy-statement/" target="_blank">
+                            Complianz Datenschutzerklärung
+                          </span>
+                        </a>
+                        <span className="leading-[normal]">{` lesen.`}</span>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2798" data-name="BOTTOM">
+                  <div className="content-stretch flex items-center overflow-clip pb-[20px] relative shrink-0 w-full" data-node-id="2001:2799">
+                    <p className="[word-break:break-word] font-['Satoshi:Regular'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[15px] tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:2800">
+                      funktionelle
+                    </p>
+                  </div>
+                  <div className="content-stretch flex gap-[20px] items-start justify-center overflow-clip relative shrink-0" data-node-id="2001:2801" data-name="CARDS">
+                    <div className="content-stretch flex flex-col items-center overflow-clip relative shrink-0" data-node-id="2001:2802" data-name="1">
+                      <div className="bg-[#f6f7f1] content-stretch flex flex-col items-center justify-center overflow-clip px-[57px] py-[5px] relative rounded-[20px] shrink-0" data-node-id="2001:2803" data-name="TITLE">
+                        <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[15px] tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:2804">
+                          Name
+                        </p>
+                      </div>
+                      <div className="bg-white content-stretch flex flex-col items-center justify-center overflow-clip py-[20px] relative shrink-0 w-full" data-node-id="2001:2805" data-name="ITEM">
+                        <a className="[word-break:break-word] block font-['Satoshi:Medium'] leading-[0] not-italic relative shrink-0 text-[#3c4d3a] text-[15px] tracking-[-0.45px] whitespace-nowrap" href="https://cookiedatabase.org/cookie/complianz/complianz_policy_id/" data-node-id="2001:2806" target="_blank">
+                          <p className="[text-underline-position:from-font] cursor-pointer decoration-from-font decoration-solid leading-[normal] underline">complianz_policy_id</p>
+                        </a>
+                      </div>
+                      <div className="bg-white content-stretch flex flex-col items-center justify-center overflow-clip py-[20px] relative shrink-0 w-full" data-node-id="2001:2807" data-name="ITEM">
+                        <a className="[word-break:break-word] block font-['Satoshi:Medium'] leading-[0] not-italic relative shrink-0 text-[#3c4d3a] text-[15px] tracking-[-0.45px] whitespace-nowrap" href="https://cookiedatabase.org/cookie/complianz/cmplz_stats/" data-node-id="2001:2808" target="_blank">
+                          <p className="[text-underline-position:from-font] cursor-pointer decoration-from-font decoration-solid leading-[normal] underline">cmplz_stats</p>
+                        </a>
+                      </div>
+                      <div className="bg-white content-stretch flex flex-col h-[60px] items-center justify-center overflow-clip p-[20px] relative shrink-0 w-full" data-node-id="2001:2809" data-name="ITEM">
+                        <a className="[word-break:break-word] block font-['Satoshi:Medium'] h-[20px] leading-[0] not-italic relative shrink-0 text-[#3c4d3a] text-[15px] tracking-[-0.45px] w-full" href="https://cookiedatabase.org/cookie/complianz/complianz_policy_id/" data-node-id="2001:2810" target="_blank">
+                          <p className="cursor-pointer">
+                            <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[normal] underline" role="link" tabIndex="0">
+                              complianz_consent_status
+                            </span>
+                            <span className="leading-[normal]">{` `}</span>
+                          </p>
+                        </a>
+                      </div>
+                      <div className="bg-white content-stretch flex flex-col items-center justify-center overflow-clip p-[20px] relative shrink-0 w-full" data-node-id="2001:2811" data-name="ITEM">
+                        <a className="[word-break:break-word] block font-['Satoshi:Medium'] leading-[0] not-italic relative shrink-0 text-[#3c4d3a] text-[15px] tracking-[-0.45px] w-full" href="https://cookiedatabase.org/cookie/complianz/cmplz_marketing/" data-node-id="2001:2812" target="_blank">
+                          <p className="[text-underline-position:from-font] cursor-pointer decoration-from-font decoration-solid leading-[normal] underline">cmplz_marketing</p>
+                        </a>
+                      </div>
+                    </div>
+                    <div className="content-stretch flex flex-col items-center overflow-clip px-[20px] relative shrink-0" data-node-id="2001:2813" data-name="2">
+                      <div className="bg-[#f6f7f1] content-stretch flex flex-col items-center justify-center overflow-clip px-[20px] py-[5px] relative rounded-[20px] shrink-0 w-full" data-node-id="2001:2814" data-name="TITLE">
+                        <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[15px] tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:2815">
+                          Ablaufdatum
+                        </p>
+                      </div>
+                      <div className="bg-white content-stretch flex flex-col items-center justify-center overflow-clip py-[20px] relative shrink-0" data-node-id="2001:2816" data-name="ITEM">
+                        <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[15px] text-center tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:2817">
+                          365 Tage
+                        </p>
+                      </div>
+                      <div className="bg-white content-stretch flex flex-col items-center justify-center overflow-clip py-[20px] relative shrink-0" data-node-id="2001:2818" data-name="ITEM">
+                        <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[15px] tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:2819">
+                          365 Tage
+                        </p>
+                      </div>
+                      <div className="bg-white content-stretch flex flex-col items-center justify-center overflow-clip py-[20px] relative shrink-0" data-node-id="2001:2820" data-name="ITEM">
+                        <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[15px] text-center tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:2821">
+                          365 Tage
+                        </p>
+                      </div>
+                      <div className="bg-white content-stretch flex flex-col items-center justify-center overflow-clip py-[20px] relative shrink-0" data-node-id="2001:2822" data-name="ITEM">
+                        <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[15px] text-center tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:2823">
+                          365 Tage
+                        </p>
+                      </div>
+                    </div>
+                    <div className="content-stretch flex flex-col h-[290px] items-center overflow-clip relative shrink-0" data-node-id="2001:2824" data-name="3">
+                      <div className="bg-[#f6f7f1] content-stretch flex flex-col items-center justify-center overflow-clip px-[57px] py-[5px] relative rounded-[20px] shrink-0" data-node-id="2001:2825" data-name="TITLE">
+                        <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[15px] tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:2826">
+                          Funktion
+                        </p>
+                      </div>
+                      <div className="content-stretch flex flex-col h-[60px] items-center justify-center overflow-clip py-[20px] relative shrink-0 w-full" data-node-id="2001:2827" data-name="ITEM">
+                        <div className="[word-break:break-word] font-['Satoshi:Medium'] leading-[0] not-italic relative shrink-0 text-[#3c4d3a] text-[10px] tracking-[-0.3px] w-full" data-node-id="2001:2828">
+                          <p className="leading-[normal] mb-0">Funktion</p>
+                          <p className="leading-[normal]">Erfasse die ID für die angenommene Cookie-Richtlinie</p>
+                        </div>
+                      </div>
+                      <div className="content-stretch flex flex-col h-[60px] items-center justify-center overflow-clip py-[20px] relative shrink-0 w-full" data-node-id="2001:2829" data-name="ITEM">
+                        <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[10px] tracking-[-0.3px] w-full" data-node-id="2001:2830">
+                          Speichere Cookie-Einwilligungsvorgaben
+                        </p>
+                      </div>
+                      <div className="content-stretch flex flex-col h-[60px] items-center justify-center overflow-clip py-[20px] relative shrink-0 w-full" data-node-id="2001:2831" data-name="ITEM">
+                        <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[10px] tracking-[-0.3px] w-full" data-node-id="2001:2832">
+                          Speichere Cookie-Einwilligungsvorgaben
+                        </p>
+                      </div>
+                      <div className="content-stretch flex flex-col h-[60px] items-center justify-center overflow-clip py-[20px] relative shrink-0 w-full" data-node-id="2001:2833" data-name="ITEM">
+                        <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[10px] tracking-[-0.3px] w-full" data-node-id="2001:2834">
+                          Speichere Cookie-Einwilligungsvorgaben
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2835" data-name="TEXT2">
+            <div className="[word-break:break-word] font-['Satoshi:Medium'] leading-[0] not-italic relative shrink-0 text-[#3c4d3a] text-[0px] tracking-[-0.48px] w-full whitespace-pre-wrap" data-node-id="2001:2836">
+              <p className="font-['Satoshi:Bold'] leading-[normal] mb-0 text-[24px]">7. Einwilligung</p>
+              <p className="leading-[normal] mb-0 text-[24px]">​</p>
+              <p className="leading-[normal] text-[16px]">Wenn du unsere Website das erste Mal besuchst, zeigen wir dir ein Pop-Up mit einer Erklärung über Cookies. Sobald du auf „Einstellungen speichern“ klickst, gibst du uns deine Einwilligung alle von dir gewählten Kategorien von Cookies und Plugins wie in dieser Cookie-Erklärung beschrieben zu verwenden. Du kannst die Verwendung von Cookies über deinen Browser deaktivieren, aber bitte beachte, dass unsere Website dann unter Umständen nicht richtig funktioniert.</p>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="2001:2837" data-name="COOKIES">
+            <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="2001:2838">
+              <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:2839">
+                6. Platzierte Cookies
+              </p>
+            </div>
+            <div className="content-stretch flex flex-col gap-[20px] items-start justify-center pt-[20px] relative shrink-0 w-full" data-node-id="2001:2840">
+              <div className="bg-white content-stretch drop-shadow-[0px_0px_6.65px_rgba(0,0,0,0.09)] flex h-[50px] items-center px-[20px] relative rounded-[20px] shrink-0 w-[616px]" data-node-id="2001:2841" data-name="CARD1">
+                <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:2842">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[16px] tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2843">
+                    Funktional
+                  </p>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] h-full items-center justify-end min-w-px relative" data-node-id="2001:2844">
+                  <div className="content-stretch flex items-center px-[20px] relative shrink-0" data-node-id="2001:2845">
+                    <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#31aa23] text-[15px] tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:2846">
+                      immer aktiv
+                    </p>
+                  </div>
+                  <div className="content-stretch flex h-full items-center relative shrink-0" data-node-id="2001:2847">
+                    <div className="h-[7.41px] relative shrink-0 w-[12px]" data-node-id="2001:2848" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex h-[50px] items-center overflow-clip px-[20px] relative rounded-[20px] shadow-[0px_0px_13.3px_-1px_rgba(0,0,0,0.09)] shrink-0 w-[616px]" data-node-id="2001:2849" data-name="CARD2">
+                <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:2850">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[16px] tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2851">
+                    Statistiken
+                  </p>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] h-full items-center justify-end min-w-px relative" data-node-id="2001:2852">
+                  <div className="content-stretch flex h-[20px] items-center px-[20px] relative shrink-0 w-[199px]" data-node-id="2001:2853" />
+                  <div className="bg-[#f6f7f1] h-[24px] relative rounded-[5px] shadow-[0px_0px_4px_0px_rgba(0,0,0,0.21)] shrink-0 w-[26px]" data-node-id="2001:2854" />
+                  <div className="content-stretch flex h-full items-center pl-[20px] relative shrink-0" data-node-id="2001:2855">
+                    <div className="h-[7.41px] relative shrink-0 w-[12px]" data-node-id="2001:2856" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-white content-stretch flex h-[50px] items-center overflow-clip px-[20px] relative rounded-[20px] shadow-[0px_0px_13.3px_-1px_rgba(0,0,0,0.09)] shrink-0 w-[616px]" data-node-id="2001:2857" data-name="CARD2">
+                <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:2858">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[16px] tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2859">
+                    Marketing
+                  </p>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] h-full items-center justify-end min-w-px relative" data-node-id="2001:2860">
+                  <div className="content-stretch flex h-[20px] items-center px-[20px] relative shrink-0 w-[199px]" data-node-id="2001:2861" />
+                  <div className="bg-[#f6f7f1] h-[24px] relative rounded-[5px] shadow-[0px_0px_4px_0px_rgba(0,0,0,0.21)] shrink-0 w-[26px]" data-node-id="2001:2862" />
+                  <div className="content-stretch flex h-full items-center pl-[20px] relative shrink-0" data-node-id="2001:2863">
+                    <div className="h-[7.41px] relative shrink-0 w-[12px]" data-node-id="2001:2864" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex items-center justify-center overflow-clip pt-[20px] relative shrink-0 w-[616px]" data-node-id="2001:2865">
+                <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Medium'] leading-[normal] min-w-px not-italic relative text-[#3c4d3a] text-[16px] tracking-[-0.48px]" data-node-id="2001:2866">
+                  Die technische Speicherung oder der Zugriff ist erforderlich, um Nutzerprofile zu erstellen, um Werbung zu versenden oder um den Nutzer auf einer Website oder über mehrere Websites hinweg zu ähnlichen Marketingzwecken zu verfolgen.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2867" data-name="TEXT3">
+            <div className="[word-break:break-word] font-['Satoshi:Medium'] leading-[0] not-italic relative shrink-0 text-[#3c4d3a] text-[0px] tracking-[-0.48px] w-full" data-node-id="2001:2868">
+              <p className="font-['Satoshi:Bold'] leading-[normal] mb-0 text-[24px] whitespace-pre-wrap">8. Aktivierung/Deaktivierung und Löschen von Cookies</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">​</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">Du kannst deinen Internetbrowser verwenden um automatisch oder manuell Cookies zu löschen. Du kannst außerdem spezifizieren ob spezielle Cookies nicht platziert werden sollen. Eine andere Möglichkeit ist es deinen Internetbrowser derart einzurichten, dass du jedes Mal benachrichtigt wirst, wenn ein Cookie platziert wird. Für weitere Information über diese Möglichkeiten beachte die Anweisungen in der Hilfesektion deines Browsers.</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">Bitte nimm zur Kenntnis, dass unsere Website möglicherweise nicht richtig funktioniert, wenn alle Cookies deaktiviert sind. Wenn du die Cookies in deinem Browser löscht, werden diese neu platziert, wenn du unsere Website erneut besuchst.</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">​</p>
+              <p className="font-['Satoshi:Bold'] leading-[normal] mb-0 text-[24px] whitespace-pre-wrap">9. Deine Rechte in Bezug auf personenbezogene Daten</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">​</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">Du hast folgende Rechte in Bezug auf deine personenbezogenen Daten:</p>
+              <ul className="list-disc mb-0">
+                <li className="mb-0 ms-[calc(var(--list-marker-font-size,0)*1.5*1)]">
+                  <span className="leading-[normal] text-[16px]">Du hast das Recht zu erfahren, warum deine personenbezogenen Daten benötigt werden, was damit passiert und wie lange sie aufbewahrt werden.</span>
+                </li>
+                <li className="mb-0 ms-[calc(var(--list-marker-font-size,0)*1.5*1)]">
+                  <span className="leading-[normal] text-[16px]">Auskunftsrecht: Du hast das Recht deine uns bekannten persönliche Daten einzusehen.</span>
+                </li>
+                <li className="mb-0 ms-[calc(var(--list-marker-font-size,0)*1.5*1)]">
+                  <span className="leading-[normal] text-[16px]">Recht auf Berichtigung: Du hast das Recht wann immer du wünscht, deine personenbezogenen Daten zu ergänzen, zu korrigieren sowie gelöscht oder blockiert zu bekommen.</span>
+                </li>
+                <li className="mb-0 ms-[calc(var(--list-marker-font-size,0)*1.5*1)]">
+                  <span className="leading-[normal] text-[16px]">Wenn du uns deine Einwilligung zur Verarbeitung deiner Daten erteilst, hast du das Recht diese Einwilligung zu widerrufen und deine personenbezogenen Daten löschen zu lassen.</span>
+                </li>
+                <li className="mb-0 ms-[calc(var(--list-marker-font-size,0)*1.5*1)]">
+                  <span className="leading-[normal] text-[16px]">Recht auf Datenübertragbarkeit: Du hast das Recht, alle deine personenbezogenen Daten von dem für die Verarbeitung Verantwortlichen anzufordern und sie vollständig an einen anderen für die Verarbeitung Verantwortlichen zu übermitteln.</span>
+                </li>
+                <li className="ms-[calc(var(--list-marker-font-size,0)*1.5*1)]">
+                  <span className="leading-[normal] text-[16px]">Widerspruchsrecht: Du kannst der Verarbeitung deiner Daten widersprechen. Wir entsprechen dem, es sei denn es gibt berechtigte Gründe für die Verarbeitung.</span>
+                </li>
+              </ul>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">Um diese Rechte auszuüben kontaktiere uns bitte. Bitte beziehe dich auf die Kontaktdaten am Ende dieser Cookie-Erklärung. Wenn du eine Beschwerde darüber hast, wie wir deine Daten behandeln, würden wir diese gerne hören, aber du hast auch das Recht diese an die Aufsichtsbehörde (Datenschutzbehörde) zu richten.</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">​</p>
+              <p className="font-['Satoshi:Bold'] leading-[normal] mb-0 text-[24px] whitespace-pre-wrap">10. Kontaktdaten</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">​</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">Für Fragen und/oder Kommentare über unsere Cookie-Richtlinien und diese Aussage kontaktiere uns bitte mittels der folgenden Kontaktdaten:</p>
+              <p className="mb-0 text-[16px] whitespace-pre-wrap">
+                <span className="leading-[normal]">
+                  Simona Facalau
+                  <br aria-hidden />
+                  Franziskusstrasse 4, 49832 Thuine
+                  <br aria-hidden />
+                  Deutschland
+                  <br aria-hidden />
+                  {`Website: `}
+                </span>
+                <a className="[text-decoration-skip-ink:none] [text-underline-position:from-font] cursor-pointer decoration-from-font decoration-solid leading-[normal] underline" href="https://systhera-beratung.de/" target="_blank">
+                  <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid underline" href="https://systhera-beratung.de/" target="_blank">{`https://systhera-beratung.de`}</span>
+                </a>
+                <span className="leading-[normal]">
+                  <br aria-hidden />
+                  E-Mail: info@systhera-beratung.de
+                  <br aria-hidden />
+                  Telefonnummer: 05902 9992050
+                </span>
+              </p>
+              <p className="text-[16px] whitespace-pre-wrap">
+                <span className="leading-[normal]">{`Diese Cookie-Richtlinie wurde mit `}</span>
+                <a className="[text-decoration-skip-ink:none] [text-underline-position:from-font] cursor-pointer decoration-from-font decoration-solid leading-[normal] underline" href="https://cookiedatabase.org/" target="_blank">
+                  <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid underline" href="https://cookiedatabase.org/" target="_blank">
+                    cookiedatabase.org
+                  </span>
+                </a>
+                <span className="leading-[normal]">{` am 6. Dezember 2020 synchronisiert.`}</span>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="bg-[#43673c] content-stretch flex flex-col h-[452.065px] items-center pb-[80px] relative shrink-0 w-[1200px]" data-node-id="2001:2869" data-name="FOOTER">
+        <div className="absolute flex h-[1471.833px] items-center justify-center left-[-736.13px] top-[-57px] w-[2616.592px]" data-node-id="2001:2870">
+          <div className="flex-none rotate-180">
+            <div className="h-[1471.833px] relative w-[2616.592px]">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame219} />
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start justify-end overflow-clip relative shrink-0 w-full" data-node-id="2001:2878">
+          <div className="h-[56.024px] relative shrink-0 w-[259.914px]" data-node-id="2001:2879">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame658} />
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] gap-[191px] items-start min-w-px pl-[255px] pr-[140px] relative" data-node-id="2001:2881">
+            <div className="content-stretch flex flex-col items-start justify-center relative shrink-0" data-node-id="2001:2882" data-name="Discover">
+              <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0" data-node-id="2001:2883">
+                <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:2884">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:2885">
+                    Discover
+                  </p>
+                </div>
+                <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2886">
+                  <p className="relative shrink-0" data-node-id="2001:2887">
+                    About Me
+                  </p>
+                  <p className="relative shrink-0" data-node-id="2001:2888">
+                    Services
+                  </p>
+                  <p className="relative shrink-0" data-node-id="2001:2889">
+                    How it Works
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[20px] items-start justify-center relative shrink-0" data-node-id="2001:2890" data-name="More">
+              <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:2891">
+                <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:2892">
+                  More
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2893">
+                <p className="relative shrink-0" data-node-id="2001:2894">
+                  Blog
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2895">
+                  Testimonials
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2896">
+                  FAQ
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2897">
+                  Kontakt
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[20px] items-start justify-center relative shrink-0" data-node-id="2001:2898" data-name="More">
+              <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:2899">
+                <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:2900">
+                  Legal
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2901">
+                <p className="relative shrink-0" data-node-id="2001:2902">
+                  Prices
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2903">
+                  Impressum
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2904">
+                  Datenschutz
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2905">
+                  AGB
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2906">
+                  Haftungausschluss
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="h-[80px] relative shrink-0 w-[1440px]" data-node-id="2001:2907" data-name="SEPARATOR">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator} />
+        </div>
+        <div className="content-stretch flex gap-[3px] items-center relative shrink-0 w-full" data-node-id="2001:2909">
+          <div className="content-stretch flex flex-[1_0_0] items-center min-w-px relative" data-node-id="2001:2910">
+            <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2911">
+              ©2026 Systhera Beratung. All rights reserved.
+            </p>
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] gap-[10px] items-center justify-end min-w-px relative" data-node-id="2001:2912" data-name="Legal">
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:2913" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons} />
+            </div>
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:2914" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons1} />
+            </div>
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:2915" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons2} />
+            </div>
+          </div>
+        </div>
+        <div className="h-[80px] relative shrink-0 w-[1440px]" data-node-id="2001:2916" data-name="SEPARATOR">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator} />
+        </div>
+        <div className="content-stretch flex items-center justify-center relative shrink-0 w-full" data-node-id="2001:2918">
+          <p className="[word-break:break-word] font-['Satoshi:Regular'] leading-[normal] not-italic relative shrink-0 text-[15px] text-center text-white tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:2919">{`Powered by Rares Faur & Vlad Veltan`}</p>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+Images and SVGs will be stored as constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

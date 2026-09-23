@@ -1,0 +1,245 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/22769b34-3c7a-4a3a-80a6-fde521acbb5d";
+const imgVector = `${assetPathPrefix}/a9866.svg`;
+const imgVector1 = `${assetPathPrefix}/66a74.svg`;
+const imgFrame219 = `${assetPathPrefix}/a6d2c.svg`;
+const imgFrame658 = `${assetPathPrefix}/64933.svg`;
+const imgSeparator = `${assetPathPrefix}/1911b.svg`;
+const imgSocialIcons = `${assetPathPrefix}/65c27.svg`;
+const imgSocialIcons1 = `${assetPathPrefix}/7a13a.svg`;
+const imgSocialIcons2 = `${assetPathPrefix}/507bc.svg`;
+
+export default function DesktopBreakpointV3Haftungsausschluss() {
+  return (
+    <div className="bg-white content-stretch flex flex-col gap-[160px] items-center px-[360px] relative size-full" data-node-id="2001:2453" data-name="DesktopBreakpoint-V3-Haftungsausschluss">
+      <div className="bg-white content-stretch flex flex-col gap-[80px] items-center relative shrink-0 w-full" data-node-id="2001:2454" data-name="MAIN">
+        <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="2001:2455" data-name="HERO">
+          <div className="h-[66.649px] overflow-clip relative shrink-0 w-full" data-node-id="2001:2456" data-name="NAV">
+            <div className="absolute h-[21.476px] left-0 top-[22.59px] w-[99.637px]" data-node-id="2001:2457" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+            </div>
+            <div className="-translate-x-1/2 absolute h-[15px] left-1/2 top-[26px] w-[232px]" data-node-id="2001:2458">
+              <div className="[word-break:break-word] absolute content-stretch flex font-['Satoshi:Medium'] gap-[20px] items-center justify-center leading-none left-0 not-italic text-[#3c4d3a] text-[16px] text-center top-0 tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2459">
+                <p className="relative shrink-0" data-node-id="2001:2460">
+                  Services
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2461">
+                  Kontakt
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2462">
+                  Blog
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2463">
+                  About
+                </p>
+              </div>
+            </div>
+            <div className="absolute h-[38.649px] left-[1131.82px] top-[14px] w-[68.182px]" data-node-id="2001:2464">
+              <div className="absolute content-stretch flex gap-[13.566px] h-[38.649px] items-center left-[1.82px] top-0" data-node-id="2001:2465">
+                <div className="h-[25.142px] relative shrink-0 w-[27.656px]" data-node-id="2001:2466" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+                </div>
+                <div className="bg-[#653535] overflow-clip relative rounded-[39.809px] shrink-0 size-[25.142px]" data-node-id="2001:2467">
+                  <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal leading-[normal] left-[calc(50%-24.87px)] not-italic text-[#3c4d3a] text-[49.173px] top-[calc(50%-24.62px)] whitespace-nowrap" data-node-id="2001:2468">
+                    🇩🇪
+                  </p>
+                </div>
+              </div>
+              <div className="absolute h-[38.649px] left-[41.05px] top-0 w-[27.132px]" data-node-id="2001:2469" />
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start justify-center overflow-clip relative shrink-0 w-full" data-node-id="2001:2470" data-name="TITLE">
+          <div className="content-stretch flex flex-[1_0_0] items-start justify-center min-w-px relative" data-node-id="2001:2471">
+            <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Bold'] leading-[normal] min-w-px not-italic relative text-[#3c4d3a] text-[52px] text-center tracking-[-1.56px]" data-node-id="2001:2472">
+              Haftungsausschluss
+            </p>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="2001:2473" data-name="CONTENT">
+          <div className="content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2474" data-name="TEXT">
+            <div className="[word-break:break-word] font-['Satoshi:Medium'] leading-[0] not-italic relative shrink-0 text-[#3c4d3a] text-[0px] tracking-[-0.48px] w-full" data-node-id="2001:2475">
+              <p className="font-['Satoshi:Bold'] leading-[normal] mb-0 text-[24px] whitespace-pre-wrap">Haftungsausschlusserklärung von TeilnehmerIn an Qigong Basis Kurs Prävention</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">​</p>
+              <ul className="mb-0">
+                <li className="list-disc ms-[calc(var(--list-marker-font-size,0)*1.5*1)]">
+                  <span className="leading-[normal] text-[16px]">Zwischen Frau Facalau Simona-Liliana, Qigong Kursleiterin und TeilnehmerIn</span>
+                </li>
+              </ul>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">​</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">Name________________________Vorname_________________________________</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">​</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">Straße_______________________Nr.___Ort/Postleitzahl_______________________</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">​</p>
+              <ol className="list-decimal mb-0">
+                <ol className="list-[lower-alpha]" start="1">
+                  <li className="mb-0 ms-[calc(var(--list-marker-font-size,0)*1.5*2)]">
+                    <span className="leading-[normal] text-[16px]">Die Teilnahme Am Qigong Basiskurs erfolgt auf eigene Gefahr und Risiko.</span>
+                  </li>
+                  <li className="mb-0 ms-[calc(var(--list-marker-font-size,0)*1.5*2)]">
+                    <span className="leading-[normal] text-[16px]">Ich verzichte hiermit ausdrücklich auf sämtliche Ansprüche gleich welcher Art, aus Schadensfällen, Verletzungen oder Folgeschädigungen, die im Zusammenhang mit meiner Teilnahme am Training mit Video- Livestream und oder der Nutzung von Google Meet eintreten könnten. Der Ort der Ausübung des Trainings obliegt der Entscheidung der TeilnehmnerIn.</span>
+                  </li>
+                  <li className="mb-0 ms-[calc(var(--list-marker-font-size,0)*1.5*2)]">
+                    <span className="leading-[normal] text-[16px]">Ich versichere „sportgesund“ zu sein. Laut Definition ist sportgesund eine Person ohne aktuelle pathologische Befunde.</span>
+                  </li>
+                  <li className="mb-0 ms-[calc(var(--list-marker-font-size,0)*1.5*2)]">
+                    <span className="leading-[normal] text-[16px]">Ich habe mich beim einem Arzt meines Gesundheitszustandes versichert. Sollte dies nicht der Fall gewesen sein, so nehme ich auf eigene Verantwortung am Unterricht teil.</span>
+                  </li>
+                  <li className="mb-0 ms-[calc(var(--list-marker-font-size,0)*1.5*2)]">
+                    <span className="leading-[normal] text-[16px]">Für gesundheitliche Risiken, auch solche, die mir selbst aktuell nicht bekannt sind, übernehme ich allein die Verantwortung und stelle Frau Facalau im Falle eines Unfalls/ Schadens von etwaige Ansprüche frei.</span>
+                  </li>
+                  <li className="ms-[calc(var(--list-marker-font-size,0)*1.5*2)]">
+                    <span className="leading-[normal] text-[16px]">Jede Erkrankung, sowie Schmerz, Schwindel oder Unwohlsein während des Live Streams ist dem Trainerin sofort mit zuteilten. Ansonsten kontaktieren Sie bitte Ihren zuständigen Arzt !</span>
+                  </li>
+                </ol>
+              </ol>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">​</p>
+              <ul className="mb-0">
+                <li className="list-disc ms-[calc(var(--list-marker-font-size,0)*1.5*1)]">
+                  <span className="leading-[normal] text-[16px]">Datenschutz- Erklärung und Einwilligung für die Nutzung und Verarbeitung personenbezogener Daten</span>
+                </li>
+              </ul>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">​</p>
+              <ul className="mb-0">
+                <li className="leading-[normal] list-disc ms-[calc(var(--list-marker-font-size,0)*1.5*1)] text-[16px]">
+                  {`Ich versichere hiermit und stimme zu folgende Datenschutz Erklärungen, die ich selbst gelesen und zur Kenntnis genommen habe: AGB auf die Seite `}
+                  <a className="[text-decoration-skip-ink:none] [text-underline-position:from-font] cursor-pointer decoration-from-font decoration-solid underline" href="http://www.systhera-beratung.de/" target="_blank">
+                    <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid underline" href="http://www.systhera-beratung.de/" target="_blank">
+                      www.systhera-beratung.de
+                    </span>
+                  </a>
+                </li>
+              </ul>
+              <p className="leading-[normal] mb-0 text-[24px] whitespace-pre-wrap">​</p>
+              <p className="font-['Satoshi:Bold'] leading-[normal] mb-0 text-[24px] whitespace-pre-wrap">Zusatzklausel:</p>
+              <p className="leading-[normal] mb-0 text-[24px] whitespace-pre-wrap">​</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">Die Kursleiterin, Frau Facalau verflichtet sich, bei Anfrage für jeder KursteilnehmerIn, die oben gennanten Datenschutzerklärungen auch im Schriftform zur Verfügung zu stellen.</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">​</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">Die Persönliche Daten der TeilnehmerIn (Name, Adresse, Geburtsdatum und Tel. Nr. )werden von Fr. Facalau gespeichert und nur zur organisatorische Zwecke genutzt für diesen Kurs oder für weitere Informationen bezüglich weiteren Kurse oder Präventionsangebote genutzt. Die personenbezogener Daten werden nicht an Drittanbieter weitergegeben oder für anderen Zwecke benutzt.Zuständig und haftend für die Umsetzung der Datenschutzmaßnahmen ist Frau Facalau Simona-Liliana als Datenschutzbeauftragte.</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">​</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">Rechte des Kunden: Auskunft, Berichtigung, Löschung und Sperrung, Widerspruchsrecht Sie sind gemäß § 15 DSGVO jederzeit berechtigt, gegenüber der Frau Facalau Simona-Liliana um umfangreiche Auskunftserteilung zu den zu Ihrer Person gespeicherten Daten zu ersuchen. Gemäß § 17 DSGVO können Sie jederzeit gegenüber der Frau Facalau Simona-Liliana die Berichtigung, Löschung und Sperrung einzelner personenbezogener Daten verlangen. Sie können darüber hinaus jederzeit ohne Angabe von Gründen von Ihrem Widerspruchsrecht Gebrauch machen und die erteilte Einwilligungserklärung mit Wirkung für die Zukunft abändern oder gänzlich widerrufen. Sie können den Widerruf entweder postalisch oder per Email an: Simona-Liliana Facalau, Franziskusstraße, 4 49832 Thuine, oder per Email ansimonafacalau@gmail.com</p>
+              <p className="leading-[normal] mb-0 text-[16px] whitespace-pre-wrap">{` `}</p>
+              <p className="leading-[normal] text-[16px] whitespace-pre-wrap">{`Ort, Datum                                                                                                                   Unterschrift Teilnehmer/IN`}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="bg-[#43673c] content-stretch flex flex-col h-[452.065px] items-center pb-[80px] relative shrink-0 w-[1200px]" data-node-id="2001:2476" data-name="FOOTER">
+        <div className="absolute flex h-[1471.833px] items-center justify-center left-[-736.13px] top-[-57px] w-[2616.592px]" data-node-id="2001:2477">
+          <div className="flex-none rotate-180">
+            <div className="h-[1471.833px] relative w-[2616.592px]">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame219} />
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start justify-end overflow-clip relative shrink-0 w-full" data-node-id="2001:2485">
+          <div className="h-[56.024px] relative shrink-0 w-[259.914px]" data-node-id="2001:2486">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame658} />
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] gap-[191px] items-start min-w-px pl-[255px] pr-[140px] relative" data-node-id="2001:2488">
+            <div className="content-stretch flex flex-col items-start justify-center relative shrink-0" data-node-id="2001:2489" data-name="Discover">
+              <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0" data-node-id="2001:2490">
+                <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:2491">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:2492">
+                    Discover
+                  </p>
+                </div>
+                <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2493">
+                  <p className="relative shrink-0" data-node-id="2001:2494">
+                    About Me
+                  </p>
+                  <p className="relative shrink-0" data-node-id="2001:2495">
+                    Services
+                  </p>
+                  <p className="relative shrink-0" data-node-id="2001:2496">
+                    How it Works
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[20px] items-start justify-center relative shrink-0" data-node-id="2001:2497" data-name="More">
+              <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:2498">
+                <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:2499">
+                  More
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2500">
+                <p className="relative shrink-0" data-node-id="2001:2501">
+                  Blog
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2502">
+                  Testimonials
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2503">
+                  FAQ
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2504">
+                  Kontakt
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[20px] items-start justify-center relative shrink-0" data-node-id="2001:2505" data-name="More">
+              <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:2506">
+                <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:2507">
+                  Legal
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2508">
+                <p className="relative shrink-0" data-node-id="2001:2509">
+                  Prices
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2510">
+                  Impressum
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2511">
+                  Datenschutz
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2512">
+                  AGB
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2513">
+                  Haftungausschluss
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="h-[80px] relative shrink-0 w-[1440px]" data-node-id="2001:2514" data-name="SEPARATOR">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator} />
+        </div>
+        <div className="content-stretch flex gap-[3px] items-center relative shrink-0 w-full" data-node-id="2001:2516">
+          <div className="content-stretch flex flex-[1_0_0] items-center min-w-px relative" data-node-id="2001:2517">
+            <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2518">
+              ©2026 Systhera Beratung. All rights reserved.
+            </p>
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] gap-[10px] items-center justify-end min-w-px relative" data-node-id="2001:2519" data-name="Legal">
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:2520" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons} />
+            </div>
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:2521" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons1} />
+            </div>
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:2522" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons2} />
+            </div>
+          </div>
+        </div>
+        <div className="h-[80px] relative shrink-0 w-[1440px]" data-node-id="2001:2523" data-name="SEPARATOR">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator} />
+        </div>
+        <div className="content-stretch flex items-center justify-center relative shrink-0 w-full" data-node-id="2001:2525">
+          <p className="[word-break:break-word] font-['Satoshi:Regular'] leading-[normal] not-italic relative shrink-0 text-[15px] text-center text-white tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:2526">{`Powered by Rares Faur & Vlad Veltan`}</p>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+Images and SVGs will be stored as constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

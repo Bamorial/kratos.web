@@ -1,0 +1,488 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/dcaa5219-bd43-48cb-968a-514e5db21722";
+const imgVector = `${assetPathPrefix}/a9866.svg`;
+const imgVector1 = `${assetPathPrefix}/66a74.svg`;
+const imgFrame219 = `${assetPathPrefix}/a6d2c.svg`;
+const imgFrame658 = `${assetPathPrefix}/64933.svg`;
+const imgSeparator = `${assetPathPrefix}/1911b.svg`;
+const imgSocialIcons = `${assetPathPrefix}/65c27.svg`;
+const imgSocialIcons1 = `${assetPathPrefix}/7a13a.svg`;
+const imgSocialIcons2 = `${assetPathPrefix}/507bc.svg`;
+
+export default function DesktopBreakpointV3Article() {
+  return (
+    <div className="bg-white content-stretch flex flex-col gap-[160px] items-center px-[360px] relative size-full" data-node-id="2001:2230" data-name="DesktopBreakpoint-V3-ARTICLE">
+      <div className="bg-white content-stretch flex flex-col gap-[80px] items-center relative shrink-0 w-full" data-node-id="2001:2231" data-name="MAIN">
+        <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="2001:2232" data-name="HERO">
+          <div className="h-[66.649px] overflow-clip relative shrink-0 w-full" data-node-id="2001:2233" data-name="NAV">
+            <div className="absolute h-[21.476px] left-0 top-[22.59px] w-[99.637px]" data-node-id="2001:2234" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+            </div>
+            <div className="-translate-x-1/2 absolute h-[15px] left-1/2 top-[26px] w-[232px]" data-node-id="2001:2235">
+              <div className="[word-break:break-word] absolute content-stretch flex font-['Satoshi:Medium'] gap-[20px] items-center justify-center leading-none left-0 not-italic text-[#3c4d3a] text-[16px] text-center top-0 tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2236">
+                <p className="relative shrink-0" data-node-id="2001:2237">
+                  Services
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2238">
+                  Kontakt
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2239">
+                  Blog
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2240">
+                  About
+                </p>
+              </div>
+            </div>
+            <div className="absolute h-[38.649px] left-[1131.82px] top-[14px] w-[68.182px]" data-node-id="2001:2241">
+              <div className="absolute content-stretch flex gap-[13.566px] h-[38.649px] items-center left-[1.82px] top-0" data-node-id="2001:2242">
+                <div className="h-[25.142px] relative shrink-0 w-[27.656px]" data-node-id="2001:2243" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+                </div>
+                <div className="bg-[#653535] overflow-clip relative rounded-[39.809px] shrink-0 size-[25.142px]" data-node-id="2001:2244">
+                  <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal leading-[normal] left-[calc(50%-24.87px)] not-italic text-[#3c4d3a] text-[49.173px] top-[calc(50%-24.62px)] whitespace-nowrap" data-node-id="2001:2245">
+                    🇩🇪
+                  </p>
+                </div>
+              </div>
+              <div className="absolute h-[38.649px] left-[41.05px] top-0 w-[27.132px]" data-node-id="2001:2246" />
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start justify-center overflow-clip relative shrink-0 w-full" data-node-id="2001:2247" data-name="TITLE">
+          <div className="content-stretch flex flex-[1_0_0] items-start justify-center min-w-px relative" data-node-id="2001:2248">
+            <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Bold'] leading-[normal] min-w-px not-italic relative text-[#3c4d3a] text-[52px] text-center tracking-[-1.56px]" data-node-id="2001:2249">
+              Impressum
+            </p>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[20px] items-start relative shrink-0 w-full" data-node-id="2001:2250" data-name="CONTENT">
+          <div className="content-stretch flex flex-col items-center overflow-clip relative shrink-0 w-full" data-node-id="2001:2251" data-name="TITLE">
+            <div className="bg-white content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2252" data-name="TITLE">
+              <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] text-center tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:2253">
+                Angaben gemäß §5TMG:
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2254" data-name="TEXT">
+            <ul className="[word-break:break-word] block font-['Satoshi:Medium'] leading-[0] list-disc not-italic relative shrink-0 text-[#3c4d3a] text-[16px] tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2255">
+              <li className="mb-0 ms-[24px]">
+                <span className="leading-[normal]">Simona-Liliana Facalau</span>
+              </li>
+              <li className="ms-[24px]">
+                <span className="leading-[normal]">Systhera-beratung</span>
+              </li>
+            </ul>
+          </div>
+          <div className="content-stretch flex flex-col items-center overflow-clip relative shrink-0 w-full" data-node-id="2001:2256" data-name="TITLE">
+            <div className="bg-white content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2257" data-name="TITLE">
+              <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] text-center tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:2258">
+                Kontakt
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2259" data-name="TEXT">
+            <ul className="[word-break:break-word] block font-['Satoshi:Medium'] leading-[0] list-disc not-italic relative shrink-0 text-[#3c4d3a] text-[0px] tracking-[-0.48px] w-full" data-node-id="2001:2260">
+              <li className="mb-0 ms-[calc(var(--list-marker-font-size,0)*1.5*1)]">
+                <span className="leading-[normal] text-[16px]">Heilpraktikerin für Psychotherapie (eingeschränkt auf das Gebiet der Psychotherapie)</span>
+              </li>
+              <li className="mb-0 ms-[calc(var(--list-marker-font-size,0)*1.5*1)]">
+                <span className="leading-[normal] text-[16px]">Franziskusstraße, 4</span>
+              </li>
+              <li className="mb-0 ms-[calc(var(--list-marker-font-size,0)*1.5*1)]">
+                <span className="leading-[normal] text-[16px]">49832, Thuine</span>
+              </li>
+              <li className="mb-0 ms-[calc(var(--list-marker-font-size,0)*1.5*1)]">
+                <span className="leading-[normal] text-[16px]">Kontakt: Tel. 05902 9992050</span>
+              </li>
+              <li className="leading-[normal] ms-[calc(var(--list-marker-font-size,0)*1.5*1)] text-[16px]">
+                {`E-Mail : `}
+                <a className="[text-underline-position:from-font] [word-break:break-word] cursor-pointer decoration-from-font decoration-solid font-['Satoshi:Medium'] not-italic text-[#3c4d3a] tracking-[-0.48px] underline" href="mailto:simonafacalau@gmail.com" target="_blank">
+                  <span className="[text-underline-position:from-font] decoration-from-font decoration-solid underline" href="mailto:simonafacalau@gmail.com" target="_blank">
+                    simonafacalau@gmail.com
+                  </span>
+                </a>
+                {` oder `}
+                <a className="[text-underline-position:from-font] [word-break:break-word] cursor-pointer decoration-from-font decoration-solid font-['Satoshi:Medium'] not-italic text-[#3c4d3a] tracking-[-0.48px] underline" href="mailto:info@systhera-beratung.de" target="_blank">
+                  <span className="[text-underline-position:from-font] decoration-from-font decoration-solid underline" href="mailto:info@systhera-beratung.de" target="_blank">
+                    info@systhera-beratung.de
+                  </span>
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div className="content-stretch flex flex-col items-center overflow-clip relative shrink-0 w-full" data-node-id="2001:2261" data-name="TITLE">
+            <div className="bg-white content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2262" data-name="TITLE">
+              <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] text-center tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:2263">
+                Aufsichtsbehörde
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2264" data-name="TEXT">
+            <ul className="[word-break:break-word] block font-['Satoshi:Medium'] leading-[0] list-disc not-italic relative shrink-0 text-[#3c4d3a] text-[16px] tracking-[-0.48px] w-full" data-node-id="2001:2265">
+              <li className="mb-0 ms-[24px]">
+                <span className="leading-[normal]">{`Landkreis Meppen – Fachbereich Gesundheit `}</span>
+              </li>
+              <li className="mb-0 ms-[24px]">
+                <span className="leading-[normal]">Ordeniederung, 1</span>
+              </li>
+              <li className="mb-0 ms-[24px]">
+                <span className="leading-[normal]">49716 Meppen</span>
+              </li>
+              <li className="mb-0 ms-[24px]">
+                <span className="leading-[normal]">Berufsbezeichnung und Berufsrechtliche Regelung</span>
+              </li>
+              <li className="mb-0 ms-[24px] whitespace-pre-wrap">
+                <span className="leading-[normal]">{`Heilpraktikerin  eingeschränkt auf das Gebiet der Psychotherapie`}</span>
+              </li>
+              <li className="mb-0 ms-[24px]">
+                <span className="leading-[normal]">Zuständigke Kammer: Fachbereich Gesundheit, Landkreis Meppen</span>
+              </li>
+              <li className="mb-0 ms-[24px]">
+                <span className="leading-[normal]">Verliehen durch: Gesundheitsamt Frankfurt am Main, Breite G. 28, 60313 Frankfurt am Main</span>
+              </li>
+              <li className="ms-[24px]">
+                <span className="leading-[normal]">Es gelten folgende berufsrechtliche Regelungen: Berufsrechtliche Regelungen: Grundlage des Gesetzes der Bundesrepublik Deutschland über die berufsmäßige Ausübung der Heilkunde ohne Bestallung (Heilpraktikergesetz, BGBI. III 2122-2 und der Durchführungsverordnung zum Heilpraktikergesetz BGBI. III 2122-2-1)</span>
+              </li>
+            </ul>
+          </div>
+          <div className="content-stretch flex flex-col items-center overflow-clip relative shrink-0 w-full" data-node-id="2001:2266" data-name="TITLE">
+            <div className="bg-white content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2267" data-name="TITLE">
+              <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] text-center tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:2268">
+                Angabe zu Berufshaftversicherung
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2269" data-name="TEXT">
+            <ul className="[word-break:break-word] block font-['Satoshi:Medium'] leading-[0] list-disc not-italic relative shrink-0 text-[#3c4d3a] text-[16px] tracking-[-0.48px] w-full" data-node-id="2001:2270">
+              <li className="mb-0 ms-[24px]">
+                <span className="leading-[normal]">Verantwortlich für den Inhalt nach § 55 Abs. 2 RstV</span>
+              </li>
+              <li className="mb-0 ms-[24px]">
+                <span className="leading-[normal]">Simona-Liliana Facalau</span>
+              </li>
+              <li className="mb-0 ms-[24px]">
+                <span className="leading-[normal]">Franziskusstraße, 4</span>
+              </li>
+              <li className="mb-0 ms-[24px]">
+                <span className="leading-[normal]">49832 Thuine</span>
+              </li>
+              <li className="mb-0 ms-[24px]">
+                <span className="leading-[normal]">Verbraucherstreitbeteiligung / Universalschlichtungsstelle</span>
+              </li>
+              <li className="leading-[normal] mb-0 ms-[24px]">
+                Universalschlichtungsstelle des Zentrums für Schlichtung e.V., Straßburger Straße 8 in 77694 Kehl am Rhein (
+                <a className="[text-decoration-skip-ink:none] [text-underline-position:from-font] cursor-pointer decoration-from-font decoration-solid underline" href="http://www.verbraucher-schlichter.de/" target="_blank">
+                  <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid underline" href="http://www.verbraucher-schlichter.de/" target="_blank">
+                    www.verbraucher-schlichter.de
+                  </span>
+                </a>
+                )
+              </li>
+              <li className="mb-0 ms-[24px]">
+                <span className="leading-[normal]">Unsere E-Mail-Adresse finden Sie oben im Impressum.</span>
+              </li>
+              <li className="ms-[24px]">
+                <span className="leading-[normal]">Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren teilzunehmen.</span>
+              </li>
+            </ul>
+          </div>
+          <div className="content-stretch flex flex-col items-center overflow-clip relative shrink-0 w-full" data-node-id="2001:2271" data-name="TITLE">
+            <div className="bg-white content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2272" data-name="TITLE">
+              <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] text-center tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:2273">
+                EU-Streitschlichtung
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2274" data-name="TEXT">
+            <ul className="[word-break:break-word] block font-['Satoshi:Medium'] leading-[0] list-disc not-italic relative shrink-0 text-[#3c4d3a] text-[16px] tracking-[-0.48px] w-full" data-node-id="2001:2275">
+              <li className="leading-[normal] mb-0 ms-[24px]">
+                {`Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: `}
+                <a className="[text-decoration-skip-ink:none] [text-underline-position:from-font] cursor-pointer decoration-from-font decoration-solid underline" href="https://ec.europa.eu/consumers/odr" target="_blank">
+                  <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid underline" href="https://ec.europa.eu/consumers/odr" target="_blank">{`https://ec.europa.eu/consumers/odr`}</span>
+                </a>
+                .
+              </li>
+              <li className="mb-0 ms-[24px]">
+                <span className="leading-[normal]">Unsere E-Mail-Adresse finden Sie oben im Impressum.</span>
+              </li>
+              <li className="ms-[24px]">
+                <span className="leading-[normal]">Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren teilzunehmen.</span>
+              </li>
+            </ul>
+          </div>
+          <div className="content-stretch flex flex-col items-center overflow-clip relative shrink-0 w-full" data-node-id="2001:2276" data-name="TITLE">
+            <div className="bg-white content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2277" data-name="TITLE">
+              <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] text-center tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:2278">
+                HAFTUNG FÜR INHALTE (Disclaimer)
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2279" data-name="TEXT">
+            <div className="[word-break:break-word] font-['Satoshi:Medium'] leading-[0] not-italic relative shrink-0 text-[#3c4d3a] text-[16px] tracking-[-0.48px] w-full" data-node-id="2001:2280">
+              <ul className="mb-0">
+                <li className="list-disc ms-[24px]">
+                  <span className="leading-[normal]">Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</span>
+                </li>
+              </ul>
+              <p className="leading-[normal] mb-0 whitespace-pre-wrap">​</p>
+              <ul>
+                <li className="list-disc ms-[24px]">
+                  <span className="leading-[normal]">Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-center overflow-clip relative shrink-0 w-full" data-node-id="2001:2281" data-name="TITLE">
+            <div className="bg-white content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2282" data-name="TITLE">
+              <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] text-center tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:2283">
+                HAFTUNG FÜR LINKS
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2284" data-name="TEXT">
+            <ul className="[word-break:break-word] block font-['Satoshi:Medium'] leading-[0] list-disc not-italic relative shrink-0 text-[#3c4d3a] text-[16px] tracking-[-0.48px] w-full" data-node-id="2001:2285">
+              <li className="mb-0 ms-[24px]">
+                <span className="leading-[normal]">Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.</span>
+              </li>
+              <li className="ms-[24px]">
+                <span className="leading-[normal]">Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.</span>
+              </li>
+            </ul>
+          </div>
+          <div className="content-stretch flex flex-col items-center overflow-clip relative shrink-0 w-full" data-node-id="2001:2286" data-name="TITLE">
+            <div className="bg-white content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2287" data-name="TITLE">
+              <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] text-center tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:2288">
+                URHEBERRECHT
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:2289" data-name="TEXT">
+            <div className="[word-break:break-word] font-['Satoshi:Medium'] leading-[0] not-italic relative shrink-0 text-[#3c4d3a] text-[16px] tracking-[-0.48px] w-full" data-node-id="2001:2290">
+              <ul className="list-disc mb-0">
+                <li className="mb-0 ms-[24px]">
+                  <span className="leading-[normal]">Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.</span>
+                </li>
+                <li className="mb-0 ms-[24px]">
+                  <span className="leading-[normal]">Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.</span>
+                </li>
+                <li className="mb-0 ms-[24px]">
+                  <span className="leading-[normal]">Widerruf Ihrer Einwilligung zur Datenverarbeitung</span>
+                </li>
+                <li className="mb-0 ms-[24px]">
+                  <span className="leading-[normal]">Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.</span>
+                </li>
+                <li className="mb-0 ms-[24px]">
+                  <span className="leading-[normal]">Beschwerderecht bei der zuständigen Aufsichtsbehörde</span>
+                </li>
+                <li className="mb-0 ms-[24px]">
+                  <span className="leading-[normal]">Im Falle datenschutzrechtlicher Verstöße steht dem Betroffenen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.</span>
+                </li>
+                <li className="leading-[normal] mb-0 ms-[24px]">
+                  {`Eine Liste der Datenschutzbeauftragten sowie deren Kontaktdaten können folgendem Link entnommen.werden: `}
+                  <a className="[text-decoration-skip-ink:none] [text-underline-position:from-font] cursor-pointer decoration-from-font decoration-solid underline" href="https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html" target="_blank">
+                    <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid underline" href="https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html" target="_blank">{`https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html`}</span>
+                  </a>
+                  .
+                </li>
+                <li className="mb-0 ms-[24px]">
+                  <span className="leading-[normal]">Recht auf Datenübertragbarkeit</span>
+                </li>
+                <li className="mb-0 ms-[24px]">
+                  <span className="leading-[normal]">Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.</span>
+                </li>
+                <li className="mb-0 ms-[24px]">
+                  <span className="leading-[normal]">{` `}</span>
+                </li>
+                <li className="mb-0 ms-[24px]">
+                  <span className="leading-[normal]">SSL- bzw. TLS-Verschlüsselung</span>
+                </li>
+                <li className="ms-[24px]">
+                  <span className="leading-[normal]">{`Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL-bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von „http://“ auf „https://“ wechselt und an dem Schloss-Symbol in Ihrer Browserzeile. Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.`}</span>
+                </li>
+              </ul>
+              <p className="leading-[normal] mb-0 whitespace-pre-wrap">​</p>
+              <ul className="list-disc mb-0">
+                <li className="mb-0 ms-[24px]">
+                  <span className="leading-[normal]">Widerspruch gegen Werbe-Mails</span>
+                </li>
+                <li className="mb-0 ms-[24px]">
+                  <span className="leading-[normal]">Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.</span>
+                </li>
+                <li className="mb-0 ms-[24px]">
+                  <span className="leading-[normal]">Plugins und Tools</span>
+                </li>
+                <li className="ms-[24px]">
+                  <span className="leading-[normal]">Google Web Fonts</span>
+                </li>
+              </ul>
+              <p className="leading-[normal] mb-0 whitespace-pre-wrap">​</p>
+              <ul className="list-disc mb-0">
+                <li className="mb-0 ms-[24px]">
+                  <span className="leading-[normal]">Diese Seite nutzt zur einheitlichen Darstellung von Schriftarten so genannte Web Fonts. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.</span>
+                </li>
+                <li className="ms-[24px]">
+                  <span className="leading-[normal]">
+                    Beim Aufruf einer Seite lädt Ihr Browser die benötigten Web Fonts (Schrifttypen) in ihren Browsercache, um Texte und Schriftarten korrekt anzuzeigen.
+                    <br aria-hidden />
+                    Zu diesem Zweck muss der von Ihnen verwendete Browser Verbindung zu den Servern von Google aufnehmen. Hierdurch erlangt Google Kenntnis darüber, dass über Ihre IP-Adresse unsere Website aufgerufen wurde.
+                  </span>
+                </li>
+              </ul>
+              <p className="leading-[normal] mb-0 whitespace-pre-wrap">​</p>
+              <ul className="list-disc">
+                <li className="mb-0 ms-[24px]">
+                  <span className="leading-[normal]">Die Nutzung von Google Web Fonts erfolgt im Interesse einer einheitlichen und ansprechenden Darstellung unserer Online-Angebote. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.</span>
+                </li>
+                <li className="mb-0 ms-[24px]">
+                  <span className="leading-[normal]">Wenn Ihr Browser Web Fonts nicht unterstützt, wird eine Standardschrift von Ihrem Computer genutzt.</span>
+                </li>
+                <li className="leading-[normal] mb-0 ms-[24px]">
+                  {`Weitere Informationen zu Google Web Fonts finden Sie unter `}
+                  <a className="[text-decoration-skip-ink:none] [text-underline-position:from-font] cursor-pointer decoration-from-font decoration-solid underline" href="https://developers.google.com/fonts/faq" target="_blank">
+                    <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid underline" href="https://developers.google.com/fonts/faq" target="_blank">{`https://developers.google.com/fonts/faq`}</span>
+                  </a>
+                  {` und in der Datenschutzerklärung von Google: `}
+                  <a className="[text-decoration-skip-ink:none] [text-underline-position:from-font] cursor-pointer decoration-from-font decoration-solid underline" href="https://www.google.de/intl/de/policies/privacy" target="_blank">
+                    <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid underline" href="https://www.google.de/intl/de/policies/privacy" target="_blank">{`https://www.google.de/intl/de/policies/privacy`}</span>
+                  </a>
+                  .
+                </li>
+                <li className="mb-0 ms-[24px] whitespace-pre-wrap">
+                  <span className="leading-[normal]">{`Desweiteren nutzt diese Seite eine  Bing Microsoft Map. Der Anbieter ist`}</span>
+                </li>
+                <li className="ms-[24px] whitespace-pre-wrap">
+                  <span className="leading-[normal]">
+                    Microsoft Corporation
+                    <br aria-hidden />
+                    One Microsoft Way
+                    <br aria-hidden />
+                    Redmond, WA 98052-6399
+                    <br aria-hidden />
+                    {`USA    `}
+                  </span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="bg-[#43673c] content-stretch flex flex-col h-[452.065px] items-center pb-[80px] relative shrink-0 w-[1200px]" data-node-id="2001:2291" data-name="FOOTER">
+        <div className="absolute flex h-[1471.833px] items-center justify-center left-[-736.13px] top-[-57px] w-[2616.592px]" data-node-id="2001:2292">
+          <div className="flex-none rotate-180">
+            <div className="h-[1471.833px] relative w-[2616.592px]">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame219} />
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start justify-end overflow-clip relative shrink-0 w-full" data-node-id="2001:2300">
+          <div className="h-[56.024px] relative shrink-0 w-[259.914px]" data-node-id="2001:2301">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame658} />
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] gap-[191px] items-start min-w-px pl-[255px] pr-[140px] relative" data-node-id="2001:2303">
+            <div className="content-stretch flex flex-col items-start justify-center relative shrink-0" data-node-id="2001:2304" data-name="Discover">
+              <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0" data-node-id="2001:2305">
+                <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:2306">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:2307">
+                    Discover
+                  </p>
+                </div>
+                <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Regular'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2308">
+                  <p className="relative shrink-0" data-node-id="2001:2309">
+                    About Me
+                  </p>
+                  <p className="relative shrink-0" data-node-id="2001:2310">
+                    Services
+                  </p>
+                  <p className="relative shrink-0" data-node-id="2001:2311">
+                    How it Works
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[20px] items-start justify-center relative shrink-0" data-node-id="2001:2312" data-name="More">
+              <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:2313">
+                <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:2314">
+                  More
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Regular'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2315">
+                <p className="relative shrink-0" data-node-id="2001:2316">
+                  Blog
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2317">
+                  Testimonials
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2318">
+                  FAQ
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2319">
+                  Kontakt
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[20px] items-start justify-center relative shrink-0" data-node-id="2001:2320" data-name="More">
+              <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:2321">
+                <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:2322">
+                  Legal
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Regular'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2323">
+                <p className="relative shrink-0" data-node-id="2001:2324">
+                  Prices
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2325">
+                  Impressum
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2326">
+                  Datenschutz
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2327">
+                  AGB
+                </p>
+                <p className="relative shrink-0" data-node-id="2001:2328">
+                  Haftungausschluss
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="h-[80px] relative shrink-0 w-[1440px]" data-node-id="2001:2329" data-name="SEPARATOR">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator} />
+        </div>
+        <div className="content-stretch flex gap-[3px] items-center relative shrink-0 w-full" data-node-id="2001:2331">
+          <div className="content-stretch flex flex-[1_0_0] items-center min-w-px relative" data-node-id="2001:2332">
+            <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:2333">
+              ©2026 Systhera Beratung. All rights reserved.
+            </p>
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] gap-[10px] items-center justify-end min-w-px relative" data-node-id="2001:2334" data-name="Legal">
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:2335" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons} />
+            </div>
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:2336" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons1} />
+            </div>
+            <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:2337" data-name="Social Icons">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons2} />
+            </div>
+          </div>
+        </div>
+        <div className="h-[80px] relative shrink-0 w-[1440px]" data-node-id="2001:2338" data-name="SEPARATOR">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator} />
+        </div>
+        <div className="content-stretch flex items-center justify-center relative shrink-0 w-full" data-node-id="2001:2340">
+          <p className="[word-break:break-word] font-['Satoshi:Regular'] leading-[normal] not-italic relative shrink-0 text-[15px] text-center text-white tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:2341">{`Powered by Rares Faur & Vlad Veltan`}</p>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+Images and SVGs will be stored as constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

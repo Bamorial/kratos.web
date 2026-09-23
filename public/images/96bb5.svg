@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="358" height="40" viewBox="0 0 358 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="SEPARATOR">
+<path id="Vector 209" d="M0 20H358" stroke="url(#paint0_linear_0_24)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_24" x1="5.70677e-06" y1="20.5" x2="358" y2="20.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B2C492" stop-opacity="0"/>
+<stop offset="0.5" stop-color="#B2C492"/>
+<stop offset="1" stop-color="#B2C492" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

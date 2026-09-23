@@ -1,0 +1,951 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/565c9e3d-6c4f-4fb1-af5c-281590f84616";
+const imgChuttersnapBofgeVfgWUnsplash1 = `${assetPathPrefix}/684eb.png`;
+const imgPriscillaDuPreez8AngyqSidHwUnsplash1 = `${assetPathPrefix}/98ea8.png`;
+const imgImage261 = `${assetPathPrefix}/0e5e9.png`;
+const imgImage = `${assetPathPrefix}/70775.png`;
+const imgHitomiOkushimaLefUrVkc2E0Unsplash1 = `${assetPathPrefix}/760cb.png`;
+const imgImage1 = `${assetPathPrefix}/440b9.png`;
+const imgArtemKovalevFk3XUcfTAvkUnsplash1 = `${assetPathPrefix}/bdaf8.png`;
+const imgChatGptImageSep222026105125Am1 = `${assetPathPrefix}/ce26d.png`;
+const imgCard1 = `${assetPathPrefix}/b15fb.png`;
+const imgXinyiWenKx0UN5SHi8Unsplash1 = `${assetPathPrefix}/15e67.png`;
+const imgVector = `${assetPathPrefix}/e19a1.svg`;
+const imgVector1 = `${assetPathPrefix}/e1712.svg`;
+const imgSeparator = `${assetPathPrefix}/26917.svg`;
+const imgLayer1 = `${assetPathPrefix}/137d0.svg`;
+const imgLayer2 = `${assetPathPrefix}/80d72.svg`;
+const imgSeparator1 = `${assetPathPrefix}/007fd.svg`;
+const imgSeparator2 = `${assetPathPrefix}/f610c.svg`;
+const imgVector2 = `${assetPathPrefix}/f2a3c.svg`;
+const imgFrame630 = `${assetPathPrefix}/1a807.svg`;
+const imgFrame631 = `${assetPathPrefix}/de25f.svg`;
+const img = `${assetPathPrefix}/5bcf0.svg`;
+const imgVector211 = `${assetPathPrefix}/1f932.svg`;
+const imgFrame706 = `${assetPathPrefix}/604e8.svg`;
+const imgFrame632 = `${assetPathPrefix}/4cc45.svg`;
+const imgFrame633 = `${assetPathPrefix}/86af7.svg`;
+const imgFrame219 = `${assetPathPrefix}/a6d2c.svg`;
+const imgFrame658 = `${assetPathPrefix}/74420.svg`;
+const imgSeparator3 = `${assetPathPrefix}/1911b.svg`;
+const imgSocialIcons = `${assetPathPrefix}/65c27.svg`;
+const imgSocialIcons1 = `${assetPathPrefix}/7a13a.svg`;
+const imgSocialIcons2 = `${assetPathPrefix}/507bc.svg`;
+
+export default function DesktopBreakpointV3Landing() {
+  return (
+    <div className="bg-white content-stretch flex flex-col items-center px-[360px] relative size-full" data-node-id="2001:209" data-name="DesktopBreakpoint-V3-LANDING">
+      <div className="content-stretch flex flex-col gap-[240px] items-center relative shrink-0 w-full" data-node-id="2001:210" data-name="MAIN">
+        <div className="bg-[#244d48] content-stretch flex flex-col h-[1080px] items-center relative shrink-0 w-full" data-node-id="2001:211" data-name="HERO">
+          <div className="-translate-x-1/2 absolute bottom-0 h-[3887.839px] left-1/2 w-[1922.699px]" data-node-id="2001:212" data-name="chuttersnap-BofgeVFG-_w-unsplash 1">
+            <div aria-hidden className="absolute inset-0 pointer-events-none">
+              <img alt="" className="absolute max-w-none object-cover size-full" src={imgChuttersnapBofgeVfgWUnsplash1} />
+              <div className="absolute bg-[rgba(0,0,0,0.54)] inset-0" />
+            </div>
+          </div>
+          <div className="absolute bottom-0 h-[1388.669px] left-[-475.83px] w-[2082.75px]" data-node-id="2001:213" data-name="priscilla-du-preez-8angyqSidHw-unsplash 1">
+            <div aria-hidden className="absolute inset-0 pointer-events-none">
+              <img alt="" className="absolute max-w-none object-cover size-full" src={imgPriscillaDuPreez8AngyqSidHwUnsplash1} />
+              <div className="absolute bg-[rgba(0,0,0,0.3)] inset-0" />
+            </div>
+          </div>
+          <div className="h-[66.649px] relative shrink-0 w-full" data-node-id="2001:214" data-name="NAV">
+            <div className="absolute bg-[#3c4d3a] h-[66.65px] left-[-360.27px] top-0 w-[1920.141px]" data-node-id="2001:215" data-name="color" />
+            <div className="absolute h-[21.476px] left-0 top-[22.59px] w-[99.637px]" data-node-id="2001:216" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+            </div>
+            <div className="-translate-x-1/2 absolute h-[15px] left-1/2 top-[26px] w-[332px]" data-node-id="2001:217">
+              <div className="[word-break:break-word] absolute content-stretch flex font-['Satoshi:Medium'] gap-[20px] items-center justify-center left-0 not-italic text-[16px] text-center text-white top-0 tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:218">
+                <a className="block cursor-pointer leading-[0] relative shrink-0" data-node-id="2001:219">
+                  <p className="leading-none">Qigong</p>
+                </a>
+                <a className="block cursor-pointer leading-[0] relative shrink-0" data-node-id="2001:220">
+                  <p className="leading-none">Therapie</p>
+                </a>
+                <a className="block cursor-pointer leading-[0] relative shrink-0" data-node-id="2001:221">
+                  <p className="leading-none">Blog</p>
+                </a>
+                <p className="leading-none relative shrink-0" data-node-id="2001:222">
+                  Kontakt
+                </p>
+                <a className="block cursor-pointer leading-[0] relative shrink-0" data-node-id="2001:223">
+                  <p className="leading-none">About</p>
+                </a>
+              </div>
+            </div>
+            <div className="absolute h-[38.649px] left-[1131.82px] top-[14px] w-[68.182px]" data-node-id="2001:224">
+              <div className="absolute content-stretch flex gap-[13.566px] h-[38.649px] items-center left-[1.82px] top-0" data-node-id="2001:225">
+                <div className="h-[25.142px] relative shrink-0 w-[27.656px]" data-node-id="2001:226" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+                </div>
+                <div className="bg-[#653535] overflow-clip relative rounded-[39.809px] shrink-0 size-[25.142px]" data-node-id="2001:227">
+                  <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal leading-[normal] left-[calc(50%-24.87px)] not-italic text-[49.173px] text-white top-[calc(50%-24.62px)] whitespace-nowrap" data-node-id="2001:228">
+                    🇩🇪
+                  </p>
+                </div>
+              </div>
+              <div className="absolute h-[38.649px] left-[41.05px] top-0 w-[27.132px]" data-node-id="2001:229" />
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col gap-[20px] items-center pb-[80px] pt-[315px] relative shrink-0 w-full" data-node-id="2001:230" data-name="HERO-TEXT">
+            <div className="content-stretch flex flex-col gap-[10px] items-center relative shrink-0" data-node-id="2001:231" data-name="QUOTE">
+              <div className="content-stretch flex items-center justify-center relative shrink-0 w-[506.766px]" data-node-id="2001:232">
+                <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-none not-italic relative shrink-0 text-[52px] text-center text-white tracking-[-1.56px] w-[554.578px]" data-node-id="2001:233">
+                  „Das Ganze ist mehr als die Summe seiner Teile.“
+                </p>
+              </div>
+              <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="2001:234">
+                <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#f2f2f2] text-[16px] text-center tracking-[-0.48px] w-[654.633px]" data-node-id="2001:235">
+                  – Aristoteles
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="2001:236">
+              <div className="[word-break:break-word] font-['Satoshi:Medium'] leading-[0] not-italic relative shrink-0 text-[#f2f2f2] text-[24px] text-center tracking-[-0.72px] w-[516.664px] whitespace-pre-wrap" data-node-id="2001:237">
+                <p className="leading-[normal] mb-0">{`Dein Körper ist nicht nur Muskeln und Knochen. Deine Seele ist nicht nur `}</p>
+                <p className="leading-[normal] mb-0">{`ein unsichtbarer Gedanke. `}</p>
+                <p className="leading-[normal] mb-0">​</p>
+                <p className="leading-[normal]">„Met´n Lief begripen“</p>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[10px] items-center justify-center relative shrink-0 w-full" data-node-id="2001:238" data-name="CTA">
+            <div className="bg-[#627c58] content-stretch flex h-[50px] items-center justify-center overflow-clip relative rounded-[42px] shrink-0 w-[180px]" data-node-id="2001:239" data-name="CTA">
+              <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[16px] text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:240">
+                Termin buchen
+              </p>
+            </div>
+            <a className="border border-solid border-white content-stretch cursor-pointer flex h-[50px] items-center justify-center overflow-clip px-[30px] py-[15px] relative rounded-[42px] shrink-0 w-[180px]" data-node-id="2001:241" data-name="CTA">
+              <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[16px] text-left text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:242">
+                Leistungen
+              </p>
+            </a>
+          </div>
+        </div>
+        <div className="bg-white content-stretch flex flex-col gap-[20px] items-center justify-center relative rounded-[17px] shrink-0 w-full" data-node-id="2001:243" data-name="ABC">
+          <div className="content-stretch flex gap-[10px] items-start justify-center pb-[40px] relative shrink-0 w-full" data-node-id="2001:244">
+            <div className="content-stretch flex flex-[1_0_0] items-start min-w-px overflow-clip relative" data-node-id="2001:245" data-name="TITLE">
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Bold'] leading-[normal] min-w-px not-italic relative text-[#3c4d3a] text-[36px] tracking-[-1.08px]" data-node-id="2001:246">
+                Es klingt kompliziert?
+              </p>
+            </div>
+            <div className="content-stretch flex flex-[1_0_0] items-start justify-end min-w-px overflow-clip relative" data-node-id="2001:247" data-name="SUBTITLE">
+              <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[18px] text-right tracking-[-0.54px] w-[595px] whitespace-pre-wrap" data-node-id="2001:248">{`Mein Ansatz verbindet die lösungsorientierte systhemische Psychotherapie  mit der feinfühligen Betrachtung körperlicher Symptome. `}</p>
+            </div>
+          </div>
+          <div className="content-stretch drop-shadow-[0px_4px_18.7px_rgba(0,0,0,0.09)] flex flex-col items-center justify-end relative rounded-[17px] shrink-0 w-full" data-node-id="2001:301" data-name="V3">
+            <div className="content-stretch flex gap-[40px] items-center relative shrink-0 w-full" data-node-id="2001:302">
+              <div className="bg-[#f6f7f1] content-stretch flex flex-col h-[373.33px] items-center overflow-clip py-[80px] relative rounded-[200px] shadow-[0px_4px_37.4px_0px_rgba(0,0,0,0.25)] shrink-0 w-[373.333px]" data-node-id="2001:303" data-name="1">
+                <div className="content-stretch flex flex-col gap-[10px] items-center justify-center relative shrink-0 w-full" data-node-id="2001:313">
+                  <div className="content-stretch flex flex-col items-center justify-center relative shrink-0" data-node-id="2001:314" data-name="A">
+                    <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[48px] tracking-[-1.44px] whitespace-nowrap" data-node-id="2001:315">
+                      A
+                    </p>
+                  </div>
+                  <div className="content-stretch flex flex-col items-center justify-center relative shrink-0 w-full" data-node-id="2001:316" data-name="Text">
+                    <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[16px] text-center tracking-[-0.48px] w-[212.99px]" data-node-id="2001:317">
+                      Medizinisch: als Verständnis der engen Verbindung zwischen Psyche und Körper und wie beide unser körperliches und seelisches Wohlbefinden beeinflussen.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-[#f6f7f1] content-stretch flex flex-col h-[373.33px] items-center overflow-clip py-[80px] relative rounded-[200px] shadow-[0px_4px_37.4px_0px_rgba(0,0,0,0.25)] shrink-0 w-[373.333px]" data-node-id="2001:318" data-name="2">
+                <div className="content-stretch flex flex-col gap-[10px] items-center justify-center relative shrink-0 w-full" data-node-id="2001:328">
+                  <div className="content-stretch flex flex-col items-center justify-center relative shrink-0 w-full" data-node-id="2001:329" data-name="A">
+                    <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[48px] tracking-[-1.44px] whitespace-nowrap" data-node-id="2001:330">
+                      B
+                    </p>
+                  </div>
+                  <div className="content-stretch flex flex-col items-center justify-center relative shrink-0 w-full" data-node-id="2001:331" data-name="Text">
+                    <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[16px] text-center tracking-[-0.48px] w-[241.802px]" data-node-id="2001:332">
+                      Die moderne Neuro- wissenschaft definiert das Embodiment einen der wirksamsten und modernsten Lösungswege für psychosomatische Beschwerden.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-[#f6f7f1] content-stretch flex flex-col h-[373.33px] items-center overflow-clip py-[80px] relative rounded-[200px] shadow-[0px_4px_37.4px_0px_rgba(0,0,0,0.25)] shrink-0 w-[373.333px]" data-node-id="2001:333" data-name="3">
+                <div className="content-stretch flex flex-col gap-[10px] items-center justify-center relative shrink-0 w-full" data-node-id="2001:343">
+                  <div className="content-stretch flex flex-col items-center justify-center relative shrink-0 w-full" data-node-id="2001:344" data-name="A">
+                    <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[48px] tracking-[-1.44px] whitespace-nowrap" data-node-id="2001:345">
+                      C
+                    </p>
+                  </div>
+                  <div className="content-stretch flex flex-col items-center justify-center relative shrink-0 w-full" data-node-id="2001:346" data-name="Text">
+                    <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[16px] text-center tracking-[-0.48px] w-[288.635px] whitespace-pre-wrap" data-node-id="2001:347">{`Die TCM (Traditionelle Chinesische Medizin) bringt die langsam geführte Bewegungen - untern den Namen Qi-Energie und Gong-Übung - „Qigong“ Lösung gegen  chronischen Haltemuster (die psychosomatischen Blockaden) im Gewebe.`}</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[20px] items-center justify-center relative shrink-0 w-full" data-node-id="2001:348" data-name="ABOUT-SHORT">
+          <div className="-translate-x-1/2 -translate-y-1/2 absolute bg-[#f6f7f1] h-[1063.6px] left-1/2 top-1/2 w-[1920px]" data-node-id="2001:349" data-name="COLOR" />
+          <div className="content-stretch flex gap-[20px] items-start justify-center relative shrink-0 w-full" data-node-id="2001:350" data-name="Main Info">
+            <div className="bg-[#362c92] content-stretch flex flex-[1_0_0] gap-[10px] items-start justify-center min-w-px overflow-clip relative rounded-[21px] self-stretch" data-node-id="2001:351" data-name="LEFT">
+              <div className="flex-[1_0_0] h-full min-w-px relative rounded-[21px]" data-node-id="2001:352" />
+              <div className="absolute h-[860.234px] left-0 rounded-[21px] top-[-53px] w-[569px]" data-node-id="2001:353" data-name="image 261">
+                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[21px] size-full" src={imgImage261} />
+              </div>
+            </div>
+            <div className="content-stretch flex flex-[1_0_0] flex-col items-start min-w-px pl-[42px] relative" data-node-id="2001:354" data-name="RIGHT">
+              <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="2001:355" data-name="CONTENT">
+                <div className="[word-break:break-word] content-stretch flex flex-col gap-[10px] items-start not-italic relative shrink-0" data-node-id="2001:356" data-name="Text">
+                  <p className="font-['Satoshi:Bold'] leading-[normal] relative shrink-0 text-[#3c4d3a] text-[52px] tracking-[-1.56px] whitespace-nowrap" data-node-id="2001:357">
+                    Simona Facalau
+                  </p>
+                  <div className="font-['Satoshi:Regular'] leading-[0] relative shrink-0 text-[#627c58] text-[0px] tracking-[-0.6px] w-[552.434px] whitespace-pre-wrap" data-node-id="2001:358">
+                    <p className="font-['Satoshi:Bold_Italic'] leading-[normal] mb-0 text-[#3c4d3a] text-[24px]">Mein Ansatz: Ganzheitlich, lösungsorientiert und spürbar</p>
+                    <p className="leading-[normal] mb-0 text-[20px]">​</p>
+                    <p className="font-['Satoshi:Medium'] leading-[normal] mb-0 text-[16px]">{`„Das Ganze ist mehr als die Summe seiner Teile.“ `}</p>
+                    <p className="font-['Satoshi:Medium'] leading-[normal] mb-0 text-[16px]">{` Dieses jahrhundertealte Prinzip von Aristoteles ist das Fundament meiner Arbeit. Nicht nur Theorien, sondern eine langjährige Erfahrung haben mir gezeigt, dass kein Mensch und kein Problem isoliert für sich allein existiert. Wir alle sind Teil von Systemen: Familien, Arbeitsteams oder andere Gemeinschaften.`}</p>
+                    <p className="leading-[normal] mb-0 text-[16px]">​</p>
+                    <p className="font-['Satoshi:Medium'] leading-[normal] text-[16px]">Ich betrachte den Menschen nicht isoliert, sondern als Teil seiner Beziehungen, seines Umfelds und seiner Lebenssituation. Dabei verbinde ich systemische Psychotherapie mit körperorientierten Ansätzen aus dem Qigong.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-center justify-center overflow-clip pt-[40px] relative shrink-0 w-full" data-node-id="2001:359">
+            <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[36px] tracking-[-1.08px] whitespace-nowrap" data-node-id="2001:360">
+              Meine Prinzipien
+            </p>
+          </div>
+          <div className="bg-white content-stretch drop-shadow-[0px_4px_18.7px_rgba(0,0,0,0.09)] flex flex-col items-center py-[40px] relative rounded-[17px] shrink-0 w-full" data-node-id="2001:361" data-name="Principles">
+            <div className="content-stretch flex items-start justify-center px-[40px] relative shrink-0 w-full" data-node-id="2001:362">
+              <div className="content-stretch flex flex-[1_0_0] flex-col gap-[30px] h-[136.601px] items-center min-w-px overflow-clip relative" data-node-id="2001:363" data-name="1">
+                <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="2001:364" data-name="Title">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:365">
+                    Systemisch
+                  </p>
+                </div>
+                <div className="content-stretch flex items-end justify-center relative shrink-0" data-node-id="2001:366" data-name="Text">
+                  <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[16px] text-center tracking-[-0.48px] w-[303.039px]" data-node-id="2001:367">
+                    Den Menschen und sein Umfeld als Ganzes verstehen.
+                  </p>
+                </div>
+              </div>
+              <div className="h-[136.601px] relative shrink-0 w-[60px]" data-node-id="2001:368" data-name="Separator">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator} />
+              </div>
+              <div className="content-stretch flex flex-[1_0_0] flex-col gap-[30px] h-[136.601px] items-center min-w-px overflow-clip relative" data-node-id="2001:370" data-name="2">
+                <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="2001:371" data-name="Title">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:372">
+                    Lösungsorientiert
+                  </p>
+                </div>
+                <div className="content-stretch flex items-end justify-center relative shrink-0" data-node-id="2001:373" data-name="Text">
+                  <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[16px] text-center tracking-[-0.48px] w-[303.039px]" data-node-id="2001:374">
+                    Nicht nur Probleme analysieren, sondern neue Wege entwickeln.
+                  </p>
+                </div>
+              </div>
+              <div className="h-[136.601px] relative shrink-0 w-[60px]" data-node-id="2001:375" data-name="Separator">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator} />
+              </div>
+              <div className="content-stretch flex flex-[1_0_0] flex-col gap-[30px] h-[125px] items-center min-w-px overflow-clip relative" data-node-id="2001:377" data-name="3">
+                <div className="content-stretch flex items-center justify-center relative shrink-0" data-node-id="2001:378" data-name="Title">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:379">
+                    Körperorientiert
+                  </p>
+                </div>
+                <div className="content-stretch flex items-end justify-center relative shrink-0" data-node-id="2001:380" data-name="Text">
+                  <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[16px] text-center tracking-[-0.48px] w-[353.012px]" data-node-id="2001:381">
+                    Körper und Geist gemeinsam in Veränderungsprozesse einbeziehen.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-center justify-center pt-[40px] relative shrink-0 w-full" data-node-id="2001:382">
+            <a className="bg-[#627c58] content-stretch cursor-pointer flex h-[50px] items-center justify-center overflow-clip relative rounded-[42px] shrink-0 w-[180px]" data-node-id="2001:383" data-name="CTA">
+              <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[16px] text-left text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:384">
+                Mehr erfahren
+              </p>
+            </a>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[20px] items-center relative shrink-0 w-full" data-node-id="2001:385" data-name="MEINE PRAXIS">
+          <div className="content-stretch flex flex-col items-center overflow-clip relative shrink-0 w-full" data-node-id="2001:386" data-name="Title">
+            <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[36px] tracking-[-1.08px] whitespace-nowrap" data-node-id="2001:387">
+              Für wen ist meine Praxis?
+            </p>
+          </div>
+          <div className="content-stretch flex gap-[20px] items-start justify-center relative shrink-0 w-full" data-node-id="2001:388" data-name="Cards">
+            <div className="bg-white content-stretch drop-shadow-[-3px_4px_15.35px_rgba(0,0,0,0.11)] flex flex-[1_0_0] flex-col gap-[40px] items-start min-w-px relative rounded-[24px]" data-node-id="2001:389" data-name="Individual">
+              <div className="content-stretch flex flex-col h-[580px] items-center overflow-clip p-[10px] relative rounded-tl-[24px] rounded-tr-[24px] shrink-0 w-full" data-node-id="2001:390" data-name="Image">
+                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-tl-[24px] rounded-tr-[24px] size-full" src={imgImage} />
+                <div className="absolute h-[912.026px] left-[-7.04px] top-[-95px] w-[604.084px]" data-node-id="2001:391" data-name="hitomi-okushima-lefURVkc2E0-unsplash 1">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgHitomiOkushimaLefUrVkc2E0Unsplash1} />
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0 w-full" data-node-id="2001:392">
+                <div className="content-stretch flex flex-col items-start overflow-clip px-[40px] py-[10px] relative shrink-0 w-full" data-node-id="2001:393" data-name="Title">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:394">{`Qigong & Tai Chi (Prevention)`}</p>
+                </div>
+                <div className="content-stretch flex flex-col items-start overflow-clip px-[40px] py-[10px] relative shrink-0 w-full" data-node-id="2001:395" data-name="Description">
+                  <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[16px] tracking-[-0.48px] w-full" data-node-id="2001:396">
+                    Für Menschen, die sich in Umbruchphasen oder Krisen befinden, unter anhaltendem Stress leiden oder neue Perspektiven für ihre persönliche Entwicklung suchen.
+                  </p>
+                </div>
+                <div className="content-stretch flex flex-col items-start overflow-clip px-[40px] py-[10px] relative shrink-0 w-full" data-node-id="2001:397" data-name="Themes-Title">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:398">
+                    Typische Themen
+                  </p>
+                </div>
+                <div className="content-stretch flex flex-col items-start px-[40px] relative shrink-0 w-full" data-node-id="2001:399" data-name="TAGS">
+                  <div className="content-stretch flex gap-[10px] items-start overflow-clip py-[10px] relative shrink-0 w-full" data-node-id="2001:400" data-name="Themes-Tags1">
+                    <div className="bg-[#f6f7f1] border border-solid border-white content-stretch flex items-center justify-center overflow-clip px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:401" data-name="T1">
+                      <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[13px] tracking-[-0.39px] whitespace-nowrap" data-node-id="2001:402">{`Umbruch & Krisen`}</p>
+                    </div>
+                    <div className="bg-[#f6f7f1] border border-solid border-white content-stretch flex items-center justify-center overflow-clip px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:403" data-name="T1">
+                      <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[13px] tracking-[-0.39px] whitespace-nowrap" data-node-id="2001:404">{`Stress & Überlastung`}</p>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex gap-[10px] items-start overflow-clip py-[10px] relative shrink-0 w-full" data-node-id="2001:405" data-name="Themes-Tags2">
+                    <div className="bg-[#f6f7f1] border border-solid border-white content-stretch flex items-center justify-center overflow-clip px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:406" data-name="T1">
+                      <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[13px] tracking-[-0.39px] whitespace-nowrap" data-node-id="2001:407">
+                        Psychosomatische Beschwerden
+                      </p>
+                    </div>
+                    <div className="bg-[#f6f7f1] border border-solid border-white content-stretch flex items-center justify-center overflow-clip px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:408" data-name="T1">
+                      <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[13px] tracking-[-0.39px] whitespace-nowrap" data-node-id="2001:409">
+                        Persönliche Entwicklung
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col items-center pb-[40px] relative shrink-0 w-full" data-node-id="2001:410">
+                <div className="bg-[#627c58] content-stretch flex h-[50px] items-center justify-center overflow-clip px-[30px] relative rounded-[42px] shrink-0" data-node-id="2001:411" data-name="CTA">
+                  <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[16px] text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:412">
+                    Mehr erfahren →
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-white content-stretch drop-shadow-[-3px_4px_15.35px_rgba(0,0,0,0.11)] flex flex-[1_0_0] flex-col gap-[40px] items-start min-w-px relative rounded-[24px]" data-node-id="2001:413" data-name="Paare">
+              <div className="content-stretch flex flex-col h-[580px] items-center overflow-clip p-[10px] relative rounded-tl-[24px] rounded-tr-[24px] shrink-0 w-full" data-node-id="2001:414" data-name="Image">
+                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-tl-[24px] rounded-tr-[24px] size-full" src={imgImage1} />
+                <div className="-translate-x-1/2 -translate-y-1/2 absolute h-[632.49px] left-[calc(50%-112.69px)] top-1/2 w-[948.62px]" data-node-id="2001:415" data-name="artem-kovalev-fk3XUcfTAvk-unsplash 1">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgArtemKovalevFk3XUcfTAvkUnsplash1} />
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0 w-full" data-node-id="2001:416">
+                <div className="content-stretch flex flex-col items-start overflow-clip px-[40px] py-[10px] relative shrink-0 w-full" data-node-id="2001:417" data-name="Title">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:418">{`Einzelpersonen & Familien (Psychotherapie)`}</p>
+                </div>
+                <div className="content-stretch flex flex-col items-start overflow-clip px-[40px] py-[10px] relative shrink-0 w-full" data-node-id="2001:419" data-name="Description">
+                  <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[16px] tracking-[-0.48px] w-full" data-node-id="2001:420">
+                    Für Paare und Familien, die festgefahrene Muster verstehen, Konflikte lösen und wieder mehr Leichtigkeit und Verbindung in ihr gemeinsames Leben bringen möchten.
+                  </p>
+                </div>
+                <div className="content-stretch flex flex-col items-start overflow-clip px-[40px] py-[10px] relative shrink-0 w-full" data-node-id="2001:421" data-name="Themes-Title">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:422">
+                    Typische Themen
+                  </p>
+                </div>
+                <div className="content-stretch flex flex-col items-start px-[40px] relative shrink-0 w-full" data-node-id="2001:423" data-name="TAGS">
+                  <div className="content-stretch flex gap-[10px] items-start overflow-clip py-[10px] relative shrink-0 w-full" data-node-id="2001:424" data-name="Themes-Tags1">
+                    <div className="bg-[#f6f7f1] border border-solid border-white content-stretch flex items-center justify-center overflow-clip px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:425" data-name="T1">
+                      <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[13px] tracking-[-0.39px] whitespace-nowrap" data-node-id="2001:426">
+                        Kommunikation
+                      </p>
+                    </div>
+                    <div className="bg-[#f6f7f1] border border-solid border-white content-stretch flex items-center justify-center overflow-clip px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:427" data-name="T1">
+                      <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[13px] tracking-[-0.39px] whitespace-nowrap" data-node-id="2001:428">
+                        Konflikte
+                      </p>
+                    </div>
+                    <div className="bg-[#f6f7f1] border border-solid border-white content-stretch flex items-center justify-center overflow-clip px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:429" data-name="T1">
+                      <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[13px] tracking-[-0.39px] whitespace-nowrap" data-node-id="2001:430">
+                        Familiärer Stress
+                      </p>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex items-start overflow-clip py-[10px] relative shrink-0 w-full" data-node-id="2001:431" data-name="Themes-Tags2">
+                    <div className="bg-[#f6f7f1] border border-solid border-white content-stretch flex items-center justify-center overflow-clip px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:432" data-name="T1">
+                      <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[13px] tracking-[-0.39px] whitespace-nowrap" data-node-id="2001:433">
+                        Beziehungsdynamiken
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col items-center pb-[40px] relative shrink-0 w-full" data-node-id="2001:434">
+                <div className="bg-[#627c58] content-stretch flex h-[50px] items-center justify-center overflow-clip px-[30px] relative rounded-[42px] shrink-0" data-node-id="2001:435" data-name="CTA">
+                  <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[16px] text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:436">
+                    Mehr erfahren →
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[20px] items-center relative shrink-0 w-full" data-node-id="2001:437" data-name="SERVICES">
+          <div className="-translate-x-1/2 -translate-y-1/2 absolute bg-[#f6f7f1] h-[929px] left-1/2 top-1/2 w-[1920px]" data-node-id="2001:438" data-name="COLOR" />
+          <div className="content-stretch flex gap-[10px] items-start overflow-clip pb-[40px] relative shrink-0 w-full" data-node-id="2001:439" data-name="TITLE">
+            <div className="content-stretch flex flex-[1_0_0] items-start min-w-px relative" data-node-id="2001:440">
+              <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[36px] tracking-[-1.08px] whitespace-nowrap" data-node-id="2001:441">
+                Leistungen
+              </p>
+            </div>
+            <div className="content-stretch flex flex-[1_0_0] items-start justify-end min-w-px relative" data-node-id="2001:442">
+              <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[18px] tracking-[-0.54px] w-[310.977px]" data-node-id="2001:443">{`Individuelle Wege für mehr Balance, Klarheit und Wohlbefinden. `}</p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[20px] items-start justify-center relative shrink-0 w-full" data-node-id="2001:444">
+            <div className="bg-white content-stretch flex flex-[1_0_0] flex-col gap-[10px] h-[470px] items-center justify-center min-w-px overflow-clip p-[10px] relative rounded-[21px] shadow-[0px_4px_25px_3px_rgba(0,0,0,0.08)]" data-node-id="2001:445" data-name="2">
+              <div className="content-stretch flex items-start justify-center overflow-clip p-[10px] relative shrink-0 w-full" data-node-id="2001:446">
+                <div className="overflow-clip relative shrink-0 size-[229.373px]" data-node-id="2001:447">
+                  <div className="-translate-x-1/2 -translate-y-1/2 absolute left-1/2 overflow-clip size-[229.373px] top-1/2" data-node-id="2001:448">
+                    <div className="-translate-x-1/2 -translate-y-1/2 absolute h-[229.175px] left-1/2 top-1/2 w-[158.098px]" data-node-id="2001:449" data-name="Layer_1">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgLayer1} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex items-center justify-center overflow-clip relative shrink-0 w-full" data-node-id="2001:452">
+                <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:453">
+                  Psychotherapie
+                </p>
+              </div>
+              <div className="content-stretch flex items-center justify-center overflow-clip relative shrink-0 w-full" data-node-id="2001:454">
+                <div className="[word-break:break-word] font-['Satoshi:Medium'] leading-[0] not-italic relative shrink-0 text-[#627c58] text-[16px] text-center tracking-[-0.48px] w-[360.465px] whitespace-pre-wrap" data-node-id="2001:455">
+                  <p className="leading-[normal] mb-0">{` Ein geschützter Raum, um dich selbst `}</p>
+                  <p className="leading-[normal] mb-0">{`besser zu verstehen, Herausforderungen `}</p>
+                  <p className="leading-[normal]">zu bewältigen und Veränderungen zu ermöglichen.</p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-white content-stretch flex flex-[1_0_0] flex-col gap-[10px] h-[470px] items-center justify-center min-w-px overflow-clip p-[10px] relative rounded-[21px] shadow-[0px_4px_25px_3px_rgba(0,0,0,0.08)]" data-node-id="2001:456" data-name="3">
+              <div className="content-stretch flex items-start justify-center overflow-clip p-[10px] relative shrink-0 w-full" data-node-id="2001:457">
+                <div className="overflow-clip relative shrink-0 size-[229.373px]" data-node-id="2001:458">
+                  <div className="-translate-x-1/2 -translate-y-1/2 absolute left-1/2 overflow-clip size-[229.373px] top-1/2" data-node-id="2001:459">
+                    <div className="-translate-x-1/2 -translate-y-1/2 absolute h-[228.983px] left-1/2 top-1/2 w-[222.301px]" data-node-id="2001:460" data-name="Layer_1">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgLayer2} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex items-center justify-center overflow-clip relative shrink-0 w-full" data-node-id="2001:464">
+                <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:465">{`Qigong & Tai Chi`}</p>
+              </div>
+              <div className="content-stretch flex items-center justify-center overflow-clip relative shrink-0 w-full" data-node-id="2001:466">
+                <div className="[word-break:break-word] font-['Satoshi:Medium'] leading-[0] not-italic relative shrink-0 text-[#627c58] text-[16px] text-center tracking-[-0.48px] w-[360.465px] whitespace-pre-wrap" data-node-id="2001:467">
+                  <p className="leading-[normal] mb-0">{`Finde Kraft, Balance und innere Ruhe durch `}</p>
+                  <p className="leading-[normal]">langsame, bewusste Bewegungen.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex items-center justify-center overflow-clip pt-[40px] relative shrink-0 w-full" data-node-id="2001:468" data-name="CTA">
+            <a className="bg-[#627c58] content-stretch cursor-pointer flex h-[50px] items-center justify-center overflow-clip px-[30px] relative rounded-[42px] shrink-0 w-[200px]" data-node-id="2001:469" data-name="CTA">
+              <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[20px] text-left text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:470">
+                Mehr erfahren
+              </p>
+            </a>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col items-center justify-center relative shrink-0 w-full" data-node-id="2001:471" data-name="HOW IT WORKS">
+          <div className="content-stretch flex items-start justify-between overflow-clip pb-[40px] relative shrink-0 w-full" data-node-id="2001:472" data-name="TITLE">
+            <div className="content-stretch flex flex-[1_0_0] items-start min-w-px relative" data-node-id="2001:473">
+              <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[36px] tracking-[-1.08px] whitespace-nowrap" data-node-id="2001:474">
+                So läuft es ab
+              </p>
+            </div>
+            <div className="content-stretch flex flex-[1_0_0] items-start justify-end min-w-px relative" data-node-id="2001:475">
+              <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[18px] tracking-[-0.54px] w-[244.695px]" data-node-id="2001:476">
+                So starten wir gemeinsam in deine Begleitung.
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[20px] items-start justify-center relative shrink-0 w-full" data-node-id="2001:477" data-name="CARDS">
+            <div className="content-stretch flex flex-[1_0_0] flex-col h-[886px] items-start min-w-px overflow-clip relative rounded-[20px]" data-node-id="2001:478" style={{ backgroundImage: "linear-gradient(179.08180205126752deg, rgb(246, 247, 241) 18.79%, rgb(255, 255, 255) 99.472%)" }} data-name="LEFT">
+              <div className="absolute h-[1102.581px] left-[-396px] top-[-30px] w-[1034.467px]" data-node-id="2001:480" data-name="ChatGPT Image Sep 22, 2026, 10_51_25 AM 1">
+                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgChatGptImageSep222026105125Am1} />
+              </div>
+            </div>
+            <div className="bg-white content-stretch flex flex-[1_0_0] flex-col gap-[20px] items-start min-w-px relative" data-node-id="2001:481" data-name="RIGHT">
+              <div className="bg-white content-stretch drop-shadow-[-3px_9px_11.4px_rgba(0,0,0,0.08)] flex flex-col items-start px-[40px] py-[20px] relative rounded-[20px] shrink-0 w-full" data-node-id="2001:482" data-name="1">
+                <div className="content-stretch flex items-start overflow-clip pt-[20px] relative shrink-0 w-full" data-node-id="2001:483">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] tracking-[-0.72px] w-[402.223px]" data-node-id="2001:484">{`01 Kontaktaufnahme & Termin`}</p>
+                </div>
+                <div className="content-stretch flex items-start overflow-clip pb-[10px] pt-[20px] relative shrink-0 w-full" data-node-id="2001:485">
+                  <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[16px] tracking-[-0.48px] w-[507.383px]" data-node-id="2001:486">
+                    Kontaktieren Sie mich telefonisch oder per Email und wir vereinbaren einen zeitnahen Termin zu einem unverbindlichen und kostenloses Erstgespräch.
+                  </p>
+                </div>
+                <div className="content-stretch flex gap-[40px] items-start overflow-clip pb-[20px] pt-[10px] relative shrink-0 w-full" data-node-id="2001:487">
+                  <div className="content-stretch flex flex-col gap-[10px] items-center justify-center overflow-clip relative shrink-0" data-node-id="2001:488" data-name="CONTACT INFO-1">
+                    <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="2001:489" data-name="Title">
+                      <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[16px] text-center tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:490">
+                        E-mail
+                      </p>
+                    </div>
+                    <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="2001:491" data-name="Email">
+                      <p className="[word-break:break-word] font-['Satoshi:Regular'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[16px] tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:492">
+                        info@systhera-beratung.de
+                      </p>
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-col gap-[10px] items-start justify-center overflow-clip relative shrink-0" data-node-id="2001:493" data-name="CONTACT INFO-2">
+                    <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="2001:494" data-name="Title">
+                      <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[16px] text-center tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:495">
+                        Telefon
+                      </p>
+                    </div>
+                    <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="2001:496" data-name="Email">
+                      <p className="[word-break:break-word] font-['Satoshi:Regular'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[16px] tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:497">
+                        +49059029992050
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="h-[40px] relative shrink-0 w-[450px]" data-node-id="2001:498" data-name="Separator">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator1} />
+                </div>
+                <div className="content-stretch flex items-start overflow-clip pt-[20px] relative shrink-0 w-full" data-node-id="2001:500">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] tracking-[-0.72px] w-[402.223px]" data-node-id="2001:501">
+                    02 Vorbereitung
+                  </p>
+                </div>
+                <div className="content-stretch flex items-start overflow-clip py-[20px] relative shrink-0 w-full" data-node-id="2001:502">
+                  <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[16px] tracking-[-0.48px] w-[356.156px]" data-node-id="2001:503">
+                    Stellen Sie alle vorhandenen relevanten Befunde und ärztlichen Unterlagen zusammen und bringen Sie sie zu unserem Erstgespräch mit.
+                  </p>
+                </div>
+                <div className="h-[40px] relative shrink-0 w-[450px]" data-node-id="2001:504" data-name="Separator">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator2} />
+                </div>
+                <div className="content-stretch flex items-start overflow-clip pt-[20px] relative shrink-0 w-full" data-node-id="2001:506">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] tracking-[-0.72px] w-[402.223px]" data-node-id="2001:507">{`03 Erstgespräch & Therapie`}</p>
+                </div>
+                <div className="content-stretch flex items-start overflow-clip py-[20px] relative shrink-0 w-full" data-node-id="2001:508">
+                  <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[16px] tracking-[-0.48px] w-[433.906px]" data-node-id="2001:509">
+                    Im ersten Gespräch lernen wir uns kennen und entscheiden im Anschluss, ob wir uns gemeinsam auf den Weg durch die Therapie machen wollen, denn die Basis für eine erfolgreiche Psychotherapie ist Vertrauen. Nur wenn die „Chemie“ zwischen Therapeut und Patient stimmt, ist ein tiefgehender, feinfühliger, von diesem Vertrauen begleiteter Prozess erfolgreich möglich.
+                  </p>
+                </div>
+              </div>
+              <div className="bg-[#dfead7] content-stretch drop-shadow-[-3px_9px_11.4px_rgba(0,0,0,0.08)] flex flex-col items-start py-[20px] relative rounded-[20px] shrink-0 w-full" data-node-id="2001:510" data-name="3">
+                <div className="content-stretch flex gap-[9px] items-center overflow-clip px-[40px] relative shrink-0 w-full" data-node-id="2001:511">
+                  <div className="h-[25.847px] relative shrink-0 w-[29.863px]" data-node-id="2001:512" data-name="Vector">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+                  </div>
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[24px] tracking-[-0.72px] whitespace-nowrap" data-node-id="2001:513">{`Kurse (Qigong & Tai Chi)`}</p>
+                </div>
+                <div className="content-stretch flex items-start overflow-clip px-[40px] py-[20px] relative shrink-0 w-full" data-node-id="2001:514">
+                  <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[16px] tracking-[-0.48px] w-[433.906px]" data-node-id="2001:515">
+                    Sanfte Bewegung und bewusste Atmung für mehr Ruhe, Balance und Wohlbefinden.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col items-center justify-center relative shrink-0 w-full" data-node-id="2001:516" data-name="TESTIMONIALS">
+          <div className="-translate-x-1/2 -translate-y-1/2 absolute bg-[#f6f7f1] h-[989.62px] left-1/2 top-1/2 w-[1920px]" data-node-id="2001:517" data-name="COLOR" />
+          <div className="content-stretch flex items-center justify-center overflow-clip pb-[40px] relative shrink-0 w-full" data-node-id="2001:518" data-name="TITLE">
+            <div className="content-stretch flex flex-[1_0_0] items-start min-w-px relative" data-node-id="2001:519">
+              <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[36px] tracking-[-1.08px] whitespace-nowrap" data-node-id="2001:520">
+                Stimmen unserer Klienten
+              </p>
+            </div>
+            <div className="content-stretch flex gap-[10px] items-center relative shrink-0" data-node-id="2001:521">
+              <div className="bg-[#b2c492] content-stretch flex h-[52.805px] items-start p-[3px] relative rounded-[26.402px] shrink-0 w-[53.199px]" data-node-id="2001:522" data-name="Button">
+                <div className="flex items-center justify-center relative shrink-0 size-[47.199px]" data-node-id="2001:523">
+                  <div className="-rotate-135 -scale-y-100 flex-none">
+                    <div className="relative size-[33.375px]">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame630} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-[#b2c492] content-stretch flex h-[52.805px] items-start p-[3px] relative rounded-[26.402px] shrink-0" data-node-id="2001:525" data-name="Button">
+                <div className="flex items-center justify-center relative shrink-0 size-[47.199px]" data-node-id="2001:526">
+                  <div className="-rotate-45 flex-none">
+                    <div className="relative size-[33.375px]">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame631} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-center overflow-clip relative shrink-0 w-full" data-node-id="2001:528">
+            <div className="content-stretch flex gap-[20px] h-[609px] items-start overflow-clip relative shrink-0 w-full" data-node-id="2001:529">
+              <div className="content-stretch flex flex-[1_0_0] flex-col h-full items-start justify-center min-w-px overflow-clip relative rounded-[20px]" data-node-id="2001:530" data-name="Card1">
+                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[20px] size-full" src={imgCard1} />
+                <div className="content-stretch flex items-start overflow-clip p-[40px] relative shrink-0 w-full" data-node-id="2001:531" data-name="Quote">
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-start min-w-px relative" data-node-id="2001:532">
+                    <div className="h-[54.072px] relative shrink-0 w-[75.18px]" data-node-id="2001:533" data-name="“">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={img} />
+                    </div>
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-end min-w-px relative" data-node-id="2001:534">
+                    <div className="bg-[rgba(241,243,241,0.2)] border border-solid border-white content-stretch flex items-center justify-center overflow-clip px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:535" data-name="T1">
+                      <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[10px] text-white tracking-[-0.3px] whitespace-nowrap" data-node-id="2001:536">{`Praxis & Qigong`}</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] items-center justify-center min-h-px overflow-clip px-[40px] relative w-full" data-node-id="2001:537" data-name="Text">
+                  <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Regular'] leading-none min-w-px not-italic relative text-[18px] text-white tracking-[-0.54px]" data-node-id="2001:538">
+                    Ich war knapp ein Jahr wegen Angst- und Panikattacken bei Frau Facalau in Behandlung. Einen Termin bekam ich sehr schnell und fühlte mich von Anfang an wohl und verstanden.In jeder Sitzung wurde auf aktuelle Stressfaktoren und Probleme eingegangen und gemeinsam nach Lösungen gesucht, ohne ständig in der Vergangenheit zu wühlen. Die verschiedenen Betrachtungspunkte meiner Störung haben mir geholfen, besser mit mir und meinem Umfeld umzugehen. Ich hätte zu Beginn niemals gedacht, dass ich so gestärkt aus der Therapie gehen und endlich meinen beruflichen und privaten Weg gehen würde. Vielen Dank!
+                  </p>
+                </div>
+                <div className="content-stretch flex items-center overflow-clip p-[40px] relative shrink-0 w-full" data-node-id="2001:539" data-name="Name">
+                  <div className="content-stretch flex gap-[10px] items-end relative shrink-0" data-node-id="2001:540">
+                    <div className="h-[39.817px] relative shrink-0 w-0" data-node-id="2001:541">
+                      <div className="absolute inset-[0_-0.5px]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector211} />
+                      </div>
+                    </div>
+                    <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[4px] items-start justify-end leading-none not-italic relative shrink-0 text-white whitespace-nowrap" data-node-id="2001:542">
+                      <p className="relative shrink-0 text-[24px] tracking-[-0.72px]" data-node-id="2001:543">
+                        Elisabeth
+                      </p>
+                      <p className="relative shrink-0 text-[14px] tracking-[-0.42px]" data-node-id="2001:544">
+                        Mutter, 36 Jahre
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-[1_0_0] flex-col h-full items-start justify-center min-w-px overflow-clip relative rounded-[20px]" data-node-id="2001:545" data-name="Card1">
+                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[20px] size-full" src={imgCard1} />
+                <div className="content-stretch flex gap-[10px] items-start overflow-clip p-[40px] relative shrink-0 w-full" data-node-id="2001:546" data-name="Quote">
+                  <div className="h-[54.072px] relative shrink-0 w-[75.18px]" data-node-id="2001:547" data-name="“">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={img} />
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-end min-w-px relative" data-node-id="2001:548">
+                    <div className="bg-[rgba(241,243,241,0.2)] border border-solid border-white content-stretch flex items-center justify-center overflow-clip px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:549" data-name="T1">
+                      <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[10px] text-white tracking-[-0.3px] whitespace-nowrap" data-node-id="2001:550">
+                        Allgemein
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] items-center justify-center min-h-px overflow-clip px-[40px] relative w-full" data-node-id="2001:551" data-name="Text">
+                  <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Regular'] leading-none min-w-px not-italic relative text-[18px] text-white tracking-[-0.54px]" data-node-id="2001:552">
+                    Frau Facalau hört sehr genau zu und arbeitet sehr klientenzentriert und ganzheitlich. Man fühlt sich sehr gut bei ihr aufgehoben.
+                  </p>
+                </div>
+                <div className="content-stretch flex items-end overflow-clip p-[40px] relative shrink-0 w-full" data-node-id="2001:553" data-name="Name">
+                  <div className="content-stretch flex gap-[10px] items-end relative shrink-0" data-node-id="2001:554">
+                    <div className="h-[39.817px] relative shrink-0 w-0" data-node-id="2001:555">
+                      <div className="absolute inset-[0_-0.5px]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector211} />
+                      </div>
+                    </div>
+                    <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[4px] items-start justify-end leading-none not-italic relative shrink-0 text-white whitespace-nowrap" data-node-id="2001:556">
+                      <p className="relative shrink-0 text-[24px] tracking-[-0.72px]" data-node-id="2001:557">{`Sabrina & Matthias`}</p>
+                      <p className="relative shrink-0 text-[14px] tracking-[-0.42px]" data-node-id="2001:558">{`Paar, 36 & 38 Jahre`}</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-[1_0_0] flex-col h-full items-start min-w-px overflow-clip relative rounded-[20px]" data-node-id="2001:559" data-name="Card1">
+                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[20px] size-full" src={imgCard1} />
+                <div className="content-stretch flex gap-[10px] items-start overflow-clip p-[40px] relative shrink-0 w-full" data-node-id="2001:560" data-name="Quote">
+                  <div className="h-[54.072px] relative shrink-0 w-[75.18px]" data-node-id="2001:561" data-name="“">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={img} />
+                  </div>
+                  <div className="content-stretch flex flex-[1_0_0] flex-col items-end min-w-px relative" data-node-id="2001:562">
+                    <div className="bg-[rgba(241,243,241,0.2)] border border-solid border-white content-stretch flex items-center justify-center overflow-clip px-[10px] py-[5px] relative rounded-[10px] shrink-0" data-node-id="2001:563" data-name="T1">
+                      <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[10px] text-white tracking-[-0.3px] whitespace-nowrap" data-node-id="2001:564">
+                        Qigong
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-[1_0_0] items-center justify-center min-h-px overflow-clip px-[40px] relative w-full" data-node-id="2001:565" data-name="Text">
+                  <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Regular'] leading-none min-w-px not-italic relative text-[18px] text-white tracking-[-0.54px]" data-node-id="2001:566">
+                    Ich durfte die wohltuende Kraft des Qigong, einer jahrhundertealten chinesischen Praxis, die Körper, Geist und Seele in Einklang bringt bei Frau Facalau erlernen. In den Präventionskursen lernt man sanfte Bewegungen, Atemtechniken und Meditation, um Stress abzubauen, die Energie zu stärken und die Gesundheit zu fördern. Frau Facalau hat ein tiefgreifendes Fachwissen über Qigong und Ihre Leidenschaft, dieses Wissen zu vermitteln, hat mich dazu inspiriert, das volle Potenzial dieser Praktiken zu erkunden. Ihre einfühlsame Art, jeden Schritt des Weges zu begleiten, hat mich sehr in diese faszinierende Praxis eingeführt.
+                  </p>
+                </div>
+                <div className="content-stretch flex items-end overflow-clip p-[40px] relative shrink-0 w-full" data-node-id="2001:567" data-name="Name">
+                  <div className="content-stretch flex gap-[10px] items-end relative shrink-0" data-node-id="2001:568">
+                    <div className="h-[39.817px] relative shrink-0 w-0" data-node-id="2001:569">
+                      <div className="absolute inset-[0_-0.5px]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector211} />
+                      </div>
+                    </div>
+                    <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[4px] items-start justify-end leading-none not-italic relative shrink-0 text-white whitespace-nowrap" data-node-id="2001:570">
+                      <p className="relative shrink-0 text-[24px] tracking-[-0.72px]" data-node-id="2001:571">
+                        Kevin
+                      </p>
+                      <p className="relative shrink-0 text-[14px] tracking-[-0.42px]" data-node-id="2001:572">
+                        27 Jahre
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex items-center justify-center overflow-clip pt-[40px] relative shrink-0 w-full" data-node-id="2001:573">
+            <div className="h-[7.811px] relative shrink-0 w-[55.242px]" data-node-id="2001:574">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame706} />
+            </div>
+          </div>
+        </div>
+        <div className="bg-white content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="2001:579" data-name="FAQ">
+          <div className="content-stretch flex gap-[10px] items-start justify-center pb-[40px] relative shrink-0 w-full" data-node-id="2001:580">
+            <div className="content-stretch flex flex-[1_0_0] items-start min-w-px overflow-clip relative" data-node-id="2001:581" data-name="TITLE">
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Satoshi:Bold'] leading-[normal] min-w-px not-italic relative text-[#3c4d3a] text-[36px] tracking-[-1.08px]" data-node-id="2001:582">
+                Häufige Fragen
+              </p>
+            </div>
+            <div className="content-stretch flex flex-[1_0_0] items-start justify-end min-w-px overflow-clip relative" data-node-id="2001:583" data-name="SUBTITLE">
+              <div className="[word-break:break-word] font-['Satoshi:Medium'] leading-[0] not-italic relative shrink-0 text-[#627c58] text-[18px] text-right tracking-[-0.54px] whitespace-nowrap" data-node-id="2001:584">
+                <p className="leading-[normal] mb-0 whitespace-pre">{`Everything you need to know. Find answers to the `}</p>
+                <p className="leading-[normal] whitespace-pre">most common questions</p>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col gap-[40px] items-start relative shrink-0 w-full" data-node-id="2001:585">
+            <div className="bg-white content-stretch flex flex-col gap-[18px] items-start overflow-clip px-[40px] py-[24px] relative rounded-[20px] shadow-[0px_0px_24.7px_0px_rgba(0,0,0,0.1)] shrink-0 w-full" data-node-id="2001:586" data-name="Q1">
+              <div className="content-stretch flex gap-[60px] items-start relative shrink-0 w-full" data-node-id="2001:587">
+                <div className="content-stretch flex items-center justify-center relative shrink-0 w-[992.051px]" data-node-id="2001:588">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[36px] tracking-[-1.08px] w-[992.051px]" data-node-id="2001:589">
+                    Wann findet ein Erstgespräch statt, nachdem ich mich zum ersten Mal gemeldet habe?
+                  </p>
+                </div>
+                <div className="bg-[#b2c492] content-stretch flex h-[52.805px] items-start p-[3px] relative rounded-[26.402px] shrink-0" data-node-id="2001:590" data-name="Button">
+                  <div className="flex items-center justify-center relative shrink-0 size-[47.199px]" data-node-id="2001:591">
+                    <div className="-rotate-45 flex-none">
+                      <div className="relative size-[33.375px]">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame632} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="2001:593">
+                <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[16px] tracking-[-0.48px] w-[968.59px] whitespace-pre-wrap" data-node-id="2001:594">{`Ein Erstgespräch findet ,nach telefonische Vereinbarung, innerhalb von 7-10 Tage statt. Ich bin bemüht  Hilfe zur Überbrückung anzubieten für die Suchenden, die nicht rechtzeitig ein Therapieplatz finden. Meine Meinung nach, ist eine Störung zu behandeln bevor die chronisch wird.`}</p>
+              </div>
+            </div>
+            <div className="bg-white content-stretch flex flex-col gap-[18px] items-start overflow-clip px-[40px] py-[24px] relative rounded-[20px] shadow-[0px_0px_24.7px_0px_rgba(0,0,0,0.1)] shrink-0 w-full" data-node-id="2001:595" data-name="Q2">
+              <div className="content-stretch flex gap-[60px] items-start relative shrink-0 w-full" data-node-id="2001:596">
+                <div className="content-stretch flex items-center justify-center relative shrink-0 w-[992.051px]" data-node-id="2001:597">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[36px] tracking-[-1.08px] w-[992.051px]" data-node-id="2001:598">
+                    Wer trägt die Kosten für meine Behandlung?
+                  </p>
+                </div>
+                <div className="bg-[#b2c492] content-stretch flex h-[52.805px] items-start p-[3px] relative rounded-[26.402px] shrink-0" data-node-id="2001:599" data-name="Button">
+                  <div className="flex items-center justify-center relative shrink-0 size-[47.199px]" data-node-id="2001:600">
+                    <div className="-rotate-45 flex-none">
+                      <div className="relative size-[33.375px]">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame632} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="2001:602">
+                <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[16px] tracking-[-0.48px] w-[968.59px]" data-node-id="2001:603">
+                  Die Kosten für psychotherapeutische Behandlung beim Heilpraktiker wird von privaten Krankenkassen und Zusatzversicherungen anteilig oder sogar voll übernommen. Die Gesetzliche Krankenkassen übernehmen die Kosten nur nach Anfrage in Form Kostenübernahmeverfahren. Dafür müssen die Versicherten selbst sich kümmern und um ihrer Recht auf Behandlung bestehen.
+                </p>
+              </div>
+            </div>
+            <div className="bg-white content-stretch flex flex-col gap-[18px] items-start overflow-clip px-[40px] py-[24px] relative rounded-[20px] shadow-[0px_0px_24.7px_0px_rgba(0,0,0,0.1)] shrink-0 w-full" data-node-id="2001:604" data-name="Q2">
+              <div className="content-stretch flex gap-[60px] items-start relative shrink-0 w-full" data-node-id="2001:605">
+                <div className="content-stretch flex items-center justify-center relative shrink-0 w-[992.051px]" data-node-id="2001:606">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[36px] tracking-[-1.08px] w-[992.051px]" data-node-id="2001:607">
+                    Findet mein Kind hilfe, wenn es gemobbt wird?
+                  </p>
+                </div>
+                <div className="bg-[#b2c492] content-stretch flex h-[52.805px] items-start p-[3px] relative rounded-[26.402px] shrink-0" data-node-id="2001:608" data-name="Button">
+                  <div className="flex items-center justify-center relative shrink-0 size-[47.199px]" data-node-id="2001:609">
+                    <div className="-rotate-45 flex-none">
+                      <div className="relative size-[33.375px]">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame632} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="2001:611">
+                <div className="[word-break:break-word] font-['Satoshi:Medium'] leading-[0] not-italic relative shrink-0 text-[#627c58] text-[16px] tracking-[-0.48px] w-[968.59px]" data-node-id="2001:612">
+                  <p className="leading-[normal] mb-0">Ja! Kein Kind soll als Opfer der Mobbing unter psychische Störungen leiden!</p>
+                  <p className="leading-[normal]">Mobbingerfahrungen sind, leider, in der Schule ein Tabuthema. Laut wissenschaftliche Untersuchungen und Studien berichten ca. 60% der Kinder, dass sie gemobbt werden. Sich aber schämen oder sich überängstlich und einsam fühlen sind die ersten Anzeigen für Mobbing. Der Mobbing kann aber schwere Folgen für die kindliche Entwicklung und ernsthafte Störungen begünstigen. Sie können ihr Kind helfen wenn Sie rechtzeitig reagieren und eine professionelle Behandlung ihm ermöglichen.</p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-white content-stretch flex flex-col items-start overflow-clip px-[40px] py-[24px] relative rounded-[20px] shadow-[0px_0px_24.7px_0px_rgba(0,0,0,0.1)] shrink-0 w-full" data-node-id="2001:613" data-name="Q2">
+              <div className="content-stretch flex gap-[60px] items-start relative shrink-0 w-full" data-node-id="2001:614">
+                <div className="content-stretch flex items-center justify-center relative shrink-0 w-[992.051px]" data-node-id="2001:615">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[#3c4d3a] text-[36px] tracking-[-1.08px] w-[992.051px]" data-node-id="2001:616">
+                    Ich bin regelmäßig beim Heilpraktiker in Behandlung – die dürfen doch noch öffnen?
+                  </p>
+                </div>
+                <div className="bg-[#b2c492] content-stretch flex h-[52.805px] items-start p-[3px] relative rounded-[26.402px] shrink-0" data-node-id="2001:617" data-name="Button">
+                  <div className="flex items-center justify-center relative shrink-0 size-[47.199px]" data-node-id="2001:618">
+                    <div className="-rotate-45 flex-none">
+                      <div className="relative size-[33.375px]">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame633} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col gap-[20px] items-center justify-center pt-[40px] relative shrink-0 w-full" data-node-id="2001:620" data-name="CTA">
+            <div className="content-stretch flex items-center justify-center px-[10px] relative shrink-0 w-full" data-node-id="2001:621" data-name="Any Questions Left">
+              <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[#627c58] text-[18px] text-center tracking-[-0.54px] whitespace-nowrap" data-node-id="2001:622">
+                Noch Fragen? Wir sind gerne für Sie da!
+              </p>
+            </div>
+            <a className="bg-[#627c58] content-stretch cursor-pointer flex h-[50px] items-center justify-center overflow-clip px-[30px] relative rounded-[42px] shrink-0 w-[200px]" data-node-id="2001:623" data-name="CTA">
+              <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[16px] text-left text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:624">
+                Kontakt
+              </p>
+            </a>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[160px] items-center relative shrink-0 w-full" data-node-id="2001:625" data-name="END">
+          <div className="content-stretch flex flex-col items-center relative rounded-[21px] shrink-0 w-full" data-node-id="2001:626" data-name="FINAL CTA">
+            <div className="content-stretch flex flex-col gap-[23px] h-[325px] items-center justify-center py-[80px] relative rounded-[20px] shrink-0 w-full" data-node-id="2001:627" data-name="FINAL CTA">
+              <div className="-translate-x-1/2 absolute bg-white bottom-[-104px] h-[505px] left-1/2 overflow-clip w-[1924px]" data-node-id="2001:629">
+                <div className="-translate-x-1/2 -translate-y-1/2 absolute h-[2887.082px] left-[calc(50%+0.48px)] top-[calc(50%-617.77px)] w-[1924.956px]" data-node-id="2001:630" data-name="xinyi-wen-kx0u_n5sHi8-unsplash 1">
+                  <div aria-hidden className="absolute inset-0 pointer-events-none">
+                    <img alt="" className="absolute max-w-none object-cover size-full" src={imgXinyiWenKx0UN5SHi8Unsplash1} />
+                    <div className="absolute bg-[rgba(0,0,0,0.4)] inset-0" />
+                  </div>
+                </div>
+              </div>
+              <div className="content-stretch flex flex-col gap-[23px] items-center justify-center relative shrink-0" data-node-id="2001:631">
+                <div className="content-stretch flex flex-col items-center justify-center overflow-clip p-[10px] relative shrink-0 w-[1440px]" data-node-id="2001:632">
+                  <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[1.12] not-italic relative shrink-0 text-[52px] text-center text-white tracking-[-1.56px] w-full" data-node-id="2001:633">
+                    Bereit für den ersten Schritt?
+                  </p>
+                </div>
+                <div className="border border-solid border-white content-stretch flex h-[50px] items-center justify-center overflow-clip px-[30px] py-[15px] relative rounded-[42px] shrink-0 w-[200px]" data-node-id="2001:634" data-name="CTA">
+                  <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[16px] text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:635">
+                    Book Session
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="bg-[#43673c] content-stretch flex flex-col items-center pb-[80px] relative shrink-0 w-full" data-node-id="2001:636" data-name="FOOTER">
+            <div className="absolute flex h-[1471.833px] items-center justify-center left-[-736.13px] top-[-57px] w-[2616.592px]" data-node-id="2001:637">
+              <div className="flex-none rotate-180">
+                <div className="h-[1471.833px] relative w-[2616.592px]">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame219} />
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex items-start justify-end overflow-clip relative shrink-0 w-full" data-node-id="2001:645">
+              <button className="block cursor-pointer h-[56.024px] relative shrink-0 w-[259.914px]" data-node-id="2001:646">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame658} />
+              </button>
+              <div className="content-stretch flex flex-[1_0_0] gap-[191px] items-start min-w-px pl-[255px] pr-[140px] relative" data-node-id="2001:648">
+                <div className="content-stretch flex flex-col items-start justify-center relative shrink-0" data-node-id="2001:649" data-name="Discover">
+                  <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0" data-node-id="2001:650">
+                    <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:651">
+                      <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] w-[77px]" data-node-id="2001:652">
+                        Discover
+                      </p>
+                    </div>
+                    <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:653">
+                      <p className="relative shrink-0" data-node-id="2001:654">
+                        About Me
+                      </p>
+                      <p className="relative shrink-0" data-node-id="2001:655">
+                        Services
+                      </p>
+                      <p className="relative shrink-0" data-node-id="2001:656">
+                        How it Works
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col gap-[20px] items-start justify-center relative shrink-0" data-node-id="2001:657" data-name="More">
+                  <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:658">
+                    <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:659">
+                      More
+                    </p>
+                  </div>
+                  <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:660">
+                    <p className="relative shrink-0" data-node-id="2001:661">
+                      Blog
+                    </p>
+                    <p className="relative shrink-0" data-node-id="2001:662">
+                      Testimonials
+                    </p>
+                    <p className="relative shrink-0" data-node-id="2001:663">
+                      FAQ
+                    </p>
+                    <p className="relative shrink-0" data-node-id="2001:664">
+                      Kontakt
+                    </p>
+                  </div>
+                </div>
+                <div className="content-stretch flex flex-col gap-[20px] items-start justify-center relative shrink-0" data-node-id="2001:665" data-name="More">
+                  <div className="content-stretch flex items-center relative shrink-0" data-node-id="2001:666">
+                    <p className="[word-break:break-word] font-['Satoshi:Bold'] leading-[normal] not-italic relative shrink-0 text-[20px] text-center text-white tracking-[-0.6px] whitespace-nowrap" data-node-id="2001:667">
+                      Legal
+                    </p>
+                  </div>
+                  <div className="[word-break:break-word] content-stretch flex flex-col font-['Satoshi:Medium'] gap-[3px] items-start justify-center not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:668">
+                    <p className="leading-[normal] relative shrink-0" data-node-id="2001:669">
+                      Prices
+                    </p>
+                    <a className="block cursor-pointer leading-[0] relative shrink-0" data-node-id="2001:670">
+                      <p className="leading-[normal]">Impressum</p>
+                    </a>
+                    <a className="block cursor-pointer leading-[0] relative shrink-0" data-node-id="2001:671">
+                      <p className="leading-[normal]">Datenschutz</p>
+                    </a>
+                    <a className="block cursor-pointer leading-[0] relative shrink-0" data-node-id="2001:672">
+                      <p className="leading-[normal]">AGB</p>
+                    </a>
+                    <a className="block cursor-pointer leading-[0] relative shrink-0" data-node-id="2001:673">
+                      <p className="leading-[normal]">Haftungausschluss</p>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="h-[80px] relative shrink-0 w-[1440px]" data-node-id="2001:674" data-name="SEPARATOR">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator3} />
+            </div>
+            <div className="content-stretch flex gap-[3px] items-center relative shrink-0 w-full" data-node-id="2001:676">
+              <div className="content-stretch flex flex-[1_0_0] items-center min-w-px relative" data-node-id="2001:677">
+                <p className="[word-break:break-word] font-['Satoshi:Medium'] leading-[normal] not-italic relative shrink-0 text-[16px] text-center text-white tracking-[-0.48px] whitespace-nowrap" data-node-id="2001:678">
+                  ©2026 Systhera Beratung. All rights reserved.
+                </p>
+              </div>
+              <div className="content-stretch flex flex-[1_0_0] gap-[10px] items-center justify-end min-w-px relative" data-node-id="2001:679" data-name="Legal">
+                <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:680" data-name="Social Icons">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons} />
+                </div>
+                <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:681" data-name="Social Icons">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons1} />
+                </div>
+                <div className="relative shrink-0 size-[23.065px]" data-node-id="2001:682" data-name="Social Icons">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSocialIcons2} />
+                </div>
+              </div>
+            </div>
+            <div className="h-[80px] relative shrink-0 w-[1440px]" data-node-id="2001:683" data-name="SEPARATOR">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeparator3} />
+            </div>
+            <div className="content-stretch flex items-center justify-center relative shrink-0 w-full" data-node-id="2001:685">
+              <p className="[word-break:break-word] font-['Satoshi:Regular'] leading-[normal] not-italic relative shrink-0 text-[15px] text-center text-white tracking-[-0.45px] whitespace-nowrap" data-node-id="2001:686">{`Powered by Rares Faur & Vlad Veltan`}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+Images and SVGs will be stored as constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.
