@@ -14,7 +14,11 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params;
   if (!isLocale(locale)) return {};
   const content = (await getPageContent(locale)).site;
-  return { title: { default: "Systhera Beratung | Simona Facalau", template: "%s | Systhera Beratung" }, description: content.approach.intro };
+  return {
+    title: { default: "Systhera Beratung | Simona Facalau", template: "%s | Systhera Beratung" },
+    description: content.approach.intro,
+    icons: { icon: "/favicon.ico", shortcut: "/favicon.ico" },
+  };
 }
 
 export default async function LocaleLayout({ children, params }: { children: React.ReactNode; params: Promise<{ locale: string }> }) {

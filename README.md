@@ -77,3 +77,7 @@ Framework setup follows the official [Next.js installation](https://nextjs.org/d
 ## CMS development
 
 Read [Firebase CMS setup](docs/firebase-setup.md) for installation, deployment, editorial workflows, emulator tests, and architecture. The implementation separates content models, validation, authentication, database access, API handlers, and UI in line with the project’s SOLID/single-responsibility principles.
+
+## Favicon
+
+The production app serves its custom 64 px ICO from `src/app/favicon.ico`; its SVG source is in `src/app/favicon-source.svg`. Requests for `/favicon.ico` resolve to this static asset, not a locale route.
