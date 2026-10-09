@@ -360,3 +360,16 @@ details[open] .faq-symbol img { transform: rotate(45deg); }
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition: none !important; animation: none !important; }
 }
+
+/* CMS-backed service catalogue and enquiry form. */
+.service-preview-photo { width: 230px; height: 230px; margin: 0 auto 20px; }
+.service-preview-photo img { object-fit: contain; }
+.service-price { font-size: 24px; font-weight: 700; padding: 18px 0; }
+.service-price span { font-size: 16px; font-weight: 400; }
+.contact-form .service-select { display: grid; gap: 8px; margin-bottom: 18px; }
+.contact-form select { font: inherit; color: inherit; width: 100%; padding: 14px; border: 1px solid #9ead91; border-radius: 8px; background: white; }
+.contact-form .contact-consent { display: flex; align-items: flex-start; gap: 12px; margin: 18px 0; font-size: 14px; }
+.contact-form .contact-consent input { width: 20px; min-width: 20px; height: 20px; margin: 2px 0 0; }
+.contact-consent a { text-decoration: underline; }
+.contact-honeypot { position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden; }
+.contact-form button:disabled { opacity: .6; cursor: default; }

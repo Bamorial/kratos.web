@@ -6,3 +6,7 @@ node_modules/
 *.tsbuildinfo
 test-results/
 playwright-report/
+
+.firebase/
+*-debug.log
+*.log

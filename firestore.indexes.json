@@ -1,0 +1,12 @@
+{
+  "indexes": [],
+  "fieldOverrides": [
+    { "collectionGroup": "cms_content", "fieldPath": "draft", "indexes": [] },
+    { "collectionGroup": "cms_content", "fieldPath": "published", "indexes": [] },
+    { "collectionGroup": "cms_articles", "fieldPath": "draft", "indexes": [] },
+    { "collectionGroup": "cms_articles", "fieldPath": "published", "indexes": [] },
+    { "collectionGroup": "cms_services", "fieldPath": "draft", "indexes": [] },
+    { "collectionGroup": "cms_services", "fieldPath": "published", "indexes": [] },
+    { "collectionGroup": "bookings", "fieldPath": "message", "indexes": [] }
+  ]
+}

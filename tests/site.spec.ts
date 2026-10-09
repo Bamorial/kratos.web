@@ -52,7 +52,7 @@ test("mobile pages fit the viewport, menus work, and contact validates input", a
   await expect(page.getByRole("navigation", { name: "Menü", exact: true })).toBeVisible();
   await page.getByRole("navigation", { name: "Menü", exact: true }).getByRole("link", { name: "Kontakt", exact: true }).click();
   await expect(page).toHaveURL(/\/de\/contact$/);
-  await page.getByRole("button", { name: "E-Mail vorbereiten" }).click();
+  await page.getByRole("button", { name: "Anfrage senden" }).click();
   await expect(page.getByRole("textbox", { name: "Name", exact: true })).toBeFocused();
   for (const route of ["/de", "/en", "/ro", "/de/about", "/de/contact", "/de/blog", "/de/services", "/de/privacy", "/de/terms", "/de/impressum", "/de/disclaimer", "/de/blog/self-understanding"]) {
     await page.goto(route);

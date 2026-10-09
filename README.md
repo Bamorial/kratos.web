@@ -46,7 +46,7 @@ Browser tests use installed Google Chrome and start the production build on port
 
 ## Deploy to Vercel
 
-Import the repository, set the project **Root Directory** to `kratos.web`, select **Next.js**, and use Node.js 22. The build command is `npm run build`; use the default Next.js output settings. This V1 implementation does not require environment variables or a database. No deployment has been created by this implementation.
+Import the repository, set the project **Root Directory** to `kratos.web`, select **Next.js**, and use Node.js 22. The build command is `npm run build`; use the default Next.js output settings. The public site falls back to the bundled content until Firebase is configured. See [Firebase CMS setup](docs/firebase-setup.md) for environment variables, Firestore rules, administrator access, and deployment. No live deployment has been created.
 
 ## Structure
 
@@ -61,15 +61,19 @@ Import the repository, set the project **Root Directory** to `kratos.web`, selec
 - Responsive first pass of every designed page, with working navigation and a shared header/footer. The layout is adapted for intermediate screen widths rather than copying Figma's absolute coordinates.
 - German, English, and Romanian navigation, landing content, contact, about, services, blog summaries, and the main article are implemented. **Legal documents still use their German source text**, with an explicit notice in English and Romanian. Their full translations remain to be supplied.
 - Figma includes one complete article and five excerpts. The five corresponding pages show their available excerpts; full article bodies remain to be supplied.
-- Contact prepares a `mailto:` draft in the visitor's email client; it does not submit or store messages. An email delivery provider is needed for a server-submitted form.
+- Contact submits enquiries to Firestore after validation and consent. Administrators view them in `/admin`; replies open the email client. Firebase credentials and the rate-limit secret are required.
 - The services design contains a Qigong block followed by a large empty area. This implementation adds a therapy section using existing landing content so that both service links have useful destinations.
 - Social icons are retained visually; profile URLs were absent from the source and are not invented.
 - The German legal/cookie text is a transcription of the supplied design. It mentions the previous WordPress/Divi/Complianz setup, Google Fonts and maps; those integrations are not part of this app. Updating that content to describe this implementation is outstanding. Cookie preferences are not simulated: the app has no analytics, tracking, or cookie-consent storage.
 - German landing copy has minor editorial corrections; FAQ wording avoids asserting unverified insurance coverage or outdated opening restrictions. English and Romanian marketing translations are initial implementation copy.
-- Payload CMS, admin authentication, database, media storage, and CMS deployment are V2 per `specs.md` and are not implemented in this pass.
+- V2 now uses an integrated Firestore CMS and Firebase Authentication, following the newer Firestore requirement instead of the original Payload plan. Texts, translations, articles, services/prices, and enquiries are managed at `/admin`. Images use bundled assets or HTTPS URLs; uploads and automated emails are not implemented.
 
 ## Fonts and assets
 
 Satoshi is sourced from [Fontshare](https://www.fontshare.com/fonts/satoshi). Exact font source URLs are recorded in `design/fonts.css`. The Figma export provenance is in `design/assets.json`; `scripts/download-assets.py` can re-download the exports while their source URLs remain valid. Keep image usage and source rights aligned with the supplied design.
 
 Framework setup follows the official [Next.js installation](https://nextjs.org/docs/app/getting-started/installation) and [internationalization](https://nextjs.org/docs/app/guides/internationalization) guides.
+
+## CMS development
+
+Read [Firebase CMS setup](docs/firebase-setup.md) for installation, deployment, editorial workflows, emulator tests, and architecture. The implementation separates content models, validation, authentication, database access, API handlers, and UI in line with the project’s SOLID/single-responsibility principles.
